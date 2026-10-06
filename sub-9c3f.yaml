@@ -1,344 +1,38 @@
 {
  "proxies": [
   {
-   "name": "🇭🇰HK_2_1.4MB/s",
-   "server": "14.17.78.146",
-   "port": 14343,
+   "name": "🇨🇳_中国_44",
+   "server": "27.44.143.169",
+   "port": 33102,
    "udp": true,
    "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
+   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision-udp443",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_50",
-   "server": "27.155.117.209",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
+   "servername": "sgg.knhqf.com",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub",
-   "server": "209.248.32.116",
-   "port": 28101,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "209.248.32.116",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-1",
-   "server": "209.248.32.116",
-   "port": 28147,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇭🇰HK_4_5.4MB/s",
-   "server": "27.44.143.169",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision-udp443",
-   "network": "tcp"
-  },
-  {
-   "name": "🇹🇼_台湾_13",
-   "server": "130.211.240.128",
+   "name": "🇭🇰_香港_147",
+   "server": "175.29.23.179",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "31a40f42-4ad6-4a32-a760-71102b459584",
+   "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "qvekI7tKB1NDnZA6JcS_24aV4n8mlCbI3SFvkRr22wg",
-    "short-id": "d74a6321deec9f31"
-   },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_52",
-   "server": "14.17.78.144",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇸🇬SG_1_1.1MB/s",
-   "server": "112.49.63.11",
-   "port": 33102,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sgg.knhqf.com",
-   "flow": "xtls-rprx-vision-udp443",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_58",
-   "server": "27.44.143.169",
-   "port": 33102,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sgg.knhqf.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_51",
-   "server": "27.44.143.169",
-   "port": 33102,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sgg.knhqf.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_56",
-   "server": "27.44.143.169",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_6",
-   "server": "112.49.63.11",
-   "port": 33102,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sgg.knhqf.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-2",
-   "server": "209.248.32.116",
-   "port": 28158,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇨🇳_中国_55",
-   "server": "27.155.117.209",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-3",
-   "server": "209.248.32.116",
-   "port": 28153,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-4",
-   "server": "211.20.156.191",
-   "port": 28138,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-5",
-   "server": "209.248.32.116",
-   "port": 28157,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-6",
-   "server": "209.248.32.116",
-   "port": 28163,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇨🇳_中国_53",
-   "server": "14.17.78.146",
-   "port": 14343,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "192.9.158.245",
-   "port": 20019,
-   "udp": true,
-   "type": "trojan",
-   "password": "b837a998138d4c0a",
-   "sni": "sa245.moldscience.cc",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇸🇬SG_2_4.4MB/s",
-   "server": "27.44.143.169",
-   "port": 33102,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sgg.knhqf.com",
-   "flow": "xtls-rprx-vision-udp443",
-   "network": "tcp"
-  },
-  {
-   "name": "🇯🇵JP_1_1.2MB/s",
-   "server": "45.32.52.173",
-   "port": 8886,
-   "udp": true,
-   "type": "trojan",
-   "password": "e26a229d-e8f2-4ff9-8c7d-58a9d83ee437",
-   "sni": "45.32.52.173",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "❓Other_2_4.3MB/s",
-   "server": "35.180.75.226",
-   "port": 443,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-cfb",
-   "password": "amazonskr05"
-  },
-  {
-   "name": "🇫🇷_法国_FRA_2",
-   "server": "35.181.55.52",
-   "port": 443,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-cfb",
-   "password": "amazonskr05"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-8",
-   "server": "211.20.156.191",
-   "port": 28163,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇺🇸US_15_4.2MB/s",
-   "server": "18.208.223.39",
-   "port": 443,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-cfb",
-   "password": "amazonskr05"
-  },
-  {
-   "name": "_By_EbraSha_⛓️",
-   "server": "104.243.33.154",
-   "port": 45299,
-   "udp": true,
-   "type": "vless",
-   "uuid": "261f011c-e97a-4d72-b596-e6329b50b47b",
-   "network": "tcp"
-  },
-  {
-   "name": "🇨🇳_中国_215",
-   "server": "129.211.188.184",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "jp3.yohototo.top",
+   "servername": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
    "network": "ws",
    "ws-opts": {
-    "path": "/tyxyws",
+    "path": "/glasspanel/guest000_0_5de14443985f/",
     "headers": {
-     "Host": "jp3.yohototo.top"
+     "Host": "fzo5i.ir46.90k.hh.ov0.kdns.fr"
     }
    }
   },
   {
-   "name": "🇨🇳_中国_5",
+   "name": "🇨🇳_中国_13",
    "server": "36.248.14.90",
    "port": 14343,
    "udp": true,
@@ -351,40 +45,47 @@
    "network": "tcp"
   },
   {
-   "name": "🇩🇪_德国_75",
-   "server": "31.77.109.35",
-   "port": 443,
+   "name": "_By_EbraSha_🔋",
+   "server": "89.213.119.126",
+   "port": 2086,
    "udp": true,
    "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "uuid": "a5c988df-58e5-4b5c-bcb7-1e7d7e41f141",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/api/v2/xtrnwqjbkr?ed=2560",
+    "headers": {
+     "Host": "www.tesla.com"
+    }
+   }
+  },
+  {
+   "name": "CN【机场推荐：https_//a9a.xyz】1",
+   "server": "27.44.143.169",
+   "port": 33102,
+   "udp": true,
+   "type": "vless",
+   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "d3-de1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
-    "short-id": "494afdc75f8c2fa8"
-   },
-   "client-fingerprint": "ios",
+   "servername": "sgg.knhqf.com",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "🇺🇸_www.v2nodes.com_trojan-US-..._2",
-   "server": "167.82.76.27",
-   "port": 443,
+   "name": "美国+CloudFlare节点",
+   "server": "104.21.12.116",
+   "port": 8880,
    "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
+   "type": "vless",
+   "uuid": "2a8cafda-479d-4e30-82d1-0bd4c6da6db9",
    "network": "ws",
    "ws-opts": {
-    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
+    "path": "/pyip=ProxyIP.US.CMLiussss.net",
     "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+     "Host": "delicate-meadow-15da.423-c77.workers.dev"
     }
-   },
-   "skip-cert-verify": true,
-   "tls": true
+   }
   },
   {
    "name": "🇺🇸US_21_3.3MB/s",
@@ -396,7 +97,163 @@
    "password": "amazonskr05"
   },
   {
-   "name": "DE【机场推荐：https_//a9a.xyz】4",
+   "name": "vless-1314768258",
+   "server": "87.251.17.12",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.samsung.com",
+   "reality-opts": {
+    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+    "short-id": "cc981b746a300649"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇫🇷FR_55_374KB/s_01",
+   "server": "104.24.152.211",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "a7b8b48e-1000-46f5-a974-f6606d94f3b4",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/pyip=ProxyIP.SG.CMLiussss.net",
+    "headers": {
+     "Host": "misty-hill-4b94.146-c18.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "✰𝗝𝗼𝗶𝗻",
+   "server": "199.232.78.101",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_67",
+   "server": "199.232.78.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "9830",
+   "server": "199.232.78.101",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@Capoit",
+   "server": "167.82.76.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/NLSus---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@Capoit-1",
+   "server": "199.232.78.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@v2ray313",
+   "server": "199.232.78.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇫🇷FR_139_370KB/s_C002-260622_01",
+   "server": "104.16.100.215",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "c6d29888-78d5-446a-b2f0-f3968e6d1634",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "lingering-cherry-5f41.42-08a.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🔌",
    "server": "31.77.109.35",
    "port": 443,
    "udp": true,
@@ -409,12 +266,59 @@
     "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
     "short-id": "494afdc75f8c2fa8"
    },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "9826",
+   "server": "167.82.76.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪_德国_22",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "9782",
+   "name": "_By_EbraSha_💣",
+   "server": "45.32.52.173",
+   "port": 8886,
+   "udp": true,
+   "type": "trojan",
+   "password": "e26a229d-e8f2-4ff9-8c7d-58a9d83ee437",
+   "sni": "45.32.52.173",
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@tootffarangi🍓-8",
    "server": "167.82.76.27",
    "port": 443,
    "udp": true,
@@ -423,7 +327,115 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "_By_EbraSha_📼",
+   "server": "2.27.61.143",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "0243cef3-6acd-4cfe-8134-73c10375e61b",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "qwe111.moneyvpn.org",
+   "reality-opts": {
+    "public-key": "J9yuGstyASp2Y4uKucVAp5lfS6IWwXgcZu45iMHcnjM",
+    "short-id": "8622922189abcdef"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1314768235",
+   "server": "31.76.104.164",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.samsung.com",
+   "reality-opts": {
+    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+    "short-id": "cc981b746a300649"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🛠️41@oneclickvpnkeys",
+   "server": "167.82.76.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "9792",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_65",
+   "server": "199.232.78.101",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_133",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
     }
@@ -450,79 +462,61 @@
    "tls": true
   },
   {
-   "name": "vless-1634480559",
-   "server": "163.245.52.91",
+   "name": "9795",
+   "server": "199.232.78.160",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
    },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "🇩🇪_德国_67",
-   "server": "163.245.52.91",
+   "name": "🇺🇸_美国_113",
+   "server": "167.82.76.7",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
    },
-   "client-fingerprint": "safari",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-9",
-   "server": "31.77.109.35",
+   "name": "🇺🇸_美国_136",
+   "server": "167.82.76.7",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-de1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
-    "short-id": "494afdc75f8c2fa8"
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
    },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "🇩🇪_德国_48",
-   "server": "31.77.109.35",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-de1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
-    "short-id": "494afdc75f8c2fa8"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_145",
+   "name": "9784",
    "server": "167.82.76.27",
    "port": 443,
    "udp": true,
@@ -531,47 +525,13 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/",
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
     }
    },
    "skip-cert-verify": true,
    "tls": true
-  },
-  {
-   "name": "🇺🇸_美国_71",
-   "server": "34.187.170.146",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "dffab367-7769-4c6c-86f2-66fc6bd03003",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM",
-    "short-id": "f1955f72763eb2fb"
-   },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
-  },
-  {
-   "name": "US【机场推荐：https_//a9a.xyz】24",
-   "server": "34.187.170.146",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "dffab367-7769-4c6c-86f2-66fc6bd03003",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM",
-    "short-id": "f1955f72763eb2fb"
-   },
-   "client-fingerprint": "qq",
-   "network": "tcp"
   },
   {
    "name": "✅-1",
@@ -583,7 +543,7 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/",
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
     }
@@ -610,7 +570,7 @@
    "tls": true
   },
   {
-   "name": "@Capoit",
+   "name": "10",
    "server": "167.82.76.7",
    "port": 443,
    "udp": true,
@@ -619,7 +579,7 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/NLSus---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11/---@npv_vpn11---@npv_vpn11",
+    "path": "/",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
     }
@@ -628,60 +588,7 @@
    "tls": true
   },
   {
-   "name": "🇺🇸_美国_12",
-   "server": "34.187.170.146",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "dffab367-7769-4c6c-86f2-66fc6bd03003",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM",
-    "short-id": "f1955f72763eb2fb"
-   },
-   "client-fingerprint": "qq",
-   "network": "tcp"
-  },
-  {
-   "name": "9825",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "_By_EbraSha_🌑",
-   "server": "104.245.103.36",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "30141a8e-1b78-4f4b-88d3-1b0c90042256",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "✰𝗝𝗼𝗶𝗻",
+   "name": "✰𝗝𝗼𝗶𝗻-1",
    "server": "167.82.76.27",
    "port": 443,
    "udp": true,
@@ -691,71 +598,6 @@
    "network": "ws",
    "ws-opts": {
     "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇺🇸_美国_196",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-10",
-   "server": "209.248.32.116",
-   "port": 28118,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇺🇸_美国_224",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "9784",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
     }
@@ -782,7 +624,25 @@
    "tls": true
   },
   {
-   "name": "9826",
+   "name": "9787",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "✅-3",
    "server": "167.82.76.7",
    "port": 443,
    "udp": true,
@@ -791,9 +651,63 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "path": "/",
     "headers": {
      "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "9783",
+   "server": "199.232.78.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "vless-1314768244",
+   "server": "87.251.17.12",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.samsung.com",
+   "reality-opts": {
+    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+    "short-id": "cc981b746a300649"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
     }
    },
    "skip-cert-verify": true,
@@ -818,7 +732,25 @@
    "tls": true
   },
   {
-   "name": "vless-1661220764",
+   "name": "🇺🇸_www.v2nodes.com_trojan-US-..._2",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪_德国_23",
    "server": "163.245.52.91",
    "port": 443,
    "udp": true,
@@ -836,22 +768,40 @@
    "network": "tcp"
   },
   {
-   "name": "vless-1635643561",
-   "server": "163.245.52.91",
+   "name": "kurdconfig",
+   "server": "199.232.78.160",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
    },
-   "client-fingerprint": "safari",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "9789",
+   "server": "199.232.78.101",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "9794",
@@ -872,97 +822,25 @@
    "tls": true
   },
   {
-   "name": "vless-1633309429",
-   "server": "163.245.52.91",
-   "port": 443,
+   "name": "vless-1314768256",
+   "server": "31.76.104.164",
+   "port": 2053,
    "udp": true,
    "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
+   "servername": "www.samsung.com",
    "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
+    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+    "short-id": "cc981b746a300649"
    },
-   "client-fingerprint": "edge",
+   "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1635883534",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_136",
-   "server": "167.82.76.7",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇩🇪_德国_59",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "vless-1634467107",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇩🇪_德国_11",
+   "name": "_By_EbraSha_🪐",
    "server": "163.245.52.91",
    "port": 443,
    "udp": true,
@@ -980,346 +858,7 @@
    "network": "tcp"
   },
   {
-   "name": "✅-3",
-   "server": "199.232.78.160",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-11",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "9780",
-   "server": "167.82.76.7",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1653654158",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "vless-1656817243",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "safari",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_197",
-   "server": "167.82.76.7",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-12",
-   "server": "209.248.32.116",
-   "port": 28162,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1636575941",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-13",
-   "server": "209.248.32.116",
-   "port": 28164,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@prrofile_purple",
-   "server": "199.232.78.160",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1661220782",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "safari",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-14",
-   "server": "199.232.78.160",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@tootffarangi🍓-8",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇩🇪_德国_65",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "9787",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-15",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "9783",
-   "server": "199.232.78.160",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-16",
-   "server": "209.248.32.116",
-   "port": 28169,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "US【机场推荐：https_//a9a.xyz】7",
-   "server": "167.82.76.27",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇩🇪_德国_74",
-   "server": "31.77.109.35",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-de1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
-    "short-id": "494afdc75f8c2fa8"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇩🇪_德国_66",
+   "name": "🇩🇪_德国_26",
    "server": "163.245.52.91",
    "port": 443,
    "udp": true,
@@ -1337,201 +876,7 @@
    "network": "tcp"
   },
   {
-   "name": "🇩🇪_德国_60",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🛸",
-   "server": "189.74.114.123",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "84c9ff14-75b9-420b-8a5c-dc25e19ec11a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "api.mediagavan.cc",
-   "reality-opts": {
-    "public-key": "r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs",
-    "short-id": "a8"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_♠️",
-   "server": "34.187.170.146",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "dffab367-7769-4c6c-86f2-66fc6bd03003",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "LYnDDS0AkBwVeeTyIEE5MhrTV_PZO5f1qBAbMN6z4HM",
-    "short-id": "f1955f72763eb2fb"
-   },
-   "client-fingerprint": "safari",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-17",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-18",
-   "server": "45.76.51.23",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1635561471",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "vless-1649635554",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-19",
-   "server": "209.248.32.116",
-   "port": 28152,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇨🇳_中国_212",
-   "server": "129.211.188.184",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "jp3.yohototo.top",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/tyxyws",
-    "headers": {
-     "Host": "jp3.yohototo.top"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-20",
-   "server": "211.20.156.191",
-   "port": 28161,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1649992038",
-   "server": "163.245.52.91",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@prrofile_purple-1",
-   "server": "167.82.76.7",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇩🇪_德国_73",
+   "name": "🇩🇪_德国_34",
    "server": "31.77.109.35",
    "port": 443,
    "udp": true,
@@ -1549,7 +894,164 @@
    "network": "tcp"
   },
   {
-   "name": "✅-4",
+   "name": "🇩🇪_德国_30",
+   "server": "31.77.109.35",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-de1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
+    "short-id": "494afdc75f8c2fa8"
+   },
+   "client-fingerprint": "ios",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "9778",
+   "server": "199.232.78.101",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "9782",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_119",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "RU【机场推荐：https_//a9a.xyz】11",
+   "server": "188.130.209.216",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "444623e9-f27d-487c-b7cc-436931967e79",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "emaar.ru",
+   "reality-opts": {
+    "public-key": "M7yPV6xLi9h6EevpqZfXLZBuxoey8kz1c6Bh0pK5fho",
+    "short-id": "170ab9ced015571f"
+   },
+   "client-fingerprint": "safari",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1314768240",
+   "server": "87.251.17.11",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.samsung.com",
+   "reality-opts": {
+    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
+    "short-id": "cc981b746a300649"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_德国_25",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "104.18.35.86",
+   "port": 2096,
+   "udp": true,
+   "type": "trojan",
+   "password": "123456",
+   "sni": "321dfbc6.uir-9i6.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "321dfbc6.uir-9i6.pages.dev"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇳_中国_16",
+   "server": "27.44.143.169",
+   "port": 33102,
+   "udp": true,
+   "type": "vless",
+   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "sgg.knhqf.com",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇺🇸_美国_124",
    "server": "167.82.76.7",
    "port": 443,
    "udp": true,
@@ -1567,51 +1069,139 @@
    "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-21",
-   "server": "209.248.32.116",
-   "port": 28121,
+   "name": "_By_EbraSha_⚔️",
+   "server": "188.130.209.216",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "444623e9-f27d-487c-b7cc-436931967e79",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "emaar.ru",
+   "reality-opts": {
+    "public-key": "M7yPV6xLi9h6EevpqZfXLZBuxoey8kz1c6Bh0pK5fho",
+    "short-id": "170ab9ced015571f"
+   },
+   "client-fingerprint": "safari",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🥷",
+   "server": "157.228.155.238",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "4d852af3-a121-41aa-9aed-4ca40a6f7b4d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I",
+    "short-id": "6f76ad09"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@tootffarangi🍓-9",
+   "server": "199.232.78.101",
+   "port": 443,
    "udp": true,
    "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
+   },
    "skip-cert-verify": true,
    "tls": true
   },
   {
-   "name": "vless-1317297741",
-   "server": "194.48.250.194",
-   "port": 2053,
+   "name": "9",
+   "server": "199.232.78.101",
+   "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.samsung.com",
-   "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net"
+    }
    },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "vless-1651556331",
-   "server": "163.245.52.91",
+   "name": "🇺🇸US_15_4.2MB/s",
+   "server": "18.208.223.39",
+   "port": 443,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-cfb",
+   "password": "amazonskr05"
+  },
+  {
+   "name": "kurdconfig-1",
+   "server": "167.82.76.27",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-2",
+   "server": "199.232.78.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇭🇰_香港_148",
+   "server": "175.29.23.179",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "d3-ee1.cloud-cdn.xyz",
-   "reality-opts": {
-    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
-    "short-id": "ad6e08b22389abd2"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "servername": "fzo5i.ir46.90k.hh.ov0.kdns.fr",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/glasspanel/guest000_0_5de14443985f/",
+    "headers": {
+     "Host": "fzo5i.ir46.90k.hh.ov0.kdns.fr"
+    }
+   }
   },
   {
    "name": "Free",
@@ -1632,36 +1222,8 @@
    "tls": true
   },
   {
-   "name": "_By_EbraSha_🪬",
-   "server": "130.211.240.128",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "31a40f42-4ad6-4a32-a760-71102b459584",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "qvekI7tKB1NDnZA6JcS_24aV4n8mlCbI3SFvkRr22wg",
-    "short-id": "d74a6321deec9f31"
-   },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-22",
-   "server": "211.20.156.191",
-   "port": 28121,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🇺🇸_美国_120",
-   "server": "199.232.78.160",
+   "name": "🇺🇸_美国_115",
+   "server": "167.82.76.7",
    "port": 443,
    "udp": true,
    "type": "trojan",
@@ -1669,142 +1231,137 @@
    "sni": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN",
+    "path": "/",
     "headers": {
-     "Host": "mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net"
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
     }
    },
    "skip-cert-verify": true,
    "tls": true
   },
   {
-   "name": "_By_EbraSha_🕷️",
-   "server": "155.212.187.222",
-   "port": 8451,
+   "name": "_By_EbraSha_🦾",
+   "server": "159.194.250.154",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "uuid": "f0482c9d-ff67-4a43-af8e-76fc5d55c250",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
+   "servername": "api-maps.yandex.ru",
    "reality-opts": {
-    "public-key": "4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg",
-    "short-id": "5ea112e8"
+    "public-key": "x9yfMdHRe9ZAJJUF9kZnDnO3Y7otoyFBCS9RoaIG3Es",
+    "short-id": ""
    },
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-23",
-   "server": "211.20.156.191",
-   "port": 28160,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-24",
-   "server": "211.20.156.191",
-   "port": 28165,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-25",
-   "server": "209.248.32.116",
-   "port": 28119,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-26",
-   "server": "209.248.32.116",
-   "port": 28138,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-27",
-   "server": "211.20.156.191",
-   "port": 28166,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-28",
-   "server": "209.248.32.116",
-   "port": 28120,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-29",
-   "server": "211.20.156.191",
-   "port": 28159,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "CA【机场推荐：https_//a9a.xyz】19",
-   "server": "188.114.97.3",
-   "port": 2087,
+   "name": "🇨🇳_中国_20",
+   "server": "27.44.143.169",
+   "port": 33102,
    "udp": true,
    "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
+   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
+   "servername": "sgg.knhqf.com",
+   "flow": "xtls-rprx-vision-udp443",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🛸",
+   "server": "199.232.239.239",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "31608e93-a701-4604-b8de-c55baa393937",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "ssl.fastly.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/wsrb7k2m",
+    "path": "/?ed=2056/?RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS--@RK_VPS",
     "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
+     "Host": "uol258ehdmsohzh.global.ssl.fastly.net"
     }
    }
   },
   {
-   "name": "🇨🇳_中国_76",
-   "server": "27.44.143.169",
-   "port": 14343,
+   "name": "🇨🇳_中国_106",
+   "server": "129.211.188.184",
+   "port": 8443,
    "udp": true,
    "type": "vless",
-   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
+   "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "thuk.huaweiyouxuan.com",
+   "servername": "jp3.yohototo.top",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/tyxyws",
+    "headers": {
+     "Host": "jp3.yohototo.top"
+    }
+   }
+  },
+  {
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "31.77.109.35",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-de1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
+    "short-id": "494afdc75f8c2fa8"
+   },
+   "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1661220771",
+   "name": "🇩🇪_德国_33",
+   "server": "31.77.109.35",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-de1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
+    "short-id": "494afdc75f8c2fa8"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_德国_32",
+   "server": "31.77.109.35",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-de1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY",
+    "short-id": "494afdc75f8c2fa8"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🚬",
    "server": "163.245.52.91",
    "port": 443,
    "udp": true,
@@ -1817,129 +1374,63 @@
     "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
     "short-id": "ad6e08b22389abd2"
    },
-   "client-fingerprint": "firefox",
+   "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-30",
-   "server": "211.20.156.191",
-   "port": 28164,
+   "name": "🛠️36@oneclickvpnkeys",
+   "server": "167.82.76.7",
+   "port": 443,
    "udp": true,
    "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
    "skip-cert-verify": true,
    "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-31",
-   "server": "211.20.156.191",
-   "port": 28162,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-32",
-   "server": "211.20.156.191",
-   "port": 28167,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-33",
-   "server": "211.20.156.191",
-   "port": 28145,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-34",
-   "server": "209.248.32.116",
-   "port": 28154,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-35",
-   "server": "209.248.32.116",
-   "port": 28123,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🏳️_未知_168",
-   "server": "188.114.96.3",
+   "name": "_By_EbraSha_🐉",
+   "server": "216.173.71.43",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
+   "uuid": "ee18d188-14cc-417e-beb1-70e4add6d023",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/wsrb7k2m",
-    "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
-    }
-   }
+   "servername": "lv.nztvpn.com",
+   "reality-opts": {
+    "public-key": "miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08",
+    "short-id": "0da7e14db353e7d0"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
-   "name": "🏳️_未知_191",
-   "server": "188.114.97.3",
-   "port": 2087,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/wsrb7k2m",
-    "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
-    }
-   }
-  },
-  {
-   "name": "CA【机场推荐：https_//a9a.xyz】17",
-   "server": "188.114.96.3",
+   "name": "🇩🇪_德国_28",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/wsrb7k2m",
-    "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
-    }
-   }
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
    "name": "vless-1247209970",
@@ -1960,109 +1451,84 @@
    }
   },
   {
-   "name": "_By_EbraSha_🚀",
-   "server": "139.180.220.7",
+   "name": "_By_EbraSha_🛰️",
+   "server": "45.140.165.192",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
+   "uuid": "ee18d188-14cc-417e-beb1-70e4add6d023",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/wsrb7k2m",
-    "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-36",
-   "server": "209.248.32.116",
-   "port": 28125,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "US【机场推荐：https_//a9a.xyz】8",
-   "server": "153.75.81.16",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f49d04d6-aaa7-4013-b323-bc35b78230db",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "s4ws.ragingbull.de5.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/wsrb7k2m",
-    "headers": {
-     "Host": "s4ws.ragingbull.de5.net"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-37",
-   "server": "211.20.156.191",
-   "port": 28144,
-   "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "_By_EbraSha_🕷️-1",
-   "server": "189.74.114.148",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "84c9ff14-75b9-420b-8a5c-dc25e19ec11a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "api.mediagavan.cc",
+   "servername": "france.nztvpn.com",
    "reality-opts": {
-    "public-key": "r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs",
-    "short-id": "a8"
+    "public-key": "8EU4QO_Md_9ohyl1TfE5gtgPyxQ0QNTrXggljxOOvz0",
+    "short-id": "0da7e14db353e7d0"
    },
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-38",
-   "server": "209.248.32.116",
-   "port": 28166,
+   "name": "_By_EbraSha_⚙️",
+   "server": "155.212.187.222",
+   "port": 8451,
    "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "ctldl.windowsupdate.com",
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
    "skip-cert-verify": true,
-   "tls": true
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg",
+    "short-id": "5ea112e8"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-39",
-   "server": "209.248.32.116",
-   "port": 28155,
+   "name": "🇨🇳_中国_10",
+   "server": "112.49.63.11",
+   "port": 33102,
    "udp": true,
-   "type": "trojan",
-   "password": "i99Cef",
-   "sni": "download.windowsupdate.com",
+   "type": "vless",
+   "uuid": "0f47a872-b140-46f5-aef8-f46993f5fc01",
+   "tls": true,
    "skip-cert-verify": true,
-   "tls": true
+   "servername": "sgg.knhqf.com",
+   "flow": "xtls-rprx-vision-udp443",
+   "network": "tcp"
   },
   {
-   "name": "🇯🇵JP_53_251KB/s_K001-260618_01",
-   "server": "101.36.104.46",
-   "port": 10808,
+   "name": "🇨🇳_中国_8",
+   "server": "27.44.143.169",
+   "port": 14343,
    "udp": true,
-   "type": "socks5"
+   "type": "vless",
+   "uuid": "1b60cff4-49ce-4bf3-9027-e4f9c47d6158",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "thuk.huaweiyouxuan.com",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "9780",
+   "server": "167.82.76.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "mitivpn",
+   "sni": "ssl.fastly.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP",
+    "headers": {
+     "Host": "mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   }
  ],
  "proxy-groups": [
@@ -2070,142 +1536,95 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "🇭🇰HK_2_1.4MB/s",
-    "🇨🇳_中国_50",
-    "@DeltaKroneckerGithub",
-    "@DeltaKroneckerGithub-1",
-    "🇭🇰HK_4_5.4MB/s",
-    "🇹🇼_台湾_13",
-    "🇨🇳_中国_52",
-    "🇸🇬SG_1_1.1MB/s",
-    "🇨🇳_中国_58",
-    "🇨🇳_中国_51",
-    "🇨🇳_中国_56",
-    "🇨🇳_中国_6",
-    "@DeltaKroneckerGithub-2",
-    "🇨🇳_中国_55",
-    "@DeltaKroneckerGithub-3",
-    "@DeltaKroneckerGithub-4",
-    "@DeltaKroneckerGithub-5",
-    "@DeltaKroneckerGithub-6",
-    "🇨🇳_中国_53",
-    "@DeltaKroneckerGithub-7",
-    "🇸🇬SG_2_4.4MB/s",
-    "🇯🇵JP_1_1.2MB/s",
-    "❓Other_2_4.3MB/s",
-    "🇫🇷_法国_FRA_2",
-    "@DeltaKroneckerGithub-8",
-    "🇺🇸US_15_4.2MB/s",
-    "_By_EbraSha_⛓️",
-    "🇨🇳_中国_215",
-    "🇨🇳_中国_5",
-    "🇩🇪_德国_75",
-    "🇺🇸_www.v2nodes.com_trojan-US-..._2",
+    "🇨🇳_中国_44",
+    "🇭🇰_香港_147",
+    "🇨🇳_中国_13",
+    "_By_EbraSha_🔋",
+    "CN【机场推荐：https_//a9a.xyz】1",
+    "美国+CloudFlare节点",
     "🇺🇸US_21_3.3MB/s",
-    "DE【机场推荐：https_//a9a.xyz】4",
-    "9782",
+    "vless-1314768258",
+    "🇫🇷FR_55_374KB/s_01",
+    "✰𝗝𝗼𝗶𝗻",
+    "🇺🇸_美国_67",
+    "9830",
+    "@Capoit",
+    "@Capoit-1",
+    "@v2ray313",
+    "🇫🇷FR_139_370KB/s_C002-260622_01",
+    "_By_EbraSha_🔌",
+    "9826",
+    "🇩🇪_德国_22",
+    "_By_EbraSha_💣",
+    "@tootffarangi🍓-8",
+    "_By_EbraSha_📼",
+    "vless-1314768235",
+    "🛠️41@oneclickvpnkeys",
+    "9792",
+    "🇺🇸_美国_65",
+    "🇺🇸_美国_133",
     "✅",
-    "vless-1634480559",
-    "🇩🇪_德国_67",
-    "@DeltaKroneckerGithub-9",
-    "🇩🇪_德国_48",
-    "🇺🇸_美国_145",
-    "🇺🇸_美国_71",
-    "US【机场推荐：https_//a9a.xyz】24",
+    "9795",
+    "🇺🇸_美国_113",
+    "🇺🇸_美国_136",
+    "9784",
     "✅-1",
     "🦜14@oneclickvpnkeys",
-    "@Capoit",
-    "🇺🇸_美国_12",
-    "9825",
-    "_By_EbraSha_🌑",
-    "✰𝗝𝗼𝗶𝗻",
-    "🇺🇸_美国_196",
-    "@DeltaKroneckerGithub-10",
-    "🇺🇸_美国_224",
-    "9784",
+    "10",
+    "✰𝗝𝗼𝗶𝗻-1",
     "✅-2",
-    "9826",
-    "9791",
-    "vless-1661220764",
-    "vless-1635643561",
-    "9794",
-    "vless-1633309429",
-    "vless-1635883534",
-    "🇺🇸_美国_136",
-    "🇩🇪_德国_59",
-    "vless-1634467107",
-    "🇩🇪_德国_11",
-    "✅-3",
-    "@DeltaKroneckerGithub-11",
-    "9780",
-    "vless-1653654158",
-    "vless-1656817243",
-    "🇺🇸_美国_197",
-    "@DeltaKroneckerGithub-12",
-    "vless-1636575941",
-    "@DeltaKroneckerGithub-13",
-    "@prrofile_purple",
-    "vless-1661220782",
-    "@DeltaKroneckerGithub-14",
-    "@tootffarangi🍓-8",
-    "🇩🇪_德国_65",
     "9787",
-    "@DeltaKroneckerGithub-15",
+    "✅-3",
     "9783",
-    "@DeltaKroneckerGithub-16",
-    "US【机场推荐：https_//a9a.xyz】7",
-    "🇩🇪_德国_74",
-    "🇩🇪_德国_66",
-    "🇩🇪_德国_60",
-    "_By_EbraSha_🛸",
-    "_By_EbraSha_♠️",
-    "@DeltaKroneckerGithub-17",
-    "@DeltaKroneckerGithub-18",
-    "vless-1635561471",
-    "vless-1649635554",
-    "@DeltaKroneckerGithub-19",
-    "🇨🇳_中国_212",
-    "@DeltaKroneckerGithub-20",
-    "vless-1649992038",
-    "@prrofile_purple-1",
-    "🇩🇪_德国_73",
-    "✅-4",
-    "@DeltaKroneckerGithub-21",
-    "vless-1317297741",
-    "vless-1651556331",
+    "vless-1314768244",
+    "@DeltaKroneckerGithub",
+    "9791",
+    "🇺🇸_www.v2nodes.com_trojan-US-..._2",
+    "🇩🇪_德国_23",
+    "kurdconfig",
+    "9789",
+    "9794",
+    "vless-1314768256",
+    "_By_EbraSha_🪐",
+    "🇩🇪_德国_26",
+    "🇩🇪_德国_34",
+    "🇩🇪_德国_30",
+    "9778",
+    "9782",
+    "🇺🇸_美国_119",
+    "RU【机场推荐：https_//a9a.xyz】11",
+    "vless-1314768240",
+    "🇩🇪_德国_25",
+    "@DeltaKroneckerGithub-1",
+    "🇨🇳_中国_16",
+    "🇺🇸_美国_124",
+    "_By_EbraSha_⚔️",
+    "_By_EbraSha_🥷",
+    "@tootffarangi🍓-9",
+    "9",
+    "🇺🇸US_15_4.2MB/s",
+    "kurdconfig-1",
+    "@DeltaKroneckerGithub-2",
+    "🇭🇰_香港_148",
     "Free",
-    "_By_EbraSha_🪬",
-    "@DeltaKroneckerGithub-22",
-    "🇺🇸_美国_120",
-    "_By_EbraSha_🕷️",
-    "@DeltaKroneckerGithub-23",
-    "@DeltaKroneckerGithub-24",
-    "@DeltaKroneckerGithub-25",
-    "@DeltaKroneckerGithub-26",
-    "@DeltaKroneckerGithub-27",
-    "@DeltaKroneckerGithub-28",
-    "@DeltaKroneckerGithub-29",
-    "CA【机场推荐：https_//a9a.xyz】19",
-    "🇨🇳_中国_76",
-    "vless-1661220771",
-    "@DeltaKroneckerGithub-30",
-    "@DeltaKroneckerGithub-31",
-    "@DeltaKroneckerGithub-32",
-    "@DeltaKroneckerGithub-33",
-    "@DeltaKroneckerGithub-34",
-    "@DeltaKroneckerGithub-35",
-    "🏳️_未知_168",
-    "🏳️_未知_191",
-    "CA【机场推荐：https_//a9a.xyz】17",
+    "🇺🇸_美国_115",
+    "_By_EbraSha_🦾",
+    "🇨🇳_中国_20",
+    "_By_EbraSha_🛸",
+    "🇨🇳_中国_106",
+    "@DeltaKroneckerGithub-3",
+    "🇩🇪_德国_33",
+    "🇩🇪_德国_32",
+    "_By_EbraSha_🚬",
+    "🛠️36@oneclickvpnkeys",
+    "_By_EbraSha_🐉",
+    "🇩🇪_德国_28",
     "vless-1247209970",
-    "_By_EbraSha_🚀",
-    "@DeltaKroneckerGithub-36",
-    "US【机场推荐：https_//a9a.xyz】8",
-    "@DeltaKroneckerGithub-37",
-    "_By_EbraSha_🕷️-1",
-    "@DeltaKroneckerGithub-38",
-    "@DeltaKroneckerGithub-39",
-    "🇯🇵JP_53_251KB/s_K001-260618_01"
+    "_By_EbraSha_🛰️",
+    "_By_EbraSha_⚙️",
+    "🇨🇳_中国_10",
+    "🇨🇳_中国_8",
+    "9780"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

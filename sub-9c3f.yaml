@@ -1,191 +1,276 @@
 {
  "proxies": [
   {
-   "name": "HK_-_zhuhai.uk_03",
-   "server": "node1.luoye.ee",
+   "name": "_By_EbraSha_🛰️",
+   "server": "89.208.254.233",
    "port": 443,
    "udp": true,
-   "type": "trojan",
-   "password": "654d0888-1452-4e1b-8077-ab00b45409fb",
-   "sni": "node1.luoye.ee",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1314768256",
-   "server": "31.76.104.164",
-   "port": 2053,
-   "udp": true,
    "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "uuid": "ab1249da-9ac8-44c7-89a3-2d337ab25cb2",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.samsung.com",
+   "servername": "halo.sigy.me",
    "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
+    "public-key": "PR2mhvCXer5q0MdcFq02GiyGhjSYqfyHVnFjjHhHOgY",
+    "short-id": "3221cb224d06a873"
    },
-   "client-fingerprint": "chrome",
+   "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1314768258",
-   "server": "87.251.17.12",
-   "port": 2053,
+   "name": "_By_EbraSha_🧬",
+   "server": "154.21.94.246",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "uuid": "ab1249da-9ac8-44c7-89a3-2d337ab25cb2",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.samsung.com",
+   "servername": "frost.sigy.me",
    "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
+    "public-key": "C8Qz7kuyHo9O0oBV9W7ltzL8aPLPzdb1vvt3UkJjtF0",
+    "short-id": "ea29b7b15bb24d49"
    },
-   "client-fingerprint": "chrome",
+   "client-fingerprint": "random",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🪬",
-   "server": "176.32.39.52",
-   "port": 10550,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "8ad9d72a5571df86"
   },
   {
    "name": "@DeltaKroneckerGithub",
-   "server": "216.173.71.43",
+   "server": "157.228.150.34",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "ee18d188-14cc-417e-beb1-70e4add6d023",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "lv.nztvpn.com",
+   "servername": "addons.mozilla.org",
    "reality-opts": {
-    "public-key": "miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08",
-    "short-id": "0da7e14db353e7d0"
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🧲",
+   "server": "193.202.113.5",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "6f756511-7fc3-41ba-874b-8cdc8e1b225f",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "edge-uk2.mystatic-cdn.ru",
+   "reality-opts": {
+    "public-key": "65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI",
+    "short-id": "ee169e93d3c277a1"
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1314768244",
-   "server": "87.251.17.12",
-   "port": 2053,
+   "name": "🇦🇪_阿拉伯联合酋长国_22",
+   "server": "157.228.160.166",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.samsung.com",
+   "servername": "addons.mozilla.org",
    "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
    },
-   "client-fingerprint": "firefox",
+   "client-fingerprint": "randomized",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-1",
-   "server": "45.139.26.179",
+   "name": "🇦🇪_阿拉伯联合酋长国_39",
+   "server": "157.228.150.34",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "2b781b4a-5942-48e0-a7f3-5a07b7b488c1",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "ads.x5.ru",
+   "servername": "addons.mozilla.org",
    "reality-opts": {
-    "public-key": "AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI",
-    "short-id": "15bcc0a77c3cacdf"
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
    },
-   "client-fingerprint": "firefox",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "api"
-   }
-  },
-  {
-   "name": "vless-1314768235",
-   "server": "31.76.104.164",
-   "port": 2053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.samsung.com",
-   "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
-   },
-   "client-fingerprint": "firefox",
+   "client-fingerprint": "randomized",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_🦇",
-   "server": "216.173.71.43",
+   "name": "vless-1649992038",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "ee18d188-14cc-417e-beb1-70e4add6d023",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "lv.nztvpn.com",
+   "servername": "d3-ee1.cloud-cdn.xyz",
    "reality-opts": {
-    "public-key": "miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08",
-    "short-id": "0da7e14db353e7d0"
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "UN【机场推荐：https_//a9a.xyz】48",
+   "server": "157.228.160.166",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
+   },
+   "client-fingerprint": "randomized",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🚬",
+   "server": "157.228.150.34",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_德国_50",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
    },
    "client-fingerprint": "safari",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_🧠",
-   "server": "31.76.71.23",
+   "name": "vless-1633309429",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "953358cb-82ba-4296-960d-6d2ec3468f4c",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "origin.media.cdn.videoclothing.xyz",
+   "servername": "d3-ee1.cloud-cdn.xyz",
    "reality-opts": {
-    "public-key": "Z5PBrg8agBtO8S01rPiAiC57YI7dz5TgYbs13LAX7lc",
-    "short-id": "0d284a63346248c2"
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
    },
-   "client-fingerprint": "firefox",
+   "client-fingerprint": "edge",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1310653362",
-   "server": "146.70.37.253",
+   "name": "_By_EbraSha_💣",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "b940be1b-3998-45d2-bf7b-06e7b6c4987a",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "kkkk-xcd.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2048",
-    "headers": {
-     "Host": "kkkk-xcd.pages.dev"
-    }
-   }
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_🦾",
+   "name": "🇩🇪_德国_20",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "random",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_德国_51",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_⌨️",
+   "server": "5.75.197.74",
+   "port": 1080,
+   "udp": true,
+   "type": "vless",
+   "uuid": "250865f0-4a0f-4e2e-8d14-4c39a25d0bef",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www6.gameservice-iramn3.com",
+   "reality-opts": {
+    "public-key": "qmCIBP5Y6Pu7oxY--0sOXglNvHV9byxo2cyVsfAqUiI",
+    "short-id": "307eb35dbf3a5385"
+   },
+   "client-fingerprint": "firefox",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🛜",
    "server": "31.59.210.26",
    "port": 2088,
    "udp": true,
@@ -205,25 +290,132 @@
    }
   },
   {
-   "name": "vless-1310650362",
-   "server": "141.227.137.177",
-   "port": 2053,
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "163.245.52.91",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "b940be1b-3998-45d2-bf7b-06e7b6c4987a",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "kkkk-xcd.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2048",
-    "headers": {
-     "Host": "kkkk-xcd.pages.dev"
-    }
-   }
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🚀",
+   "server": "dns6.m3hrzd.ir",
+   "port": 8010,
+   "udp": true,
+   "type": "vless",
+   "uuid": "61113876-9d96-46d3-8500-ba35cc2765b6",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "activision.com",
+   "reality-opts": {
+    "public-key": "Vtx_JlcgqBDRv8XWimo41kgKuZdxvSUzkQR62188xWQ",
+    "short-id": "5ed0c99dd6c79bb5"
+   },
+   "client-fingerprint": "edge",
+   "network": "tcp"
+  },
+  {
+   "name": "NL【机场推荐：https_//a9a.xyz】8",
+   "server": "157.228.150.34",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
    "name": "@DeltaKroneckerGithub-2",
+   "server": "2.26.231.218",
+   "port": 2063,
+   "udp": true,
+   "type": "vless",
+   "uuid": "b18d5990-96eb-4587-a386-7f8ef7591e6a",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "rusbid.de",
+   "reality-opts": {
+    "public-key": "MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM",
+    "short-id": ""
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_德国_15",
+   "server": "177.1.187.251",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "318c935d-c195-41d3-99ad-9bbcfdab3386",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "de2.srv.vbuste.ru",
+   "reality-opts": {
+    "public-key": "0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08",
+    "short-id": "4be4110078ebed4a"
+   },
+   "client-fingerprint": "randomized",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "157.228.160.166",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
+    "short-id": "3cef317b"
+   },
+   "client-fingerprint": "randomized",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "EE【机场推荐：https_//a9a.xyz】14",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🔐",
    "server": "31.76.71.23",
    "port": 443,
    "udp": true,
@@ -241,264 +433,164 @@
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-3",
-   "server": "104.16.215.234",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime39.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_♦️",
-   "server": "154.21.94.246",
+   "name": "美国+普渡大学中北部分校",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "ab1249da-9ac8-44c7-89a3-2d337ab25cb2",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "frost.sigy.me",
+   "servername": "d3-ee1.cloud-cdn.xyz",
    "reality-opts": {
-    "public-key": "C8Qz7kuyHo9O0oBV9W7ltzL8aPLPzdb1vvt3UkJjtF0",
-    "short-id": "ea29b7b15bb24d49"
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1651556331",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1634480559",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1635561471",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
+   },
+   "client-fingerprint": "qq",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1634467107",
+   "server": "163.245.52.91",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "d3-ee1.cloud-cdn.xyz",
+   "reality-opts": {
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "vless-1311552630",
-   "server": "194.48.250.194",
-   "port": 2053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f24c25fe-937d-414b-8180-d54c96220e71",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.samsung.com",
-   "reality-opts": {
-    "public-key": "f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y",
-    "short-id": "cc981b746a300649"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "日期：10-07",
-   "server": "154.21.94.246",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "ab1249da-9ac8-44c7-89a3-2d337ab25cb2",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "frost.sigy.me",
-   "reality-opts": {
-    "public-key": "C8Qz7kuyHo9O0oBV9W7ltzL8aPLPzdb1vvt3UkJjtF0",
-    "short-id": "ea29b7b15bb24d49"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_6",
-   "server": "154.21.94.246",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "ab1249da-9ac8-44c7-89a3-2d337ab25cb2",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "frost.sigy.me",
-   "reality-opts": {
-    "public-key": "C8Qz7kuyHo9O0oBV9W7ltzL8aPLPzdb1vvt3UkJjtF0",
-    "short-id": "ea29b7b15bb24d49"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "英国+桑德兰大学",
-   "server": "157.228.160.166",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
-    "short-id": "3cef317b"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_👾",
-   "server": "45.89.190.245",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "053682f4-c584-46df-ad81-069dec5f64f0",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de.gokonstantin.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/cdnws",
-    "headers": {
-     "Host": "de.gokonstantin.com"
-    }
-   }
-  },
-  {
-   "name": "🇷🇺_俄罗斯_16",
-   "server": "159.194.250.154",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f0482c9d-ff67-4a43-af8e-76fc5d55c250",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "api-maps.yandex.ru",
-   "reality-opts": {
-    "public-key": "x9yfMdHRe9ZAJJUF9kZnDnO3Y7otoyFBCS9RoaIG3Es",
-    "short-id": ""
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇷🇺_俄罗斯_RUS_1",
-   "server": "176.32.39.52",
-   "port": 10550,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "8ad9d72a5571df86"
-  },
-  {
-   "name": "🇦🇪_阿拉伯联合酋长国_36",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇦🇪_阿拉伯联合酋长国_44",
-   "server": "157.228.150.34",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
-    "short-id": "3cef317b"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_⚙️",
-   "server": "47.129.152.126",
-   "port": 8443,
-   "udp": true,
-   "type": "ss",
-   "cipher": "chacha20-ietf-poly1305",
-   "password": "7e68e32f-8015-4f37-9082-70e8b0b58043"
-  },
-  {
-   "name": "_By_EbraSha_🧠-1",
-   "server": "159.194.250.154",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f0482c9d-ff67-4a43-af8e-76fc5d55c250",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "api-maps.yandex.ru",
-   "reality-opts": {
-    "public-key": "x9yfMdHRe9ZAJJUF9kZnDnO3Y7otoyFBCS9RoaIG3Es",
-    "short-id": ""
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🕷️",
-   "server": "45.89.190.245",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "053682f4-c584-46df-ad81-069dec5f64f0",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de.gokonstantin.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/cdnws",
-    "headers": {
-     "Host": "de.gokonstantin.com"
-    }
-   }
   },
   {
    "name": "_By_EbraSha_🚨",
-   "server": "157.228.150.34",
+   "server": "de12.h1cloud.net",
+   "port": 25089,
+   "udp": true,
+   "type": "vless",
+   "uuid": "95003356-20f9-4c84-a21f-2f9c1fc285eb",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.chip.de",
+   "reality-opts": {
+    "public-key": "3ZxTHjZ8XHP2aYzLEKUPI3xQ5jYQYrSrIEXlUlULUEA",
+    "short-id": "56d9d9fba348e5e6"
+   },
+   "client-fingerprint": "chrome",
+   "network": "tcp"
+  },
+  {
+   "name": "vless-1635883534",
+   "server": "163.245.52.91",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "uuid": "87fd990d-ca93-440a-bbd4-e8281c4a0910",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
+   "servername": "d3-ee1.cloud-cdn.xyz",
    "reality-opts": {
-    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
-    "short-id": "3cef317b"
+    "public-key": "g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ",
+    "short-id": "ad6e08b22389abd2"
    },
-   "client-fingerprint": "chrome",
+   "client-fingerprint": "edge",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "🇷🇴_罗马尼亚_27",
-   "server": "77.74.123.107",
-   "port": 4443,
+   "name": "_By_EbraSha_🦈",
+   "server": "5.75.197.74",
+   "port": 1081,
    "udp": true,
-   "type": "trojan",
-   "password": "s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z",
-   "sni": "grape-test-italy.dynuddns.net",
+   "type": "vless",
+   "uuid": "250865f0-4a0f-4e2e-8d14-4c39a25d0bef",
+   "tls": true,
    "skip-cert-verify": true,
-   "tls": true
+   "servername": "www12.gameservice-iramn3.com",
+   "reality-opts": {
+    "public-key": "_UlBf1BRa52KM89xxvfbSHuLZWrvWuGuhvbsL3gx01A",
+    "short-id": "daa22fbb023ab4a2"
+   },
+   "client-fingerprint": "firefox",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🧊",
+   "server": "159.194.250.154",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "f0482c9d-ff67-4a43-af8e-76fc5d55c250",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "api-maps.yandex.ru",
+   "reality-opts": {
+    "public-key": "x9yfMdHRe9ZAJJUF9kZnDnO3Y7otoyFBCS9RoaIG3Es",
+    "short-id": ""
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   }
  ],
  "proxy-groups": [
@@ -506,36 +598,39 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "HK_-_zhuhai.uk_03",
-    "vless-1314768256",
-    "vless-1314768258",
-    "_By_EbraSha_🪬",
+    "_By_EbraSha_🛰️",
+    "_By_EbraSha_🧬",
     "@DeltaKroneckerGithub",
-    "vless-1314768244",
+    "_By_EbraSha_🧲",
+    "🇦🇪_阿拉伯联合酋长国_22",
+    "🇦🇪_阿拉伯联合酋长国_39",
+    "vless-1649992038",
+    "UN【机场推荐：https_//a9a.xyz】48",
+    "_By_EbraSha_🚬",
+    "🇩🇪_德国_50",
+    "vless-1633309429",
+    "_By_EbraSha_💣",
+    "🇩🇪_德国_20",
+    "🇩🇪_德国_51",
+    "_By_EbraSha_⌨️",
+    "_By_EbraSha_🛜",
     "@DeltaKroneckerGithub-1",
-    "vless-1314768235",
-    "_By_EbraSha_🦇",
-    "_By_EbraSha_🧠",
-    "vless-1310653362",
-    "_By_EbraSha_🦾",
-    "vless-1310650362",
+    "_By_EbraSha_🚀",
+    "NL【机场推荐：https_//a9a.xyz】8",
     "@DeltaKroneckerGithub-2",
+    "🇩🇪_德国_15",
     "@DeltaKroneckerGithub-3",
-    "_By_EbraSha_♦️",
-    "vless-1311552630",
-    "日期：10-07",
-    "🇺🇸_美国_6",
-    "英国+桑德兰大学",
-    "_By_EbraSha_👾",
-    "🇷🇺_俄罗斯_16",
-    "🇷🇺_俄罗斯_RUS_1",
-    "🇦🇪_阿拉伯联合酋长国_36",
-    "🇦🇪_阿拉伯联合酋长国_44",
-    "_By_EbraSha_⚙️",
-    "_By_EbraSha_🧠-1",
-    "_By_EbraSha_🕷️",
+    "EE【机场推荐：https_//a9a.xyz】14",
+    "_By_EbraSha_🔐",
+    "美国+普渡大学中北部分校",
+    "vless-1651556331",
+    "vless-1634480559",
+    "vless-1635561471",
+    "vless-1634467107",
     "_By_EbraSha_🚨",
-    "🇷🇴_罗马尼亚_27"
+    "vless-1635883534",
+    "_By_EbraSha_🦈",
+    "_By_EbraSha_🧊"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

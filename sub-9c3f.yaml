@@ -10,60 +10,22 @@
    "password": "amazonskr05"
   },
   {
-   "name": "_By_EbraSha_🤖",
-   "server": "189.24.107.174",
-   "port": 443,
+   "name": "_By_EbraSha_🛜",
+   "server": "194.36.55.146",
+   "port": 80,
    "udp": true,
    "type": "vless",
-   "uuid": "596be9d9-0bb9-41bc-bff5-1adb483cbc32",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ",
-    "short-id": "8b36e9b7b3"
-   },
-   "client-fingerprint": "edge",
-   "flow": "xtls-rprx-vision",
-   "network": "raw"
-  },
-  {
-   "name": "@DeltaKroneckerGithub",
-   "server": "146.75.57.238",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "mitivpn",
-   "sni": "ssl-mitivpn.fastly.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSs---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1",
-    "headers": {
-     "Host": "mitivpn-4--vip.global.ssl.fastly.net"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vmess-1724337985",
-   "type": "vmess",
-   "server": "142.171.48.179",
-   "port": 28167,
-   "uuid": "a0181cb3-fcc5-4a0a-9e71-db943a2309fa",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
+   "uuid": "964e6322-afad-4594-8508-86d634d732e6",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "gw.alicdn.com"
+     "Host": "blacklegends.umc-mansur13.workers.dev"
     }
    }
   },
   {
-   "name": "_By_EbraSha_⚡",
+   "name": "_By_EbraSha_🔋",
    "server": "217.60.24.36",
    "port": 443,
    "udp": true,
@@ -81,58 +43,7 @@
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-1",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🦂",
-   "server": "194.36.55.146",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "964e6322-afad-4594-8508-86d634d732e6",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "blacklegends.umc-mansur13.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🔌",
-   "server": "2.26.231.218",
-   "port": 2063,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b18d5990-96eb-4587-a386-7f8ef7591e6a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "rusbid.de",
-   "reality-opts": {
-    "public-key": "MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM",
-    "short-id": ""
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇦🇪_阿拉伯联合酋长国_25",
+   "name": "@DeltaKroneckerGithub",
    "server": "157.228.150.34",
    "port": 443,
    "udp": true,
@@ -150,61 +61,113 @@
    "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_♣️",
-   "server": "104.19.35.67",
+   "name": "🇦🇪_阿拉伯联合酋长国_17",
+   "server": "157.228.128.59",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🚀",
+   "server": "189.24.107.174",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "596be9d9-0bb9-41bc-bff5-1adb483cbc32",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.cloudflare.com",
+   "reality-opts": {
+    "public-key": "gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ",
+    "short-id": "8b36e9b7b3"
+   },
+   "client-fingerprint": "edge",
+   "flow": "xtls-rprx-vision",
+   "network": "raw"
+  },
+  {
+   "name": "_By_EbraSha_🔥",
+   "server": "157.228.128.59",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🌐",
+   "server": "157.228.128.59",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "46.183.16.4",
+   "port": 2087,
+   "udp": true,
+   "type": "vless",
+   "uuid": "69d76969-4c52-40f5-ac1d-303571634362",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "ro1.b0w.ir",
    "network": "ws",
    "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
+    "path": "/",
+    "headers": {}
    }
   },
   {
-   "name": "_By_EbraSha_🚬",
-   "server": "209.200.246.61",
+   "name": "@DeltaKroneckerGithub-2",
+   "server": "103.240.146.87",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "ab9929fd-ab22-48e3-8723-480733c0eca9",
+   "uuid": "91344c03-b37f-42c5-90f1-cbb95c5cf256",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "ca.vpnskyline.com",
+   "servername": "es.srv.dvzh.net",
    "reality-opts": {
-    "public-key": "NO3w10fOUvwK8L7vzCVPDLWIKYCHDaB6ealdMnv4jS4",
-    "short-id": "e287e3906e3c"
+    "public-key": "9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0",
+    "short-id": "e4e77e76e6e49da7"
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_🛸",
-   "server": "104.168.202.51",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_♦️",
+   "name": "_By_EbraSha_🔌",
    "server": "31.59.210.26",
    "port": 2088,
    "udp": true,
@@ -224,81 +187,7 @@
    }
   },
   {
-   "name": "_By_EbraSha_💣",
-   "server": "31.59.210.37",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "5413edfb-08d6-4fba-b51c-809c04feb127",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.yandex.ru",
-   "reality-opts": {
-    "public-key": "5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4",
-    "short-id": "6dbf4931096f9890"
-   },
-   "client-fingerprint": "firefox",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "astracat"
-   }
-  },
-  {
-   "name": "_By_EbraSha_♠️",
-   "server": "103.7.137.51",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🔥",
-   "server": "104.17.144.249",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🌐",
-   "server": "104.17.155.118",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🌍",
+   "name": "_By_EbraSha_🌐-1",
    "server": "31.59.210.24",
    "port": 2087,
    "udp": true,
@@ -316,222 +205,6 @@
    "grpc-opts": {
     "grpc-service-name": "astracat"
    }
-  },
-  {
-   "name": "_By_EbraSha_🌍-1",
-   "server": "172.66.1.43",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🕷️",
-   "server": "181.36.229.212",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🧊",
-   "server": "172.64.229.14",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_💻",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🖥️",
-   "server": "199.232.78.187",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c326b0af-e926-4dc8-a8a3-e7790cc0bdec",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "default.ssl.fastly.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "SEPAHA1.global.ssl.fastly.net"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🪬",
-   "server": "146.70.233.51",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_📀",
-   "server": "146.75.117.242",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "752a488f-1ac3-47d0-9165-6d80f1fc4b08",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "piracy-android.video-streams.org",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/ws",
-    "headers": {
-     "Host": "piracy-android.video-streams.org"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🌀",
-   "server": "212.87.220.98",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🌀-1",
-   "server": "45.9.13.99",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-2",
-   "server": "45.136.199.148",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_✨",
-   "server": "45.192.12.111",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🧠",
-   "server": "104.17.154.214",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "489f1717-d3c7-4940-ad68-bdbdbab857f4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "x.m-90.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "t.me/TEAMNETGRATISCOL",
-    "headers": {
-     "Host": "x.m-90.xyz"
-    }
-   }
   }
  ],
  "proxy-groups": [
@@ -540,35 +213,17 @@
    "type": "url-test",
    "proxies": [
     "🇩🇪_德国_DEU_12",
-    "_By_EbraSha_🤖",
+    "_By_EbraSha_🛜",
+    "_By_EbraSha_🔋",
     "@DeltaKroneckerGithub",
-    "vmess-1724337985",
-    "_By_EbraSha_⚡",
-    "@DeltaKroneckerGithub-1",
-    "_By_EbraSha_🦂",
-    "_By_EbraSha_🔌",
-    "🇦🇪_阿拉伯联合酋长国_25",
-    "_By_EbraSha_♣️",
-    "_By_EbraSha_🚬",
-    "_By_EbraSha_🛸",
-    "_By_EbraSha_♦️",
-    "_By_EbraSha_💣",
-    "_By_EbraSha_♠️",
+    "🇦🇪_阿拉伯联合酋长国_17",
+    "_By_EbraSha_🚀",
     "_By_EbraSha_🔥",
     "_By_EbraSha_🌐",
-    "_By_EbraSha_🌍",
-    "_By_EbraSha_🌍-1",
-    "_By_EbraSha_🕷️",
-    "_By_EbraSha_🧊",
-    "_By_EbraSha_💻",
-    "_By_EbraSha_🖥️",
-    "_By_EbraSha_🪬",
-    "_By_EbraSha_📀",
-    "_By_EbraSha_🌀",
-    "_By_EbraSha_🌀-1",
+    "@DeltaKroneckerGithub-1",
     "@DeltaKroneckerGithub-2",
-    "_By_EbraSha_✨",
-    "_By_EbraSha_🧠"
+    "_By_EbraSha_🔌",
+    "_By_EbraSha_🌐-1"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

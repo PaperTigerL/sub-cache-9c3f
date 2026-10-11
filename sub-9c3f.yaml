@@ -1,18 +1,8 @@
 {
  "proxies": [
   {
-   "name": "vmess-1753602822",
-   "type": "vmess",
-   "server": "za.australiacaregroup.site",
-   "port": 10001,
-   "uuid": "aec8e5e3-bb81-4b22-8802-0b88c54997b3",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true
-  },
-  {
    "name": "@DeltaKroneckerGithub",
-   "server": "104.21.66.79",
+   "server": "172.67.157.131",
    "port": 2086,
    "udp": true,
    "type": "vless",
@@ -27,7 +17,7 @@
   },
   {
    "name": "@DeltaKroneckerGithub-1",
-   "server": "172.67.157.131",
+   "server": "104.21.66.79",
    "port": 2086,
    "udp": true,
    "type": "vless",
@@ -56,79 +46,25 @@
    }
   },
   {
-   "name": "🇯🇵_日本_10",
-   "server": "141.147.150.232",
-   "port": 2053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "fa13a9f7-5cba-4dca-b6b7-c14953f0ac65",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "FE18081Cm-WUzpu6JyGpmlJqHEZpDmeWCAcisuRKtX4",
-    "short-id": "2235c8526bc59d67"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-2",
-   "server": "c20s5.portablesubmarines.com",
+   "name": "_By_EbraSha_💻",
+   "server": "46.182.24.15",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
+   "uuid": "12e95f93-443c-0002-9a2a-5b318b9124cf",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
+   "servername": "46.182.24.15",
    "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_📼",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🛜",
-   "server": "117.55.194.110",
-   "port": 709,
-   "udp": true,
-   "type": "vless",
-   "uuid": "524dd22d-9f8c-4cc4-9e12-f427f497dff4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.kayak.com",
-   "reality-opts": {
-    "public-key": "YQGxuBmerdc9w64ESEpkvU7BzpqPTmQ_YhVSYypnEnU",
-    "short-id": "42b7393d3e94e4c7"
+    "public-key": "V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA",
+    "short-id": ""
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "network": "raw"
   },
   {
-   "name": "@DeltaKroneckerGithub-3",
+   "name": "@DeltaKroneckerGithub-2",
    "server": "43.247.132.85",
    "port": 41563,
    "udp": true,
@@ -146,205 +82,7 @@
    "network": "tcp"
   },
   {
-   "name": "_By_EbraSha_🦂",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🔮",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_♠️",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "raw"
-  },
-  {
-   "name": "美国+Xerox",
-   "server": "13.143.137.206",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "9ebf4fda-7395-4800-b42f-b2dda649880a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "ya.ru",
-   "reality-opts": {
-    "public-key": "1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ",
-    "short-id": "d2061bb1"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🔮-1",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🚬",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🚨",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "raw"
-  },
-  {
-   "name": "_By_EbraSha_👑",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🌃",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "random",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🕹️",
-   "server": "c20s5.portablesubmarines.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "portal.citygrainla.com",
-   "reality-opts": {
-    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
-    "short-id": "051f20c2344a2dfd"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🥷",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_🌌",
+   "name": "_By_EbraSha_🎛️",
    "server": "153.76.161.58",
    "port": 2096,
    "udp": true,
@@ -364,94 +102,20 @@
    }
   },
   {
-   "name": "_By_EbraSha_💎",
-   "server": "153.76.161.57",
-   "port": 2096,
-   "udp": true,
-   "type": "vless",
-   "uuid": "3fcec4e4-a674-44d2-8cae-c253cec43b9c",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "id.vk.com",
-   "reality-opts": {
-    "public-key": "SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc",
-    "short-id": ""
-   },
-   "client-fingerprint": "safari",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "vless-grpc-reality"
-   }
-  },
-  {
-   "name": "_By_EbraSha_🕶️",
-   "server": "31.76.3.34",
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "c20s5.portablesubmarines.com",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "0d628b17-8ac4-49b9-a422-6b99077bfdf6",
+   "uuid": "85fe968d-fbb5-40dc-8422-30635eccb149",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "tradingview.com",
+   "servername": "portal.citygrainla.com",
    "reality-opts": {
-    "public-key": "CetY_ReGID1LBH275yWlxxOctI82PtgxR-fjYSRTKzM",
-    "short-id": "8a2b3c4d5e6f7012"
+    "public-key": "BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE",
+    "short-id": "051f20c2344a2dfd"
    },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_24",
-   "server": "13.143.137.206",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "9ebf4fda-7395-4800-b42f-b2dda649880a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "ya.ru",
-   "reality-opts": {
-    "public-key": "1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ",
-    "short-id": "d2061bb1"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "FI【机场推荐：https_//a9a.xyz】5",
-   "server": "157.228.128.59",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
-    "short-id": "06e00e7c"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "_By_EbraSha_⛓️",
-   "server": "157.228.160.166",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "addons.mozilla.org",
-   "reality-opts": {
-    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
-    "short-id": "3cef317b"
-   },
-   "client-fingerprint": "chrome",
+   "client-fingerprint": "random",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   }
@@ -461,32 +125,13 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "vmess-1753602822",
     "@DeltaKroneckerGithub",
     "@DeltaKroneckerGithub-1",
     "vmess-1503307884",
-    "🇯🇵_日本_10",
+    "_By_EbraSha_💻",
     "@DeltaKroneckerGithub-2",
-    "_By_EbraSha_📼",
-    "_By_EbraSha_🛜",
-    "@DeltaKroneckerGithub-3",
-    "_By_EbraSha_🦂",
-    "_By_EbraSha_🔮",
-    "_By_EbraSha_♠️",
-    "美国+Xerox",
-    "_By_EbraSha_🔮-1",
-    "_By_EbraSha_🚬",
-    "_By_EbraSha_🚨",
-    "_By_EbraSha_👑",
-    "_By_EbraSha_🌃",
-    "_By_EbraSha_🕹️",
-    "_By_EbraSha_🥷",
-    "_By_EbraSha_🌌",
-    "_By_EbraSha_💎",
-    "_By_EbraSha_🕶️",
-    "🇺🇸_美国_24",
-    "FI【机场推荐：https_//a9a.xyz】5",
-    "_By_EbraSha_⛓️"
+    "_By_EbraSha_🎛️",
+    "@DeltaKroneckerGithub-3"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

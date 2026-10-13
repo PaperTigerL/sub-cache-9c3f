@@ -1,46 +1,44 @@
 {
  "proxies": [
   {
-   "name": "_By_EbraSha_🚧",
-   "server": "web-tomcat.pages.dev",
+   "name": "vmess-1798472999",
+   "type": "vmess",
+   "server": "xcwbh1kr0wwfxg24.v.3dns.vip",
    "port": 443,
+   "uuid": "efe82ebc-46b3-4242-b612-b652b8fbc870",
+   "alterId": 0,
+   "cipher": "auto",
    "udp": true,
-   "type": "vless",
-   "uuid": "2cf94f4d-9d5b-49ca-81a3-ddc0529a2dac",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "web-tomcat.pages.dev",
+   "servername": "xcwbh1kr0wwfxg24.v.3dns.vip",
    "network": "ws",
    "ws-opts": {
-    "path": "/",
+    "path": "/ws-vmess",
     "headers": {
-     "Host": "web-tomcat.pages.dev"
+     "Host": "xcwbh1kr0wwfxg24.v.3dns.vip"
     }
    }
   },
   {
-   "name": "JP日本(mibei77.com_米贝节点分享)",
-   "server": "101.36.104.239",
-   "port": 10808,
-   "udp": true,
-   "type": "socks5"
-  },
-  {
-   "name": "_By_EbraSha_🎯",
-   "server": "80.47.12.94",
-   "port": 443,
+   "name": "_By_EbraSha_🧲",
+   "server": "45.129.176.34",
+   "port": 8443,
    "udp": true,
    "type": "vless",
-   "uuid": "c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8",
+   "uuid": "d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "pl-1-1.unturned-rust-dead.lol",
+   "servername": "avatars.mds.yandex.net",
    "reality-opts": {
-    "public-key": "gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg",
-    "short-id": ""
+    "public-key": "sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg",
+    "short-id": "e67fb918ed6b9ffb"
    },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
+   "client-fingerprint": "firefox",
+   "network": "grpc",
+   "grpc-opts": {
+    "grpc-service-name": "grpc-yandex"
+   }
   },
   {
    "name": "@DeltaKroneckerGithub",
@@ -60,7 +58,7 @@
    "network": "tcp"
   },
   {
-   "name": "🇵🇱_波兰_29",
+   "name": "_By_EbraSha_🛸",
    "server": "80.47.12.94",
    "port": 443,
    "udp": true,
@@ -73,7 +71,25 @@
     "public-key": "gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg",
     "short-id": ""
    },
-   "client-fingerprint": "random",
+   "client-fingerprint": "chrome",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🌐",
+   "server": "157.228.128.59",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
@@ -128,6 +144,23 @@
    }
   },
   {
+   "name": "🇵🇱_波兰_29",
+   "server": "80.47.12.94",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "pl-1-1.unturned-rust-dead.lol",
+   "reality-opts": {
+    "public-key": "gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg",
+    "short-id": ""
+   },
+   "client-fingerprint": "random",
+   "network": "tcp"
+  },
+  {
    "name": "vmess-1795528918",
    "type": "vmess",
    "server": "142.171.48.179",
@@ -145,59 +178,22 @@
    }
   },
   {
-   "name": "vmess-1795528919",
-   "type": "vmess",
-   "server": "142.171.48.179",
-   "port": 28167,
-   "uuid": "8bfcefb6-7578-4b71-8777-4b1438660d71",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "gw.alicdn.com"
-    }
-   }
-  },
-  {
-   "name": "_By_EbraSha_🧪",
-   "server": "2.26.89.14",
+   "name": "🇦🇪_阿拉伯联合酋长国_22",
+   "server": "157.228.128.59",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "0cf8e402-e801-4aeb-9b7a-00a933f9f1c1",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "assets-ms-33.ecom-ai-solutions.com",
+   "servername": "addons.mozilla.org",
    "reality-opts": {
-    "public-key": "fyG6EMB247gGPXLK1YqvbWd_Q9fnoMWkbmGfG1BRJUE",
-    "short-id": "c90408131c6d00b0"
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
    },
-   "client-fingerprint": "random",
+   "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "vmess-1798472999",
-   "type": "vmess",
-   "server": "xcwbh1kr0wwfxg24.v.3dns.vip",
-   "port": 443,
-   "uuid": "efe82ebc-46b3-4242-b612-b652b8fbc870",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "xcwbh1kr0wwfxg24.v.3dns.vip",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/ws-vmess",
-    "headers": {
-     "Host": "xcwbh1kr0wwfxg24.v.3dns.vip"
-    }
-   }
   },
   {
    "name": "@DeltaKroneckerGithub-1",
@@ -218,8 +214,8 @@
    "network": "tcp"
   },
   {
-   "name": "🇦🇪_阿拉伯联合酋长国_28",
-   "server": "157.228.150.34",
+   "name": "🇦🇪_阿拉伯联合酋长国_17",
+   "server": "157.228.128.59",
    "port": 443,
    "udp": true,
    "type": "vless",
@@ -228,8 +224,26 @@
    "skip-cert-verify": true,
    "servername": "addons.mozilla.org",
    "reality-opts": {
-    "public-key": "NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M",
-    "short-id": "3cef317b"
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇦🇪_阿拉伯联合酋长国_12",
+   "server": "157.228.128.59",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "df53b6c2-8005-475c-9eb9-74e1be785dc8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "addons.mozilla.org",
+   "reality-opts": {
+    "public-key": "QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws",
+    "short-id": "06e00e7c"
    },
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
@@ -241,20 +255,20 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "_By_EbraSha_🚧",
-    "JP日本(mibei77.com_米贝节点分享)",
-    "_By_EbraSha_🎯",
+    "vmess-1798472999",
+    "_By_EbraSha_🧲",
     "@DeltaKroneckerGithub",
-    "🇵🇱_波兰_29",
+    "_By_EbraSha_🛸",
+    "_By_EbraSha_🌐",
     "vmess-1795528916",
     "vmess-1795528915",
     "vmess-1795528917",
+    "🇵🇱_波兰_29",
     "vmess-1795528918",
-    "vmess-1795528919",
-    "_By_EbraSha_🧪",
-    "vmess-1798472999",
+    "🇦🇪_阿拉伯联合酋长国_22",
     "@DeltaKroneckerGithub-1",
-    "🇦🇪_阿拉伯联合酋长国_28"
+    "🇦🇪_阿拉伯联合酋长国_17",
+    "🇦🇪_阿拉伯联合酋长国_12"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

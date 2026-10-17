@@ -2,46 +2,61 @@
  "proxies": [
   {
    "name": "US美国(mibei77.com_米贝节点分享)",
-   "server": "172.67.134.7",
-   "port": 2052,
+   "server": "155.46.167.30",
+   "port": 8880,
    "udp": true,
    "type": "vless",
-   "uuid": "f1e5d738-2e83-4e2f-b6d6-a9013b3e7e48",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
    "network": "ws",
    "ws-opts": {
-    "path": "/vl/u3oMYZoYUAozPFEA8UhR?ed=2560",
+    "path": "/",
     "headers": {
-     "Host": "a6o58qfpwvgrwmz0crtha0r24uyiu2l.x7-f5jb95s0ocjt-0.workers.dev"
+     "Host": "vms.lifetime50.workers.dev"
     }
    }
   },
   {
-   "name": "巴西(mibei77.com_米贝节点分享)",
-   "server": "108.162.198.178",
-   "port": 2052,
+   "name": "🇷🇺_俄罗斯_279",
+   "server": "185.148.104.30",
+   "port": 8880,
    "udp": true,
    "type": "vless",
-   "uuid": "47fcef29-ab4e-4aa6-932b-d95a18f28a4e",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
    "network": "ws",
    "ws-opts": {
-    "path": "/?ed=2560security=tls",
+    "path": "/",
     "headers": {
-     "Host": "8nj2r.2k8t.f88.hh.vavava.kdns.fr"
+     "Host": "vms.lifetime51.workers.dev"
     }
    }
   },
   {
-   "name": "巴西(mibei77.com_米贝节点分享)-1",
-   "server": "108.162.198.178",
-   "port": 80,
+   "name": "_By_EbraSha_📟",
+   "server": "185.148.107.30",
+   "port": 8880,
    "udp": true,
    "type": "vless",
-   "uuid": "47fcef29-ab4e-4aa6-932b-d95a18f28a4e",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
    "network": "ws",
    "ws-opts": {
-    "path": "/?ed=2560security=tls",
+    "path": "/",
     "headers": {
-     "Host": "8nj2r.2k8t.f88.hh.vavava.kdns.fr"
+     "Host": "vms.lifetime55.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🧿",
+   "server": "192.65.217.30",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "vms.lifetime37.workers.dev"
     }
    }
   },
@@ -59,6 +74,347 @@
      "Host": "vms.lifetime02.workers.dev"
     }
    }
+  },
+  {
+   "name": "@Alirewa-S1-58",
+   "server": "172.66.47.18",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "e7TTceggMwUMg+aFN:F4",
+   "sni": "APkD964o1oghlTghHt0L0Of.pAgeS.Dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560",
+    "headers": {
+     "Host": "apkd964o1oghltghht0l0of.pages.dev"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "US美国(mibei77.com_米贝节点分享)-1",
+   "server": "63.141.128.30",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "vms.lifetime42.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🩸",
+   "server": "104.17.189.184",
+   "port": 2096,
+   "udp": true,
+   "type": "vless",
+   "uuid": "da30a28c-5c01-4c93-8da8-c8d39d58bfb9",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "hk.yindu.cc.cd",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "hk.yindu.cc.cd"
+    }
+   }
+  },
+  {
+   "name": "By_EbraSha_👾",
+   "type": "vmess",
+   "server": "104.21.23.80",
+   "port": 443,
+   "uuid": "f5f0babe-aea2-4f07-a1fc-3c9820253f49",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "my.lovehk.xyz",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/KualaLumpur1",
+    "headers": {
+     "Host": "my.lovehk.xyz"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_💣",
+   "server": "152.232.57.10",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "082f5694-9019-4110-b67b-8125dbb9bab8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "api.videobereg.cc",
+   "reality-opts": {
+    "public-key": "r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs",
+    "short-id": "a8"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇺🇸_美国_285",
+   "server": "144.34.171.49",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "9e8ad642-c786-489a-b9b1-22379821fce8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "vpn.pokertool.site",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/ws-70a22f9c78d4cfa9",
+    "headers": {
+     "Host": "vpn.pokertool.site"
+    }
+   }
+  },
+  {
+   "name": "@DeltaKroneckerGithub",
+   "server": "2.27.21.85",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e625f8ef-f935-4c7d-a259-0f154b6842fd",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "seal-nl1.bypassme.online",
+   "reality-opts": {
+    "public-key": "jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk",
+    "short-id": "6b69118a7847c4c3"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "144.34.171.49",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "9e8ad642-c786-489a-b9b1-22379821fce8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "vpn.pokertool.site",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/ws-70a22f9c78d4cfa9",
+    "headers": {
+     "Host": "vpn.pokertool.site"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🖥️",
+   "server": "2.27.21.85",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e625f8ef-f935-4c7d-a259-0f154b6842fd",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "seal-nl1.bypassme.online",
+   "reality-opts": {
+    "public-key": "jQC3Kmmbu-CfUKlQaeuSn4I8dbqAZhpgihZhWu1SvBk",
+    "short-id": "6b69118a7847c4c3"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🤖",
+   "server": "144.34.171.49",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "9e8ad642-c786-489a-b9b1-22379821fce8",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "vpn.pokertool.site",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/ws-70a22f9c78d4cfa9",
+    "headers": {
+     "Host": "vpn.pokertool.site"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🧩",
+   "server": "45.128.60.127",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "1a11d3a8-f327-4f97-81b2-f776c138dec7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.nokia.com",
+   "reality-opts": {
+    "public-key": "kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI",
+    "short-id": "557d83da1a36996f"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇸🇬_新加坡_246",
+   "server": "43.174.195.1",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "24916ad0-847d-4522-9e17-f4347dee57fd",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "kv.074167.xyz",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "kv.074167.xyz"
+    }
+   }
+  },
+  {
+   "name": "🇸🇬_新加坡_247",
+   "server": "43.174.195.1",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "24916ad0-847d-4522-9e17-f4347dee57fd",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "kv.074167.xyz",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "kv.074167.xyz"
+    }
+   }
+  },
+  {
+   "name": "🇫🇮_芬兰_95",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "random",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "FI【机场推荐：https_//a9a.xyz】3",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "random",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🤖-1",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇫🇮_芬兰_92",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-2",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🚧",
+   "server": "104.244.94.21",
+   "port": 20543,
+   "udp": true,
+   "type": "vless",
+   "uuid": "4222e71c-9934-4d31-902d-ce178e8b9a54",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.cloudflare.com",
+   "reality-opts": {
+    "public-key": "0ZRIRi3Wr7XpWfOPc06yi7TIzl-ccP5fyS6RC2mDakI",
+    "short-id": "2ba1d452414f40ba"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
    "name": "SG新加坡(mibei77.com_米贝节点分享)",
@@ -79,1022 +435,255 @@
    }
   },
   {
-   "name": "瑞典(mibei77.com_米贝节点分享)",
-   "server": "34.51.240.236",
-   "port": 443,
+   "name": "🇺🇸_美国_100",
+   "server": "104.244.94.21",
+   "port": 20543,
    "udp": true,
    "type": "vless",
-   "uuid": "788950f8-dbd9-4234-a42c-a7204665ce9f",
+   "uuid": "4222e71c-9934-4d31-902d-ce178e8b9a54",
    "tls": true,
    "skip-cert-verify": true,
    "servername": "www.cloudflare.com",
    "reality-opts": {
-    "public-key": "SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE",
-    "short-id": "b4a6faed784ff461"
-   },
-   "client-fingerprint": "safari",
-   "network": "tcp"
-  },
-  {
-   "name": "瑞典(mibei77.com_米贝节点分享)-1",
-   "server": "34.51.240.236",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "788950f8-dbd9-4234-a42c-a7204665ce9f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE",
-    "short-id": "b4a6faed784ff461"
-   },
-   "client-fingerprint": "qq",
-   "network": "tcp"
-  },
-  {
-   "name": "瑞典(mibei77.com_米贝节点分享)-2",
-   "server": "34.51.240.236",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "788950f8-dbd9-4234-a42c-a7204665ce9f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE",
-    "short-id": "b4a6faed784ff461"
-   },
-   "client-fingerprint": "qq",
-   "network": "tcp"
-  },
-  {
-   "name": "瑞典(mibei77.com_米贝节点分享)-3",
-   "server": "34.51.240.236",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "788950f8-dbd9-4234-a42c-a7204665ce9f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE",
-    "short-id": "b4a6faed784ff461"
-   },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
-  },
-  {
-   "name": "瑞典(mibei77.com_米贝节点分享)-4",
-   "server": "34.51.240.236",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "788950f8-dbd9-4234-a42c-a7204665ce9f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
-   "reality-opts": {
-    "public-key": "SOvacyM6CABhBHYdOHvhXbkNLHJBHuAkoJj2Z13xKlE",
-    "short-id": "b4a6faed784ff461"
-   },
-   "client-fingerprint": "firefox",
-   "network": "tcp"
-  },
-  {
-   "name": "JP日本(mibei77.com_米贝节点分享)",
-   "server": "101.36.104.239",
-   "port": 10808,
-   "udp": true,
-   "type": "socks5"
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-1",
-   "server": "63.141.128.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime42.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-2",
-   "server": "91.206.71.8",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c20a0bcf-aa6f-4c35-9e62-a39b47b04e73",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/pyip=Telegram🇨🇳+@WangCai2",
-    "headers": {
-     "Host": "round-haze-8783.294.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-3",
-   "server": "91.206.71.8",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c20a0bcf-aa6f-4c35-9e62-a39b47b04e73",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/pyip=Telegram🇨🇳 @WangCai2",
-    "headers": {
-     "Host": "round-haze-8783.294.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-4",
-   "server": "172.67.183.52",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c8f3f81a-5276-48e9-af6b-c537fb4c7856",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vl/2INL39K32mKsOBKt?ed=2560",
-    "headers": {
-     "Host": "r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-5",
-   "server": "104.21.70.21",
-   "port": 8080,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8a36be1d-7c78-4885-8a1f-bedf5ba7db1c",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/rN50nmm9L1DeY73C?ed=2560",
-    "headers": {
-     "Host": "lucky-lab-ac6d.caveyi8071.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-6",
-   "server": "104.21.56.90",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c8f3f81a-5276-48e9-af6b-c537fb4c7856",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vl/2INL39K32mKsOBKt?ed=2560",
-    "headers": {
-     "Host": "r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-7",
-   "server": "172.67.207.26",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "26beb784-a664-4c3e-becf-0f0c12568b62",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/pyip=ProxyIP.JP.CMLiussss.net",
-    "headers": {
-     "Host": "twilight-poetry-2bfe.218-699.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-8",
-   "server": "172.67.183.52",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c8f3f81a-5276-48e9-af6b-c537fb4c7856",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vl/2INL39K32mKsOBKt?ed=2560",
-    "headers": {
-     "Host": "r7yhmg1zxnt120wmkag.mf1h0myptv4lougs7341bmttcz8.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-9",
-   "server": "188.114.96.3",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "69848b7f-3ee7-4c30-b035-6cff5e08ac4a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "us.luxes.network",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/assets?ed",
-    "headers": {}
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-10",
-   "server": "155.46.167.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime50.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-11",
-   "server": "172.67.79.160",
-   "port": 2087,
-   "udp": true,
-   "type": "vless",
-   "uuid": "a4a951b9-901d-4db8-8a7d-6df82c4b5c23",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "cvhpyn.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "cvhpyn.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-12",
-   "server": "172.64.150.28",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "humanity",
-   "sni": "www.calmlunch.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/assignment",
-    "headers": {
-     "Host": "www.calmlunch.com"
-    }
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-13",
-   "server": "31.76.84.174",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "4bdeee92-97e8-414d-bef6-ec1d5e2ab73b",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "yaruss.stopingiphatered.shop",
-   "reality-opts": {
-    "public-key": "bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk",
-    "short-id": "ff776ff77be48b88"
+    "public-key": "0ZRIRi3Wr7XpWfOPc06yi7TIzl-ccP5fyS6RC2mDakI",
+    "short-id": "2ba1d452414f40ba"
    },
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "US美国(mibei77.com_米贝节点分享)-14",
-   "server": "199.107.164.105",
+   "name": "_By_EbraSha_🔥",
+   "server": "152.233.71.81",
    "port": 443,
    "udp": true,
-   "type": "trojan",
-   "password": "8GXLP3dEzm7T8wP5Jx0Ufg",
-   "sni": "quictest.burncommunity.ru",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "quictest.burncommunity.ru"
-    }
-   },
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
    "skip-cert-verify": true,
-   "tls": true
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
-   "name": "NL荷兰(mibei77.com_米贝节点分享)",
-   "server": "188.164.248.123",
+   "name": "🇫🇮_芬兰_93",
+   "server": "152.233.71.81",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "741809be-e44e-000b-b411-bf66f0ae3860",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "brointelengence.com",
+   "reality-opts": {
+    "public-key": "6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY",
+    "short-id": "1c3e8241a8743df9"
+   },
+   "client-fingerprint": "random",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🧿-1",
+   "server": "centurylink.es",
    "port": 8443,
    "udp": true,
    "type": "vless",
-   "uuid": "7b102311-43fd-4e8f-877e-8090623c101d",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "vp21.cc.cd",
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "vp21.cc.cd"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "NL荷兰(mibei77.com_米贝节点分享)-1",
-   "server": "193.124.56.100",
-   "port": 2087,
-   "udp": true,
-   "type": "vless",
-   "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "qcswhj2.edge-cache.danfeng4.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/danfeng-pw8lj2-nzliwt-h23l-978coeve?ed=2560",
-    "headers": {
-     "Host": "qcswhj2.edge-cache.danfeng4.xyz"
-    }
-   }
-  },
-  {
-   "name": "KR韩国(mibei77.com_米贝节点分享)",
-   "server": "211.229.56.86",
-   "port": 30021,
-   "udp": true,
-   "type": "vless",
-   "uuid": "88ee0e1e-a2a2-477e-88ce-4875c058aeba",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "123.714541.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/Ra-vl",
-    "headers": {
-     "Host": "123.714541.xyz"
-    }
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)-15",
-   "server": "172.64.152.23",
+   "name": "_By_EbraSha_🧿-2",
+   "server": "31.76.227.60",
    "port": 443,
    "udp": true,
-   "type": "trojan",
-   "password": "humanity",
-   "sni": "www.calmlunch.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/assignment",
-    "headers": {
-     "Host": "www.calmlunch.com"
-    }
+   "type": "vless",
+   "uuid": "05c8eabe-96af-4db2-bb2f-a24fa84344ba",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "assets-mi-29.spbstudentlife.com",
+   "reality-opts": {
+    "public-key": "CcMEJ-JOS4clB3gXbc6wXgzkiJQbyNpKY90I8B6AqyU",
+    "short-id": "4c188683e2c14a3c"
    },
-   "skip-cert-verify": true,
-   "tls": true
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   },
   {
-   "name": "US美国(mibei77.com_米贝节点分享)-16",
-   "server": "104.16.98.215",
-   "port": 8880,
+   "name": "vmess-1832888826",
+   "type": "vmess",
+   "server": "172.67.195.146",
+   "port": 443,
+   "uuid": "f5f0babe-aea2-4f07-a1fc-3c9820253f49",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "aus.lovehk.xyz",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/Sydney3",
+    "headers": {
+     "Host": "aus.lovehk.xyz"
+    }
+   }
+  },
+  {
+   "name": "_By_EbraSha_🎛️",
+   "server": "164.37.224.244",
+   "port": 25239,
    "udp": true,
    "type": "vless",
-   "uuid": "23187ddc-16a5-432d-bf4e-dd42a7ae39f7",
+   "uuid": "d54a7512-dda3-4218-8ae7-c591d300fd7c",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.microsoft.com",
+   "reality-opts": {
+    "public-key": "0hYbfdNYeWetabbW1wCcrwi0e1VQA45Jhgi42YxU5nk",
+    "short-id": "9a382b227140e86f"
+   },
+   "client-fingerprint": "firefox",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🪬",
+   "server": "centurylink.es",
+   "port": 8443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "steep-thunder-97fa.108-d10.workers.dev"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "US_BBs7",
-   "type": "vmess",
-   "server": "108.174.61.161",
-   "port": 59581,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
+   "name": "_By_EbraSha_💣-1",
+   "server": "centurylink.es",
+   "port": 8443,
    "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
-    "path": "/vmess?ed",
+    "path": "/",
     "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "US_BBs7-1",
-   "type": "vmess",
-   "server": "108.174.61.161",
-   "port": 38712,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
+   "name": "_By_EbraSha_🛡️",
+   "server": "centurylink.es",
+   "port": 8443,
    "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
-    "path": "/vmess?ed",
+    "path": "/",
     "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "US_BBs7-2",
-   "type": "vmess",
-   "server": "107.173.80.146",
-   "port": 2059,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
+   "name": "_By_EbraSha_🔌",
+   "server": "centurylink.es",
+   "port": 8443,
    "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
-    "path": "/vmess?ed",
+    "path": "/",
     "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "JP_BBs7",
-   "type": "vmess",
-   "server": "160.251.204.134",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
+   "name": "_By_EbraSha_💻",
+   "server": "centurylink.es",
+   "port": 8443,
    "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
-    "path": "/vmess?ed",
+    "path": "/",
     "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   },
   {
-   "name": "DE_BBs7",
-   "type": "vmess",
-   "server": "138.68.64.213",
-   "port": 2096,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "FI_BBs7",
-   "type": "vmess",
-   "server": "62.60.254.44",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "NL_BBs7",
-   "type": "vmess",
-   "server": "158.173.195.43",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "NL_BBs7-1",
-   "type": "vmess",
-   "server": "188.166.9.238",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-1",
-   "type": "vmess",
-   "server": "207.154.237.245",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "US_BBs7-3",
-   "type": "vmess",
-   "server": "186.241.106.8",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "GB_BBs7",
-   "type": "vmess",
-   "server": "165.232.43.42",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-2",
-   "type": "vmess",
-   "server": "209.38.241.118",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7",
-   "type": "vmess",
-   "server": "162.159.152.225",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-1",
-   "type": "vmess",
-   "server": "162.159.152.53",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-2",
-   "type": "vmess",
-   "server": "162.159.152.69",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-3",
-   "type": "vmess",
-   "server": "162.159.153.209",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-4",
-   "type": "vmess",
-   "server": "162.159.153.212",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-5",
-   "type": "vmess",
-   "server": "162.159.153.144",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "US_BBs7-4",
-   "type": "vmess",
-   "server": "172.93.217.191",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "JP_BBs7-1",
-   "type": "vmess",
-   "server": "131.186.45.53",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-3",
-   "type": "vmess",
-   "server": "143.20.160.37",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-4",
-   "type": "vmess",
-   "server": "157.230.22.243",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "EE_BBs7",
-   "type": "vmess",
-   "server": "5.101.118.146",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "US_BBs7-5",
-   "type": "vmess",
-   "server": "141.148.159.253",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-5",
-   "type": "vmess",
-   "server": "165.227.149.20",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "NL_BBs7-2",
-   "type": "vmess",
-   "server": "188.166.75.64",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-6",
-   "type": "vmess",
-   "server": "162.159.152.11",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-7",
-   "type": "vmess",
-   "server": "162.159.153.194",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-8",
-   "type": "vmess",
-   "server": "162.159.152.81",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CT_BBs7-9",
-   "type": "vmess",
-   "server": "162.159.153.156",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选12",
-   "server": "91.193.59.34",
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "31.76.227.60",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "uuid": "05c8eabe-96af-4db2-bb2f-a24fa84344ba",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
+   "servername": "assets-mi-29.spbstudentlife.com",
+   "reality-opts": {
+    "public-key": "CcMEJ-JOS4clB3gXbc6wXgzkiJQbyNpKY90I8B6AqyU",
+    "short-id": "4c188683e2c14a3c"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "_By_EbraSha_🦇",
+   "server": "centurylink.es",
+   "port": 8443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "c136a12c-4260-48a7-a1e6-fbda83a11045",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "free.sahanwickramasinghe.me",
    "network": "ws",
    "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
+    "path": "/",
     "headers": {
-     "Host": "mianfei-73q.pages.dev"
+     "Host": "free.sahanwickramasinghe.me"
     }
    }
   }
@@ -1105,66 +694,44 @@
    "type": "url-test",
    "proxies": [
     "US美国(mibei77.com_米贝节点分享)",
-    "巴西(mibei77.com_米贝节点分享)",
-    "巴西(mibei77.com_米贝节点分享)-1",
+    "🇷🇺_俄罗斯_279",
+    "_By_EbraSha_📟",
+    "_By_EbraSha_🧿",
     "GB英国(mibei77.com_米贝节点分享)",
-    "SG新加坡(mibei77.com_米贝节点分享)",
-    "瑞典(mibei77.com_米贝节点分享)",
-    "瑞典(mibei77.com_米贝节点分享)-1",
-    "瑞典(mibei77.com_米贝节点分享)-2",
-    "瑞典(mibei77.com_米贝节点分享)-3",
-    "瑞典(mibei77.com_米贝节点分享)-4",
-    "JP日本(mibei77.com_米贝节点分享)",
+    "@Alirewa-S1-58",
     "US美国(mibei77.com_米贝节点分享)-1",
-    "US美国(mibei77.com_米贝节点分享)-2",
-    "US美国(mibei77.com_米贝节点分享)-3",
-    "US美国(mibei77.com_米贝节点分享)-4",
-    "US美国(mibei77.com_米贝节点分享)-5",
-    "US美国(mibei77.com_米贝节点分享)-6",
-    "US美国(mibei77.com_米贝节点分享)-7",
-    "US美国(mibei77.com_米贝节点分享)-8",
-    "US美国(mibei77.com_米贝节点分享)-9",
-    "US美国(mibei77.com_米贝节点分享)-10",
-    "US美国(mibei77.com_米贝节点分享)-11",
-    "US美国(mibei77.com_米贝节点分享)-12",
-    "US美国(mibei77.com_米贝节点分享)-13",
-    "US美国(mibei77.com_米贝节点分享)-14",
-    "NL荷兰(mibei77.com_米贝节点分享)",
-    "NL荷兰(mibei77.com_米贝节点分享)-1",
-    "KR韩国(mibei77.com_米贝节点分享)",
-    "US美国(mibei77.com_米贝节点分享)-15",
-    "US美国(mibei77.com_米贝节点分享)-16",
-    "US_BBs7",
-    "US_BBs7-1",
-    "US_BBs7-2",
-    "JP_BBs7",
-    "DE_BBs7",
-    "FI_BBs7",
-    "NL_BBs7",
-    "NL_BBs7-1",
-    "DE_BBs7-1",
-    "US_BBs7-3",
-    "GB_BBs7",
-    "DE_BBs7-2",
-    "CT_BBs7",
-    "CT_BBs7-1",
-    "CT_BBs7-2",
-    "CT_BBs7-3",
-    "CT_BBs7-4",
-    "CT_BBs7-5",
-    "US_BBs7-4",
-    "JP_BBs7-1",
-    "DE_BBs7-3",
-    "DE_BBs7-4",
-    "EE_BBs7",
-    "US_BBs7-5",
-    "DE_BBs7-5",
-    "NL_BBs7-2",
-    "CT_BBs7-6",
-    "CT_BBs7-7",
-    "CT_BBs7-8",
-    "CT_BBs7-9",
-    "CF官方优选12"
+    "_By_EbraSha_🩸",
+    "By_EbraSha_👾",
+    "_By_EbraSha_💣",
+    "🇺🇸_美国_285",
+    "@DeltaKroneckerGithub",
+    "@DeltaKroneckerGithub-1",
+    "_By_EbraSha_🖥️",
+    "_By_EbraSha_🤖",
+    "_By_EbraSha_🧩",
+    "🇸🇬_新加坡_246",
+    "🇸🇬_新加坡_247",
+    "🇫🇮_芬兰_95",
+    "FI【机场推荐：https_//a9a.xyz】3",
+    "_By_EbraSha_🤖-1",
+    "🇫🇮_芬兰_92",
+    "@DeltaKroneckerGithub-2",
+    "_By_EbraSha_🚧",
+    "SG新加坡(mibei77.com_米贝节点分享)",
+    "🇺🇸_美国_100",
+    "_By_EbraSha_🔥",
+    "🇫🇮_芬兰_93",
+    "_By_EbraSha_🧿-1",
+    "_By_EbraSha_🧿-2",
+    "vmess-1832888826",
+    "_By_EbraSha_🎛️",
+    "_By_EbraSha_🪬",
+    "_By_EbraSha_💣-1",
+    "_By_EbraSha_🛡️",
+    "_By_EbraSha_🔌",
+    "_By_EbraSha_💻",
+    "@DeltaKroneckerGithub-3",
+    "_By_EbraSha_🦇"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

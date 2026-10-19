@@ -1,21 +1,6 @@
 {
  "proxies": [
   {
-   "name": "vless-1853353038",
-   "server": "185.176.26.50",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2560",
-    "headers": {
-     "Host": "vms.lifetime06.workers.dev"
-    }
-   }
-  },
-  {
    "name": "🏳️_未知_188",
    "server": "jjkkll.ccwu.cc",
    "port": 443,
@@ -32,24 +17,6 @@
      "Host": "jjkkll.ccwu.cc"
     }
    }
-  },
-  {
-   "name": "vless-1827738657",
-   "server": "hk04.ccdn3.work",
-   "port": 771,
-   "udp": true,
-   "type": "vless",
-   "uuid": "fc12fb20-4380-11ec-8c97-d707e267af0b",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i1.hdslb.com",
-   "reality-opts": {
-    "public-key": "8lVH2hOKaovzzmCn6DVEHI8CoEn-0AxbQgsMbtToi38",
-    "short-id": "e89440e56ecf6255"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
   },
   {
    "name": "🏳️_未知_190",
@@ -70,51 +37,66 @@
    }
   },
   {
-   "name": "vless-1851981556",
-   "server": "109.172.54.135",
-   "port": 8444,
+   "name": "🇯🇵_日本_JPN_3",
+   "server": "4c2d5151.266nets.com",
+   "port": 12019,
+   "udp": true,
+   "type": "trojan",
+   "password": "bad06c3525a6eaee1757b34776b83892",
+   "sni": "ixigua.com",
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub",
+   "server": "88.218.170.236",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f55e9aba-7b14-4f6f-b59a-d5b3d45c9309",
+   "uuid": "b872771d-e9d1-42d7-ad29-a9acff49ea2d",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "github.com",
+   "servername": "www.sun6-21.userapi.com",
    "reality-opts": {
-    "public-key": "FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0",
-    "short-id": ""
+    "public-key": "qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY",
+    "short-id": "3199b70105c62ce0"
    },
-   "client-fingerprint": "safari",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "GunService"
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "104.27.88.172",
+   "port": 80,
+   "udp": true,
+   "type": "vless",
+   "uuid": "50414e45-4c5f-5a45-5553-52108a2d5224",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/api/ws",
+    "headers": {
+     "Host": "web-app-nr6wpa.app-tp57xz.workers.dev"
+    }
    }
   },
   {
-   "name": "socks5-6",
-   "server": "89.58.42.118",
-   "port": 3129,
-   "udp": true,
-   "type": "socks5"
-  },
-  {
-   "name": "芬兰(mibei77.com_米贝节点分享)",
-   "server": "109.172.54.135",
-   "port": 8444,
+   "name": "美国+加利福尼亚",
+   "server": "64.188.66.181",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "f55e9aba-7b14-4f6f-b59a-d5b3d45c9309",
+   "uuid": "f8d52ece-fad4-478d-875d-df6eed3befa7",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "github.com",
+   "servername": "ge-s-1.pythonmakemigreat.wiki",
    "reality-opts": {
-    "public-key": "FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0",
-    "short-id": ""
+    "public-key": "5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8",
+    "short-id": "2c9a2790ad5900b2"
    },
    "client-fingerprint": "chrome",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "GunService"
-   }
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   }
  ],
  "proxy-groups": [
@@ -122,13 +104,12 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "vless-1853353038",
     "🏳️_未知_188",
-    "vless-1827738657",
     "🏳️_未知_190",
-    "vless-1851981556",
-    "socks5-6",
-    "芬兰(mibei77.com_米贝节点分享)"
+    "🇯🇵_日本_JPN_3",
+    "@DeltaKroneckerGithub",
+    "@DeltaKroneckerGithub-1",
+    "美国+加利福尼亚"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

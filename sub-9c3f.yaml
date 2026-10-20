@@ -1,563 +1,7 @@
 {
  "proxies": [
   {
-   "name": "🏳️_未知_449",
-   "server": "104.16.240.177",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_458",
-   "server": "104.17.142.212",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_450",
-   "server": "104.16.92.120",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_459",
-   "server": "104.17.162.3",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🇺🇸_美国_448",
-   "server": "162.159.140.85",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_462",
-   "server": "104.17.145.43",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_461",
-   "server": "104.17.145.145",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_457",
-   "server": "104.17.125.98",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_455",
-   "server": "104.17.69.244",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_468",
-   "server": "104.18.39.153",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_447",
-   "server": "172.64.159.65",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_454",
-   "server": "104.17.91.92",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_460",
-   "server": "104.17.146.69",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_446",
-   "server": "104.16.65.1",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_451",
-   "server": "104.17.17.145",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_466",
-   "server": "104.18.33.121",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_469",
-   "server": "104.18.39.78",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🇸🇬_新加坡_28",
-   "server": "jklo.personalitytoday.com",
-   "port": 55069,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2332eff-b231-4c10-8552-5dfad84f5521",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.apple.com",
-   "reality-opts": {
-    "public-key": "YQ3pqAAbm2RcACEkU8K0nol3-B-driJbXISk-rb-A0E",
-    "short-id": "98a763b0b27e284b"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🏳️_未知_456",
-   "server": "104.17.139.37",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_464",
-   "server": "104.17.187.57",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_434",
-   "server": "js.org",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_463",
-   "server": "104.17.167.134",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_467",
-   "server": "104.18.33.225",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_423",
-   "server": "markmonitor.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_453",
-   "server": "104.17.22.231",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_428",
-   "server": "www.giannidelprete.it",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "@Alirewa-S1-26",
-   "server": "172.66.47.18",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "e7TTceggMwUMg+aFN:F4",
-   "sni": "APkD964o1oghlTghHt0L0Of.pAgeS.Dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560",
-    "headers": {}
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "🏳️_未知_445",
-   "server": "162.159.24.131",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_465",
-   "server": "104.18.35.200",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_443",
-   "server": "104.26.5.134",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_471",
-   "server": "104.17.215.2",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "vless-1853652313",
+   "name": "vless-1853652433",
    "server": "141.11.138.132",
    "port": 443,
    "udp": true,
@@ -570,74 +14,23 @@
     "public-key": "Kb511WMVMJe1nImN8kCi9PdPQSGu3aZCrffMOvzv43A",
     "short-id": "f9ca9286d0ff8920"
    },
-   "client-fingerprint": "ios",
+   "client-fingerprint": "safari",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "vless-1827154247",
-   "server": "104.18.109.147",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c29d39bd-92a4-45db-bb61-56013998617c",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/telegram-xv2ry2",
-    "headers": {
-     "Host": "www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com"
-    }
-   }
-  },
-  {
-   "name": "🏳️_未知_470",
-   "server": "104.18.40.77",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
   },
   {
    "name": "@DeltaKroneckerGithub",
-   "server": "jklo.personalitytoday.com",
-   "port": 55069,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2332eff-b231-4c10-8552-5dfad84f5521",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.apple.com",
-   "reality-opts": {
-    "public-key": "YQ3pqAAbm2RcACEkU8K0nol3-B-driJbXISk-rb-A0E",
-    "short-id": "98a763b0b27e284b"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "vless-1853652390",
-   "server": "141.11.138.132",
+   "server": "149.104.30.138",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "b47cc98c-54f4-4ab2-acb9-b493a04ccc6b",
+   "uuid": "a33cfdfd-90af-4e5b-a42e-047293c528e6",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.cloudflare.com",
+   "servername": "www.bing.com",
    "reality-opts": {
-    "public-key": "Kb511WMVMJe1nImN8kCi9PdPQSGu3aZCrffMOvzv43A",
-    "short-id": "f9ca9286d0ff8920"
+    "public-key": "za53zkNAm5tPgC6ZTU1oM90ofHaI9ODk-6msB-M3cWU",
+    "short-id": "0f65424c53d491e6"
    },
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
@@ -662,7 +55,7 @@
    "network": "tcp"
   },
   {
-   "name": "vless-1853341652",
+   "name": "vless-1853652390",
    "server": "141.11.138.132",
    "port": 443,
    "udp": true,
@@ -674,13 +67,31 @@
    "reality-opts": {
     "public-key": "Kb511WMVMJe1nImN8kCi9PdPQSGu3aZCrffMOvzv43A",
     "short-id": "f9ca9286d0ff8920"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "13.143.162.138",
+   "port": 8443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "5d0c6f95-7e53-45eb-ba93-89c90331954a",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "st7-23.vk.com",
+   "reality-opts": {
+    "public-key": "D16XKCyXDstbMKxA1qHzgL6AfOcwbQBFF9XKdNoVL04",
+    "short-id": "00000000"
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
   {
-   "name": "vless-1853652433",
+   "name": "vless-1853652313",
    "server": "141.11.138.132",
    "port": 443,
    "udp": true,
@@ -693,64 +104,9 @@
     "public-key": "Kb511WMVMJe1nImN8kCi9PdPQSGu3aZCrffMOvzv43A",
     "short-id": "f9ca9286d0ff8920"
    },
-   "client-fingerprint": "safari",
+   "client-fingerprint": "ios",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "🏳️_未知_444",
-   "server": "104.21.206.255",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "44d636ef-7056-4bdf-a3f4-acabe2adfc6f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "i5be.fbk.hhll.vavava.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?auto=1&ed=2560",
-    "headers": {
-     "Host": "i5be.fbk.hhll.vavava.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-1",
-   "server": "47.250.84.25",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "5931134d1cde66bf83a54acdfebe7ab2",
-   "sni": "47.250.84.25",
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "vless-1831075243",
-   "server": "104.19.173.68",
-   "port": 8080,
-   "udp": true,
-   "type": "vless",
-   "uuid": "2500e602-671c-4654-a602-c518b7282167",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "2639w-throbbing-band-3840.xphnn6jp.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "🇲🇾_www.v2nodes.com_trojan-MY-...",
-   "server": "47.250.84.25",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "5931134d1cde66bf83a54acdfebe7ab2",
-   "sni": "47.250.84.25",
-   "skip-cert-verify": true,
-   "tls": true
   },
   {
    "name": "🇺🇸_美国_181",
@@ -808,24 +164,6 @@
   },
   {
    "name": "@DeltaKroneckerGithub-2",
-   "server": "199.232.239.239",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "434f0115-bf40-44ac-cf80-5c14f4b6f6b3",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.firefox.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2056",
-    "headers": {
-     "Host": "mpkoe7ypcibr80p102020.global.ssl.fastly.net"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-3",
    "server": "212.134.252.249",
    "port": 15407,
    "udp": true,
@@ -843,60 +181,31 @@
    "network": "tcp"
   },
   {
-   "name": "vless-1842703155",
-   "server": "45.133.151.167",
-   "port": 25481,
+   "name": "🇲🇾_www.v2nodes.com_trojan-MY-...",
+   "server": "47.250.84.25",
+   "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "68c3d665-b2b5-4ffb-9f37-9f3d8c47324d",
-   "tls": true,
+   "type": "trojan",
+   "password": "5931134d1cde66bf83a54acdfebe7ab2",
+   "sni": "47.250.84.25",
    "skip-cert-verify": true,
-   "servername": "www.bing.com",
-   "reality-opts": {
-    "public-key": "mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E",
-    "short-id": "3b84fc70657725af"
-   },
-   "client-fingerprint": "chrome",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "8cb5baa18cd7"
-   }
+   "tls": true
   },
   {
-   "name": "vless-1853442985",
-   "server": "45.133.151.167",
-   "port": 25481,
+   "name": "vless-1853341652",
+   "server": "141.11.138.132",
+   "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "68c3d665-b2b5-4ffb-9f37-9f3d8c47324d",
+   "uuid": "b47cc98c-54f4-4ab2-acb9-b493a04ccc6b",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "www.bing.com",
+   "servername": "www.cloudflare.com",
    "reality-opts": {
-    "public-key": "mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E",
-    "short-id": "3b84fc70657725af"
+    "public-key": "Kb511WMVMJe1nImN8kCi9PdPQSGu3aZCrffMOvzv43A",
+    "short-id": "f9ca9286d0ff8920"
    },
-   "client-fingerprint": "edge",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "8cb5baa18cd7"
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-4",
-   "server": "162.128.44.254",
-   "port": 36000,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2332eff-b231-4c10-8552-5dfad84f5521",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.apple.com",
-   "reality-opts": {
-    "public-key": "X_RnxIw_MpC_qCMcsgM3CDcPx2y6LGVl7UMms0IxOkI",
-    "short-id": "8cd87cd0dcc86b9f"
-   },
-   "client-fingerprint": "chrome",
+   "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
   },
@@ -917,6 +226,24 @@
    "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
+  },
+  {
+   "name": "🇸🇬_新加坡_28",
+   "server": "jklo.personalitytoday.com",
+   "port": 55069,
+   "udp": true,
+   "type": "vless",
+   "uuid": "b2332eff-b231-4c10-8552-5dfad84f5521",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.apple.com",
+   "reality-opts": {
+    "public-key": "YQ3pqAAbm2RcACEkU8K0nol3-B-driJbXISk-rb-A0E",
+    "short-id": "98a763b0b27e284b"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   }
  ],
  "proxy-groups": [
@@ -924,58 +251,20 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "🏳️_未知_449",
-    "🏳️_未知_458",
-    "🏳️_未知_450",
-    "🏳️_未知_459",
-    "🇺🇸_美国_448",
-    "🏳️_未知_462",
-    "🏳️_未知_461",
-    "🏳️_未知_457",
-    "🏳️_未知_455",
-    "🏳️_未知_468",
-    "🏳️_未知_447",
-    "🏳️_未知_454",
-    "🏳️_未知_460",
-    "🏳️_未知_446",
-    "🏳️_未知_451",
-    "🏳️_未知_466",
-    "🏳️_未知_469",
-    "🇸🇬_新加坡_28",
-    "🏳️_未知_456",
-    "🏳️_未知_464",
-    "🏳️_未知_434",
-    "🏳️_未知_463",
-    "🏳️_未知_467",
-    "🏳️_未知_423",
-    "🏳️_未知_453",
-    "🏳️_未知_428",
-    "@Alirewa-S1-26",
-    "🏳️_未知_445",
-    "🏳️_未知_465",
-    "🏳️_未知_443",
-    "🏳️_未知_471",
-    "vless-1853652313",
-    "vless-1827154247",
-    "🏳️_未知_470",
-    "@DeltaKroneckerGithub",
-    "vless-1853652390",
-    "🇯🇵_日本_27",
-    "vless-1853341652",
     "vless-1853652433",
-    "🏳️_未知_444",
+    "@DeltaKroneckerGithub",
+    "🇯🇵_日本_27",
+    "vless-1853652390",
     "@DeltaKroneckerGithub-1",
-    "vless-1831075243",
-    "🇲🇾_www.v2nodes.com_trojan-MY-...",
+    "vless-1853652313",
     "🇺🇸_美国_181",
     "🏳️_未知_179",
     "🏳️_未知_180",
     "@DeltaKroneckerGithub-2",
-    "@DeltaKroneckerGithub-3",
-    "vless-1842703155",
-    "vless-1853442985",
-    "@DeltaKroneckerGithub-4",
-    "🇸🇬_新加坡_30"
+    "🇲🇾_www.v2nodes.com_trojan-MY-...",
+    "vless-1853341652",
+    "🇸🇬_新加坡_30",
+    "🇸🇬_新加坡_28"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

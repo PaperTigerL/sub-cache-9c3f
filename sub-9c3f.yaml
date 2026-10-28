@@ -136793,70 +136793,10 @@
    }
   },
   {
-   "name": "SG_BBs7-1",
-   "type": "vmess",
-   "server": "188.166.234.172",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "CA_BBs7",
-   "type": "vmess",
-   "server": "24.84.0.55",
-   "port": 8443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
    "name": "GB_BBs7",
    "type": "vmess",
-   "server": "178.128.42.47",
+   "server": "178.128.34.102",
    "port": 2083,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "GB_BBs7-1",
-   "type": "vmess",
-   "server": "147.45.76.29",
-   "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -136875,8 +136815,8 @@
   {
    "name": "NL_BBs7-1",
    "type": "vmess",
-   "server": "178.62.249.155",
-   "port": 2083,
+   "server": "5.175.221.129",
+   "port": 2096,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -136895,68 +136835,68 @@
   {
    "name": "NL_BBs7-2",
    "type": "vmess",
-   "server": "188.166.65.62",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7",
-   "type": "vmess",
-   "server": "130.17.24.149",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "FI_BBs7",
-   "type": "vmess",
-   "server": "141.98.87.145",
-   "port": 8443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-1",
-   "type": "vmess",
-   "server": "206.81.30.239",
+   "server": "188.166.17.204",
    "port": 2096,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "LV_BBs7",
+   "type": "vmess",
+   "server": "31.57.106.35",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "GB_BBs7-1",
+   "type": "vmess",
+   "server": "167.99.93.13",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "FR_BBs7",
+   "type": "vmess",
+   "server": "31.59.121.156",
+   "port": 2053,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -136975,7 +136915,27 @@
   {
    "name": "US_BBs7-4",
    "type": "vmess",
-   "server": "209.146.115.81",
+   "server": "117.55.231.178",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "LV_BBs7-1",
+   "type": "vmess",
+   "server": "31.57.107.41",
    "port": 8443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -136993,30 +136953,10 @@
    }
   },
   {
-   "name": "DE_BBs7-2",
+   "name": "US_BBs7-5",
    "type": "vmess",
-   "server": "64.188.118.5",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "PL_BBs7",
-   "type": "vmess",
-   "server": "144.31.2.121",
-   "port": 443,
+   "server": "142.248.219.183",
+   "port": 2053,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137035,8 +136975,8 @@
   {
    "name": "GB_BBs7-2",
    "type": "vmess",
-   "server": "206.189.113.62",
-   "port": 443,
+   "server": "159.65.86.98",
+   "port": 2087,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137053,10 +136993,10 @@
    }
   },
   {
-   "name": "JP_BBs7-2",
+   "name": "US_BBs7-6",
    "type": "vmess",
-   "server": "131.186.45.53",
-   "port": 443,
+   "server": "142.248.218.217",
+   "port": 2053,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137073,30 +137013,90 @@
    }
   },
   {
-   "name": "DE_BBs7-3",
+   "name": "SG_BBs7-1",
    "type": "vmess",
-   "server": "167.71.48.187",
-   "port": 2083,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmess?ed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "NL_BBs7-3",
-   "type": "vmess",
-   "server": "147.45.101.55",
+   "server": "195.85.19.230",
    "port": 8443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "LV_BBs7-2",
+   "type": "vmess",
+   "server": "193.124.22.212",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "BG_BBs7",
+   "type": "vmess",
+   "server": "194.110.87.161",
+   "port": 8443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "SE_BBs7",
+   "type": "vmess",
+   "server": "176.126.84.104",
+   "port": 8443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmess?ed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "GB_BBs7-3",
+   "type": "vmess",
+   "server": "143.110.171.182",
+   "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137115,7 +137115,7 @@
   {
    "name": "CT_BBs7",
    "type": "vmess",
-   "server": "162.159.153.184",
+   "server": "162.159.152.31",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137135,7 +137135,7 @@
   {
    "name": "CT_BBs7-1",
    "type": "vmess",
-   "server": "162.159.153.170",
+   "server": "162.159.153.239",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137155,7 +137155,7 @@
   {
    "name": "CT_BBs7-2",
    "type": "vmess",
-   "server": "162.159.153.72",
+   "server": "162.159.153.156",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137175,7 +137175,7 @@
   {
    "name": "CT_BBs7-3",
    "type": "vmess",
-   "server": "162.159.152.11",
+   "server": "162.159.152.53",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137195,7 +137195,7 @@
   {
    "name": "CT_BBs7-4",
    "type": "vmess",
-   "server": "162.159.153.209",
+   "server": "162.159.152.69",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137215,7 +137215,7 @@
   {
    "name": "CT_BBs7-5",
    "type": "vmess",
-   "server": "162.159.152.225",
+   "server": "162.159.153.216",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137284,10 +137284,50 @@
    }
   },
   {
-   "name": "FI_BBs7-1",
+   "name": "FR_BBs7-1",
    "type": "vmess",
-   "server": "62.60.254.44",
+   "server": "217.60.252.25",
    "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "DE_BBs7",
+   "type": "vmess",
+   "server": "185.143.238.28",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "NL_BBs7-3",
+   "type": "vmess",
+   "server": "178.62.228.15",
+   "port": 2087,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137306,128 +137346,8 @@
   {
    "name": "NL_BBs7-4",
    "type": "vmess",
-   "server": "146.185.134.241",
-   "port": 8443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-4",
-   "type": "vmess",
-   "server": "152.53.156.23",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "SG_BBs7-2",
-   "type": "vmess",
-   "server": "45.139.226.92",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-5",
-   "type": "vmess",
-   "server": "188.245.224.48",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "FR_BBs7",
-   "type": "vmess",
-   "server": "152.228.191.232",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-6",
-   "type": "vmess",
-   "server": "77.110.107.151",
-   "port": 443,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "US_BBs7-5",
-   "type": "vmess",
-   "server": "117.55.231.178",
-   "port": 443,
+   "server": "31.59.46.182",
+   "port": 2053,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
    "cipher": "auto",
@@ -137446,7 +137366,67 @@
   {
    "name": "NL_BBs7-5",
    "type": "vmess",
-   "server": "209.38.109.184",
+   "server": "194.87.44.19",
+   "port": 2053,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "US_BBs7-7",
+   "type": "vmess",
+   "server": "45.143.130.216",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "GB_BBs7-4",
+   "type": "vmess",
+   "server": "165.232.45.172",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "DE_BBs7-1",
+   "type": "vmess",
+   "server": "144.31.64.59",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137466,7 +137446,7 @@
   {
    "name": "NL_BBs7-6",
    "type": "vmess",
-   "server": "167.99.44.172",
+   "server": "147.90.218.2",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137484,29 +137464,9 @@
    }
   },
   {
-   "name": "DE_BBs7-7",
+   "name": "DE_BBs7-2",
    "type": "vmess",
-   "server": "207.154.246.53",
-   "port": 2096,
-   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
-   "alterId": 0,
-   "cipher": "auto",
-   "udp": true,
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "serv00s07.wangdaju.pp.ua",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/vmessed",
-    "headers": {
-     "Host": "serv00s07.wangdaju.pp.ua"
-    }
-   }
-  },
-  {
-   "name": "DE_BBs7-8",
-   "type": "vmess",
-   "server": "138.124.39.82",
+   "server": "152.53.20.86",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137524,9 +137484,49 @@
    }
   },
   {
-   "name": "DE_BBs7-9",
+   "name": "FR_BBs7-2",
    "type": "vmess",
-   "server": "178.128.203.165",
+   "server": "109.120.179.99",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "FI_BBs7",
+   "type": "vmess",
+   "server": "2.26.28.130",
+   "port": 443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "DE_BBs7-3",
+   "type": "vmess",
+   "server": "104.248.132.134",
    "port": 8443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137544,9 +137544,9 @@
    }
   },
   {
-   "name": "FI_BBs7-2",
+   "name": "TR_BBs7",
    "type": "vmess",
-   "server": "185.202.207.30",
+   "server": "193.57.136.201",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137564,9 +137564,29 @@
    }
   },
   {
-   "name": "US_BBs7-6",
+   "name": "NL_BBs7-7",
    "type": "vmess",
-   "server": "147.45.60.98",
+   "server": "164.92.144.181",
+   "port": 8443,
+   "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "serv00s07.wangdaju.pp.ua",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/vmessed",
+    "headers": {
+     "Host": "serv00s07.wangdaju.pp.ua"
+    }
+   }
+  },
+  {
+   "name": "NL_BBs7-8",
+   "type": "vmess",
+   "server": "143.14.1.4",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137586,7 +137606,7 @@
   {
    "name": "CT_BBs7-6",
    "type": "vmess",
-   "server": "162.159.153.144",
+   "server": "162.159.152.205",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137606,7 +137626,7 @@
   {
    "name": "CT_BBs7-7",
    "type": "vmess",
-   "server": "162.159.152.31",
+   "server": "162.159.153.144",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137626,7 +137646,7 @@
   {
    "name": "CT_BBs7-8",
    "type": "vmess",
-   "server": "162.159.153.217",
+   "server": "162.159.153.72",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137646,7 +137666,7 @@
   {
    "name": "CT_BBs7-9",
    "type": "vmess",
-   "server": "162.159.153.216",
+   "server": "162.159.153.209",
    "port": 443,
    "uuid": "d36c4d9f-31c4-45f1-8c64-102a6142001e",
    "alterId": 0,
@@ -137665,8 +137685,8 @@
   },
   {
    "name": "CF官方优选1",
-   "server": "172.64.229.17",
-   "port": 2096,
+   "server": "172.64.154.221",
+   "port": 2083,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -137683,43 +137703,7 @@
   },
   {
    "name": "CF官方优选2",
-   "server": "104.18.35.183",
-   "port": 2053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
-    "headers": {
-     "Host": "mianfei-73q.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选3",
-   "server": "104.17.136.36",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
-    "headers": {
-     "Host": "mianfei-73q.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选4",
-   "server": "162.159.158.6",
+   "server": "104.16.205.1",
    "port": 2087,
    "udp": true,
    "type": "vless",
@@ -137736,44 +137720,8 @@
    }
   },
   {
-   "name": "CF官方优选5",
-   "server": "104.17.29.132",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
-    "headers": {
-     "Host": "mianfei-73q.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选6",
-   "server": "104.17.152.206",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
-    "headers": {
-     "Host": "mianfei-73q.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选7",
-   "server": "104.16.255.26",
+   "name": "CF官方优选3",
+   "server": "104.19.46.230",
    "port": 2096,
    "udp": true,
    "type": "vless",
@@ -137790,8 +137738,80 @@
    }
   },
   {
+   "name": "CF官方优选4",
+   "server": "172.64.156.0",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mianfei-73q.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/proxyip=154.3.33.43",
+    "headers": {
+     "Host": "mianfei-73q.pages.dev"
+    }
+   }
+  },
+  {
+   "name": "CF官方优选5",
+   "server": "104.18.47.219",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mianfei-73q.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/proxyip=154.3.33.43",
+    "headers": {
+     "Host": "mianfei-73q.pages.dev"
+    }
+   }
+  },
+  {
+   "name": "CF官方优选6",
+   "server": "172.66.0.26",
+   "port": 2083,
+   "udp": true,
+   "type": "vless",
+   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mianfei-73q.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/proxyip=154.3.33.43",
+    "headers": {
+     "Host": "mianfei-73q.pages.dev"
+    }
+   }
+  },
+  {
+   "name": "CF官方优选7",
+   "server": "104.17.222.139",
+   "port": 2087,
+   "udp": true,
+   "type": "vless",
+   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mianfei-73q.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/proxyip=154.3.33.43",
+    "headers": {
+     "Host": "mianfei-73q.pages.dev"
+    }
+   }
+  },
+  {
    "name": "CF官方优选8",
-   "server": "198.41.208.28",
+   "server": "162.159.138.63",
    "port": 8443,
    "udp": true,
    "type": "vless",
@@ -137809,8 +137829,8 @@
   },
   {
    "name": "CF官方优选9",
-   "server": "104.19.46.224",
-   "port": 2096,
+   "server": "162.159.148.87",
+   "port": 2053,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -137827,8 +137847,8 @@
   },
   {
    "name": "CF官方优选10",
-   "server": "104.19.146.113",
-   "port": 8443,
+   "server": "104.16.218.103",
+   "port": 2087,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -137845,25 +137865,7 @@
   },
   {
    "name": "CF官方优选11",
-   "server": "198.41.208.84",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mianfei-73q.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/proxyip=154.3.33.43",
-    "headers": {
-     "Host": "mianfei-73q.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "CF官方优选12",
-   "server": "104.17.117.96",
+   "server": "104.18.45.70",
    "port": 8443,
    "udp": true,
    "type": "vless",
@@ -137880,9 +137882,27 @@
    }
   },
   {
+   "name": "CF官方优选12",
+   "server": "104.17.189.50",
+   "port": 2053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mianfei-73q.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/proxyip=154.3.33.43",
+    "headers": {
+     "Host": "mianfei-73q.pages.dev"
+    }
+   }
+  },
+  {
    "name": "CF官方优选13",
-   "server": "172.67.163.39",
-   "port": 2096,
+   "server": "172.66.1.75",
+   "port": 443,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -137899,7 +137919,7 @@
   },
   {
    "name": "CF官方优选14",
-   "server": "172.66.129.235",
+   "server": "172.67.70.224",
    "port": 2053,
    "udp": true,
    "type": "vless",
@@ -137917,8 +137937,8 @@
   },
   {
    "name": "CF官方优选15",
-   "server": "104.19.39.169",
-   "port": 443,
+   "server": "104.17.125.0",
+   "port": 2083,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -137935,8 +137955,8 @@
   },
   {
    "name": "CF官方优选16",
-   "server": "104.17.102.154",
-   "port": 2053,
+   "server": "172.64.159.173",
+   "port": 2096,
    "udp": true,
    "type": "vless",
    "uuid": "8666ab45-8e3d-4988-841b-2561d91e32d5",
@@ -146856,22 +146876,22 @@
     "US_BBs7-1",
     "US_BBs7-2",
     "US_BBs7-3",
-    "SG_BBs7-1",
-    "CA_BBs7",
     "GB_BBs7",
-    "GB_BBs7-1",
     "NL_BBs7-1",
     "NL_BBs7-2",
-    "DE_BBs7",
-    "FI_BBs7",
-    "DE_BBs7-1",
+    "LV_BBs7",
+    "GB_BBs7-1",
+    "FR_BBs7",
     "US_BBs7-4",
-    "DE_BBs7-2",
-    "PL_BBs7",
+    "LV_BBs7-1",
+    "US_BBs7-5",
     "GB_BBs7-2",
-    "JP_BBs7-2",
-    "DE_BBs7-3",
-    "NL_BBs7-3",
+    "US_BBs7-6",
+    "SG_BBs7-1",
+    "LV_BBs7-2",
+    "BG_BBs7",
+    "SE_BBs7",
+    "GB_BBs7-3",
     "CT_BBs7",
     "CT_BBs7-1",
     "CT_BBs7-2",
@@ -146881,21 +146901,22 @@
     "OTC提供维护官方优选_BBs7",
     "Mingyu提供维护官方优选_BBs7",
     "小一提供维护官方优选_BBs7",
-    "FI_BBs7-1",
+    "FR_BBs7-1",
+    "DE_BBs7",
+    "NL_BBs7-3",
     "NL_BBs7-4",
-    "DE_BBs7-4",
-    "SG_BBs7-2",
-    "DE_BBs7-5",
-    "FR_BBs7",
-    "DE_BBs7-6",
-    "US_BBs7-5",
     "NL_BBs7-5",
+    "US_BBs7-7",
+    "GB_BBs7-4",
+    "DE_BBs7-1",
     "NL_BBs7-6",
-    "DE_BBs7-7",
-    "DE_BBs7-8",
-    "DE_BBs7-9",
-    "FI_BBs7-2",
-    "US_BBs7-6",
+    "DE_BBs7-2",
+    "FR_BBs7-2",
+    "FI_BBs7",
+    "DE_BBs7-3",
+    "TR_BBs7",
+    "NL_BBs7-7",
+    "NL_BBs7-8",
     "CT_BBs7-6",
     "CT_BBs7-7",
     "CT_BBs7-8",

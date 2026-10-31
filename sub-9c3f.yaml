@@ -1,83 +1,20 @@
 {
  "proxies": [
   {
-   "name": "🇺🇸_美国_(95)",
-   "server": "172.66.0.172",
+   "name": "vless-1872977895",
+   "server": "nhl.com",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "e53eacb6-cd30-4964-a57c-febcb5151b98",
+   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "wallweb-4r0.pages.dev",
+   "servername": "wallweb-4ez.pages.dev",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "wallweb-4r0.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1855824400",
-   "server": "104.16.72.70",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0799a47d-d446-4a20-8e75-441fa899fbb1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "unnes.ac.id.r3xxe.eu.cc",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/id-pusat",
-    "headers": {
-     "Host": "unnes.ac.id.r3xxe.eu.cc"
-    }
-   }
-  },
-  {
-   "name": "🇷🇺_俄罗斯_(13)",
-   "server": "185.148.104.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime51.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853352984",
-   "server": "104.18.37.228",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime29.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "GB英国(mibei77.com_米贝节点分享)",
-   "server": "80.93.202.40",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime02.workers.dev"
+     "Host": "wallweb-4ez.pages.dev"
     }
    }
   },
@@ -100,8 +37,26 @@
    }
   },
   {
-   "name": "vless-1872977895",
-   "server": "nhl.com",
+   "name": "vless-1872977887",
+   "server": "gizmodo.com",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "wallweb-4ez.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "wallweb-4ez.pages.dev"
+    }
+   }
+  },
+  {
+   "name": "vless-1872977848",
+   "server": "fool.com",
    "port": 443,
    "udp": true,
    "type": "vless",
@@ -125,119 +80,50 @@
    "type": "socks5"
   },
   {
-   "name": "🇳🇱_荷兰_(29)",
-   "server": "188.164.248.110",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "13134515-adc7-404b-8d2a-f9ad99e8dcbd",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "imanvipreserved.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "imanvipreserved.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1872977848",
-   "server": "fool.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "wallweb-4ez.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "wallweb-4ez.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1883377929",
-   "server": "59.125.69.22",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "c1c04450-bf71-4049-ad0c-9cf6d94d9f1f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "tse1.mm.bing.net",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/81574b6b-c9d7-44a0-b83d-dad56e8cb530",
-    "headers": {}
-   }
-  },
-  {
-   "name": "US美国(mibei77.com_米贝节点分享)",
-   "server": "155.46.167.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime50.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1872977887",
-   "server": "gizmodo.com",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "wallweb-4ez.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "wallweb-4ez.pages.dev"
-    }
-   }
-  },
-  {
    "name": "@DeltaKroneckerGithub",
-   "server": "59.125.69.22",
+   "server": "202.50.253.27",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "美国_(17)",
+   "server": "167.82.64.120",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "c1c04450-bf71-4049-ad0c-9cf6d94d9f1f",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "tse1.mm.bing.net",
+   "type": "trojan",
+   "password": "MiTiVPN",
+   "sni": "firefox.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/81574b6b-c9d7-44a0-b83d-dad56e8cb530",
+    "path": "/",
     "headers": {
-     "Host": "tse1.mm.bing.net"
+     "Host": "mitivpn--mitivpn.ac.ir"
     }
-   }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-1",
-   "server": "202.50.253.90",
-   "port": 19999,
+   "name": "🇨🇦加拿大_32",
+   "server": "104.17.117.104",
+   "port": 443,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-2",
+   "name": "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
    "server": "202.50.253.54",
    "port": 19999,
    "udp": true,
@@ -246,193 +132,134 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "🇮🇹_IT_意大利",
-   "server": "202.50.253.45",
-   "port": 19999,
+   "name": "美国_(63)",
+   "server": "172.64.151.20",
+   "port": 443,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-3",
-   "server": "202.50.253.36",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-4",
-   "server": "202.50.253.18",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "vless-1897614103",
-   "server": "104.21.0.1",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "a6ba51de-d50a-407f-a8bb-5dc8b3073ec1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "frosty-clover-b8ea-df1f0206.pages.dev",
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/7f0776a02fac",
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_04",
+   "server": "172.64.151.23",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_33",
+   "server": "104.19.48.73",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_38",
+   "server": "104.18.189.153",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(24)",
+   "server": "167.82.64.120",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "MiTiVPN",
+   "sni": "firefox.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM",
     "headers": {
-     "Host": "frosty-clover-b8ea-df1f0206.pages.dev"
+     "Host": "mitivpn--mitivpn.ac.ir"
     }
-   }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-5",
-   "server": "202.50.253.72",
-   "port": 19999,
+   "name": "🇨🇦加拿大_31",
+   "server": "104.19.43.102",
+   "port": 443,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "🇺🇸_US美国(mibei77.com_米贝节点分享)",
-   "server": "202.50.253.45",
-   "port": 19999,
+   "name": "🇨🇦加拿大_48",
+   "server": "104.18.33.121",
+   "port": 443,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-6",
-   "server": "202.50.253.81",
-   "port": 19999,
+   "name": "🇨🇦加拿大_43",
+   "server": "172.67.74.177",
+   "port": 443,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "202.50.253.99",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-8",
-   "server": "202.50.253.54",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-9",
-   "server": "202.50.253.90",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-10",
-   "server": "202.50.253.27",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-11",
-   "server": "202.50.253.27",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-12",
-   "server": "202.50.253.99",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-13",
-   "server": "202.50.253.81",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-14",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-15",
-   "server": "202.50.253.27",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-16",
-   "server": "202.50.253.72",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-17",
-   "server": "202.50.253.36",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇮🇹_IT_意大利-1",
-   "server": "202.50.253.99",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇮🇹_IT_意大利-2",
-   "server": "202.50.253.81",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "🇳🇱NL_4_2.7MB/s",
@@ -451,37 +278,897 @@
    "tls": true
   },
   {
-   "name": "🇷🇺_俄罗斯_(5)",
-   "server": "178.236.245.59",
+   "name": "🇨🇦加拿大_30",
+   "server": "104.18.42.190",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "ca14493b-b984-4ffb-bc0e-9cb5da969e15",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "tau1.freerunet.online",
-   "reality-opts": {
-    "public-key": "l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg",
-    "short-id": "4a7b1c8d"
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
    },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "🇷🇺_俄罗斯_RUS_3",
-   "server": "201.24.121.243",
+   "name": "🇨🇦加拿大_41",
+   "server": "172.66.0.118",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "32b5ca9b-3f81-4031-965d-e8b074216e8d",
-   "tls": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
    "skip-cert-verify": true,
-   "servername": "kk-ru24a1.testkknegr.online",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "vlgrpc"
-   }
+   "tls": true
+  },
+  {
+   "name": "美国_(15)",
+   "server": "167.82.64.120",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "MiTiVPN",
+   "sni": "firefox.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
+    "headers": {
+     "Host": "mitivpn--mitivpn.ac.ir"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_28",
+   "server": "104.18.151.172",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_24",
+   "server": "104.19.53.114",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(64)",
+   "server": "104.19.212.207",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_27",
+   "server": "104.17.162.3",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_05",
+   "server": "172.64.154.144",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(42)",
+   "server": "104.17.61.37",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "172.66.0.172",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(41)",
+   "server": "104.19.46.152",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(61)",
+   "server": "104.18.72.213",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(27)",
+   "server": "104.18.35.31",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_15",
+   "server": "172.64.229.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(54)",
+   "server": "104.17.28.254",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(30)",
+   "server": "104.17.221.194",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(46)",
+   "server": "104.17.116.75",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(48)",
+   "server": "104.18.46.59",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_11",
+   "server": "104.17.148.111",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(2)_(2)",
+   "server": "162.159.149.157",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-2",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_02",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {
+     "Host": "www.cordweave.com"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "202.50.253.18",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇨🇦加拿大_44",
+   "server": "172.67.67.89",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_03",
+   "server": "104.18.41.167",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_02",
+   "server": "104.17.28.10",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_08",
+   "server": "162.159.61.183",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_34",
+   "server": "104.16.244.188",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "香港_(3)",
+   "server": "103.219.195.65",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(58)",
+   "server": "104.17.17.238",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(65)",
+   "server": "104.18.223.253",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_14",
+   "server": "172.67.89.103",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(57)",
+   "server": "198.41.216.1",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_37",
+   "server": "104.17.167.134",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(60)",
+   "server": "104.16.251.219",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_35",
+   "server": "104.17.191.193",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱NL_2_1.4MB/s",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_45",
+   "server": "104.16.240.177",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_42",
+   "server": "104.17.145.145",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(59)",
+   "server": "104.18.47.138",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_03",
+   "server": "46.174.142.238",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_20",
+   "server": "104.16.144.215",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_01",
+   "server": "172.64.149.78",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(45)",
+   "server": "172.64.52.127",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "加拿大",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(38)",
+   "server": "104.19.56.198",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_13",
+   "server": "104.27.55.4",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱荷兰_02",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_05",
+   "server": "179.255.127.45",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(47)",
+   "server": "104.17.155.44",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_06",
+   "server": "172.64.153.224",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(28)",
+   "server": "172.64.155.36",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(26)",
+   "server": "172.64.154.219",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "泰国",
+   "server": "103.224.84.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_21",
+   "server": "104.17.110.1",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "荷兰_(3)",
+   "server": "188.164.248.143",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "vless-1909177982",
@@ -499,7 +1186,7 @@
    }
   },
   {
-   "name": "vless-1910531407",
+   "name": "vless-1926741104",
    "server": "201.24.121.243",
    "port": 443,
    "udp": true,
@@ -512,6 +1199,486 @@
    "grpc-opts": {
     "grpc-service-name": "vlgrpc"
    }
+  },
+  {
+   "name": "美国_(52)",
+   "server": "104.25.60.205",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_06",
+   "server": "179.255.157.247",
+   "port": 8443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(21)",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-4",
+   "server": "202.50.253.18",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "美国_(33)",
+   "server": "38.207.177.204",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-5",
+   "server": "202.50.253.81",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇨🇦加拿大_10",
+   "server": "104.17.135.68",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_04",
+   "server": "179.255.127.82",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(44)",
+   "server": "179.255.127.200",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(9)_(2)",
+   "server": "104.18.38.127",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_17",
+   "server": "104.26.3.162",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_39",
+   "server": "104.16.65.1",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_23",
+   "server": "104.16.245.194",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇯🇵日本_03",
+   "server": "45.8.115.202",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "新加坡_(2)",
+   "server": "157.245.159.88",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-6",
+   "server": "212.113.117.172",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "2f7aeef7-6b91-48e6-a44c-304b65a0442b",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "de1.duck-proxy.com",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-7",
+   "server": "5.129.249.65",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "a5212bcb-ab85-459a-bec6-9f259eeeebfa",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "rue.tems.bet",
+   "reality-opts": {
+    "public-key": "iT-HgkPRUHl7Tm-LUWAGD-zoNoZSkVc-M9sscIIomHY",
+    "short-id": "a62228a1c8b3378f"
+   },
+   "client-fingerprint": "firefox",
+   "network": "tcp"
+  },
+  {
+   "name": "新加坡",
+   "server": "178.93.160.132",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇯🇵日本_05",
+   "server": "152.70.86.199",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(68)",
+   "server": "104.17.17.238",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_22",
+   "server": "104.17.49.122",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_46",
+   "server": "104.19.34.37",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(3)_(2)",
+   "server": "162.159.150.241",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(51)",
+   "server": "104.18.72.213",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(49)",
+   "server": "104.19.0.1",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "香港_(4)",
+   "server": "45.196.235.64",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇸🇬新加坡_05",
+   "server": "165.22.102.89",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(50)",
+   "server": "104.24.144.224",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(31)",
+   "server": "104.18.46.127",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_18",
+   "server": "104.17.119.105",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇯🇵日本_04",
+   "server": "129.225.185.49",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "vless-1909274064",
@@ -529,26 +1696,8 @@
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-18",
-   "server": "177.1.192.117",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "706bce83-91db-4260-b175-cba29145cd56",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "up7.uni-plan.com",
-   "reality-opts": {
-    "public-key": "Lt3gSdGmfQMx50yH-OOJaNBSg80vzIveaNVwUUWJwzQ",
-    "short-id": "3952a220c86628a8"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-19",
-   "server": "202.50.253.18",
+   "name": "@DeltaKroneckerGithub-8",
+   "server": "202.50.253.90",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -556,8 +1705,8 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "🇳🇱_NL_荷兰_IPV4_(2)",
-   "server": "172.67.203.46",
+   "name": "俄罗斯_(2)",
+   "server": "217.26.26.14",
    "port": 443,
    "udp": true,
    "type": "trojan",
@@ -572,7 +1721,612 @@
    "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-20",
+   "name": "美国_(32)",
+   "server": "104.17.98.29",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇫🇷法国",
+   "server": "207.180.209.128",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(69)",
+   "server": "193.134.209.165",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇷🇴罗马尼亚",
+   "server": "89.125.201.4",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇯🇵日本_02",
+   "server": "45.32.54.55",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇭瑞士",
+   "server": "83.228.199.3",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(22)",
+   "server": "78.40.209.33",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇸🇬新加坡_01",
+   "server": "168.144.41.69",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_07",
+   "server": "172.64.148.230",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_07",
+   "server": "141.98.41.20",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸美国_08",
+   "server": "199.119.137.32",
+   "port": 8443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-9",
+   "server": "95.56.251.12",
+   "port": 47443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "1fe01c8a-ab37-4e95-bbfc-95d4a608931e",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "kz1.waspnest.space",
+   "reality-opts": {
+    "public-key": "z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU",
+    "short-id": "ae97223a8f799877"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "raw"
+  },
+  {
+   "name": "🇯🇵日本_01",
+   "server": "172.237.0.160",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪德国_02",
+   "server": "212.113.99.18",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇸🇬新加坡_02",
+   "server": "172.104.185.40",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(62)",
+   "server": "162.159.45.1",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "日本_(4)",
+   "server": "212.192.221.107",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(43)",
+   "server": "179.255.136.189",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "西班牙",
+   "server": "193.17.183.48",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇷🇺_www.v2nodes.com_vless-RU-1..._2",
+   "server": "201.24.121.243",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "32b5ca9b-3f81-4031-965d-e8b074216e8d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "kk-ru24a1.testkknegr.online",
+   "network": "grpc",
+   "grpc-opts": {
+    "grpc-service-name": "vlgrpc"
+   }
+  },
+  {
+   "name": "韩国_(2)",
+   "server": "103.218.173.218",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇭🇰香港_06",
+   "server": "207.57.123.112",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-10",
+   "server": "202.50.253.72",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇨🇦加拿大_36",
+   "server": "104.18.255.167",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(8)_(2)",
+   "server": "172.67.203.46",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {
+     "Host": "www.cordweave.com"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "vless-1930024318",
+   "server": "201.24.121.243",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "32b5ca9b-3f81-4031-965d-e8b074216e8d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "kk-ru24a1.testkknegr.online",
+   "network": "grpc",
+   "grpc-opts": {
+    "grpc-service-name": "vlgrpc"
+   }
+  },
+  {
+   "name": "🇨🇦加拿大_26",
+   "server": "104.18.89.52",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇰🇿哈萨克斯坦_02",
+   "server": "109.248.170.245",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-11",
+   "server": "202.50.253.72",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇨🇦加拿大_29",
+   "server": "104.19.154.200",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪德国_07",
+   "server": "144.31.120.77",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "香港",
+   "server": "103.69.128.221",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪德国_10",
+   "server": "31.76.0.15",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇮🇹_意大利_ITA",
+   "server": "202.50.253.45",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "美国_(36)",
+   "server": "104.18.39.55",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "美国_(23)",
+   "server": "82.118.18.179",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_47",
+   "server": "104.17.145.43",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_19",
+   "server": "104.17.159.71",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "香港_(2)",
+   "server": "47.57.181.17",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇨🇦加拿大_40",
    "server": "172.66.0.172",
    "port": 443,
    "udp": true,
@@ -588,8 +2342,8 @@
    "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-21",
-   "server": "172.67.203.46",
+   "name": "🇨🇦加拿大_16",
+   "server": "162.159.128.253",
    "port": 443,
    "udp": true,
    "type": "trojan",
@@ -604,110 +2358,159 @@
    "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-22",
-   "server": "178.72.185.235",
-   "port": 40444,
+   "name": "🇫🇮芬兰",
+   "server": "83.147.254.59",
+   "port": 2053,
    "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "a1b2c3d4e5f60718"
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
    },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-23",
-   "server": "178.72.185.235",
-   "port": 40443,
+   "name": "🇩🇪德国_01",
+   "server": "202.61.198.53",
+   "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "b2c3d4e5f6071829"
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
    },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "🇳🇱_www.v2nodes.com_vless-NL-1..._3",
-   "server": "87.232.116.20",
+   "name": "@DeltaKroneckerGithub-12",
+   "server": "202.50.253.36",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "美国_(29)",
+   "server": "104.19.46.152",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇲🇾马来西亚",
+   "server": "76.13.188.13",
+   "port": 8443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-13",
+   "server": "201.24.121.243",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "d86e6fda-e519-46ab-98eb-9ff9a9da5984",
+   "uuid": "32b5ca9b-3f81-4031-965d-e8b074216e8d",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "fafeqdhlett2p5la6d.cdn.cachefleet.com",
+   "servername": "kk-ru24a1.testkknegr.online",
    "network": "grpc",
    "grpc-opts": {
-    "grpc-service-name": "67h2o3erm0t9imsj"
+    "grpc-service-name": "vlgrpc"
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-24",
-   "server": "178.72.185.235",
-   "port": 40445,
-   "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "c3d4e5f607182939"
-   },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-25",
-   "server": "46.254.19.164",
+   "name": "🇩🇪德国_04",
+   "server": "108.165.236.229",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "a5212bcb-ab85-459a-bec6-9f259eeeebfa",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "wtb.tems.bet",
-   "reality-opts": {
-    "public-key": "3qgZ9UlB-y1i9jx_zQQBgiNgFHz6fPQdP9gMMl4zXiM",
-    "short-id": "8937c9ed2d470352"
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
    },
-   "client-fingerprint": "firefox",
-   "network": "raw"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-26",
-   "server": "186.246.9.29",
+   "name": "美国_(35)",
+   "server": "46.8.124.8",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "b2847c3b-5278-4b06-9c66-bc919d2dfec7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "wordpress.com",
-   "reality-opts": {
-    "public-key": "MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA",
-    "short-id": "50ad5564"
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
    },
-   "client-fingerprint": "firefox",
-   "network": "tcp"
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
-   "name": "@DeltaKroneckerGithub-27",
+   "name": "🇮🇳印度",
+   "server": "5.253.29.83",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇹🇷土耳其",
+   "server": "213.238.182.13",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/assignment",
+    "headers": {}
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇮🇹_IT_意大利",
    "server": "202.50.253.45",
    "port": 19999,
    "udp": true,
@@ -716,151 +2519,29 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "@DeltaKroneckerGithub-28",
-   "server": "5.129.249.65",
+   "name": "@DeltaKroneckerGithub-14",
+   "server": "202.50.253.27",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "美国_(55)",
+   "server": "162.159.58.65",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "a5212bcb-ab85-459a-bec6-9f259eeeebfa",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "rue.tems.bet",
-   "reality-opts": {
-    "public-key": "iT-HgkPRUHl7Tm-LUWAGD-zoNoZSkVc-M9sscIIomHY",
-    "short-id": "a62228a1c8b3378f"
-   },
-   "client-fingerprint": "firefox",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_(47)",
-   "server": "13.143.180.104",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "a0fa7e19-70ec-41e0-b0cc-bcc984d4201a",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "s12.bsh-net.ru",
-   "reality-opts": {
-    "public-key": "QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk",
-    "short-id": "51079f144d661484"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-29",
-   "server": "178.72.185.235",
-   "port": 40446,
-   "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "d4e5f60718293a4b"
-   },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-30",
-   "server": "178.72.185.235",
-   "port": 40447,
-   "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "30fc443cf34a1471"
-   },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-31",
-   "server": "202.50.253.72",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-32",
-   "server": "178.72.185.235",
-   "port": 40448,
-   "udp": true,
-   "type": "vless",
-   "uuid": "572b3d30-3ced-4b88-9e06-4241f124cc88",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.booking.com",
-   "reality-opts": {
-    "public-key": "EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I",
-    "short-id": "09f696119a54ea3c"
-   },
-   "client-fingerprint": "qq",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇮🇹_IT_意大利-3",
-   "server": "202.50.253.90",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇮🇹_IT_意大利-4",
-   "server": "202.50.253.72",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-33",
-   "server": "140.225.208.140",
-   "port": 2083,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e3c3b722-1264-4cdc-a97c-b0a1bb73cd67",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "speedtestmark.com",
+   "type": "trojan",
+   "password": "humanity",
+   "sni": "www.cordweave.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/vless-ws",
+    "path": "/assignment",
     "headers": {}
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-34",
-   "server": "189.74.114.119",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "abd5755a-8b77-4ed4-afbd-f2ccbc08e6f5",
-   "tls": true,
+   },
    "skip-cert-verify": true,
-   "servername": "api.mediaklenov.cc",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "3e99d50d5740985d"
-   }
+   "tls": true
   }
  ],
  "proxy-groups": [
@@ -868,70 +2549,170 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "🇺🇸_美国_(95)",
-    "vless-1855824400",
-    "🇷🇺_俄罗斯_(13)",
-    "vless-1853352984",
-    "GB英国(mibei77.com_米贝节点分享)",
-    "vless-1872977853",
     "vless-1872977895",
-    "JP日本(mibei77.com_米贝节点分享)",
-    "🇳🇱_荷兰_(29)",
-    "vless-1872977848",
-    "vless-1883377929",
-    "US美国(mibei77.com_米贝节点分享)",
+    "vless-1872977853",
     "vless-1872977887",
+    "vless-1872977848",
+    "JP日本(mibei77.com_米贝节点分享)",
     "@DeltaKroneckerGithub",
+    "美国_(17)",
+    "🇨🇦加拿大_32",
+    "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
+    "美国_(63)",
+    "🇨🇦加拿大_04",
+    "🇨🇦加拿大_33",
+    "🇨🇦加拿大_38",
+    "美国_(24)",
+    "🇨🇦加拿大_31",
+    "🇨🇦加拿大_48",
+    "🇨🇦加拿大_43",
+    "🇳🇱NL_4_2.7MB/s",
+    "🇨🇦加拿大_30",
+    "🇨🇦加拿大_41",
+    "美国_(15)",
+    "🇨🇦加拿大_28",
+    "🇨🇦加拿大_24",
+    "美国_(64)",
+    "🇨🇦加拿大_27",
+    "🇨🇦加拿大_05",
+    "美国_(42)",
     "@DeltaKroneckerGithub-1",
+    "美国_(41)",
+    "美国_(61)",
+    "美国_(27)",
+    "🇨🇦加拿大_15",
+    "美国_(54)",
+    "美国_(30)",
+    "美国_(46)",
+    "美国_(48)",
+    "🇨🇦加拿大_11",
+    "美国_(2)_(2)",
     "@DeltaKroneckerGithub-2",
-    "🇮🇹_IT_意大利",
+    "🇺🇸美国_02",
     "@DeltaKroneckerGithub-3",
+    "🇨🇦加拿大_44",
+    "🇨🇦加拿大_03",
+    "🇨🇦加拿大_02",
+    "🇨🇦加拿大_08",
+    "🇨🇦加拿大_34",
+    "香港_(3)",
+    "美国_(58)",
+    "美国_(65)",
+    "🇨🇦加拿大_14",
+    "美国_(57)",
+    "🇨🇦加拿大_37",
+    "美国_(60)",
+    "🇨🇦加拿大_35",
+    "🇳🇱NL_2_1.4MB/s",
+    "🇨🇦加拿大_45",
+    "🇨🇦加拿大_42",
+    "美国_(59)",
+    "🇺🇸美国_03",
+    "🇨🇦加拿大_20",
+    "🇨🇦加拿大_01",
+    "美国_(45)",
+    "加拿大",
+    "美国_(38)",
+    "🇨🇦加拿大_13",
+    "🇳🇱荷兰_02",
+    "🇺🇸美国_05",
+    "美国_(47)",
+    "🇨🇦加拿大_06",
+    "美国_(28)",
+    "美国_(26)",
+    "泰国",
+    "🇨🇦加拿大_21",
+    "荷兰_(3)",
+    "vless-1909177982",
+    "vless-1926741104",
+    "美国_(52)",
+    "🇺🇸美国_06",
+    "美国_(21)",
     "@DeltaKroneckerGithub-4",
-    "vless-1897614103",
+    "美国_(33)",
     "@DeltaKroneckerGithub-5",
-    "🇺🇸_US美国(mibei77.com_米贝节点分享)",
+    "🇨🇦加拿大_10",
+    "🇺🇸美国_04",
+    "美国_(44)",
+    "美国_(9)_(2)",
+    "🇨🇦加拿大_17",
+    "🇨🇦加拿大_39",
+    "🇨🇦加拿大_23",
+    "🇯🇵日本_03",
+    "新加坡_(2)",
     "@DeltaKroneckerGithub-6",
     "@DeltaKroneckerGithub-7",
-    "@DeltaKroneckerGithub-8",
-    "@DeltaKroneckerGithub-9",
-    "@DeltaKroneckerGithub-10",
-    "@DeltaKroneckerGithub-11",
-    "@DeltaKroneckerGithub-12",
-    "@DeltaKroneckerGithub-13",
-    "@DeltaKroneckerGithub-14",
-    "@DeltaKroneckerGithub-15",
-    "@DeltaKroneckerGithub-16",
-    "@DeltaKroneckerGithub-17",
-    "🇮🇹_IT_意大利-1",
-    "🇮🇹_IT_意大利-2",
-    "🇳🇱NL_4_2.7MB/s",
-    "🇷🇺_俄罗斯_(5)",
-    "🇷🇺_俄罗斯_RUS_3",
-    "vless-1909177982",
-    "vless-1910531407",
+    "新加坡",
+    "🇯🇵日本_05",
+    "美国_(68)",
+    "🇨🇦加拿大_22",
+    "🇨🇦加拿大_46",
+    "美国_(3)_(2)",
+    "美国_(51)",
+    "美国_(49)",
+    "香港_(4)",
+    "🇸🇬新加坡_05",
+    "美国_(50)",
+    "美国_(31)",
+    "🇨🇦加拿大_18",
+    "🇯🇵日本_04",
     "vless-1909274064",
-    "@DeltaKroneckerGithub-18",
-    "@DeltaKroneckerGithub-19",
-    "🇳🇱_NL_荷兰_IPV4_(2)",
-    "@DeltaKroneckerGithub-20",
-    "@DeltaKroneckerGithub-21",
-    "@DeltaKroneckerGithub-22",
-    "@DeltaKroneckerGithub-23",
-    "🇳🇱_www.v2nodes.com_vless-NL-1..._3",
-    "@DeltaKroneckerGithub-24",
-    "@DeltaKroneckerGithub-25",
-    "@DeltaKroneckerGithub-26",
-    "@DeltaKroneckerGithub-27",
-    "@DeltaKroneckerGithub-28",
-    "🇺🇸_美国_(47)",
-    "@DeltaKroneckerGithub-29",
-    "@DeltaKroneckerGithub-30",
-    "@DeltaKroneckerGithub-31",
-    "@DeltaKroneckerGithub-32",
-    "🇮🇹_IT_意大利-3",
-    "🇮🇹_IT_意大利-4",
-    "@DeltaKroneckerGithub-33",
-    "@DeltaKroneckerGithub-34"
+    "@DeltaKroneckerGithub-8",
+    "俄罗斯_(2)",
+    "美国_(32)",
+    "🇫🇷法国",
+    "美国_(69)",
+    "🇷🇴罗马尼亚",
+    "🇯🇵日本_02",
+    "🇨🇭瑞士",
+    "美国_(22)",
+    "🇸🇬新加坡_01",
+    "🇨🇦加拿大_07",
+    "🇺🇸美国_07",
+    "🇺🇸美国_08",
+    "@DeltaKroneckerGithub-9",
+    "🇯🇵日本_01",
+    "🇩🇪德国_02",
+    "🇸🇬新加坡_02",
+    "美国_(62)",
+    "日本_(4)",
+    "美国_(43)",
+    "西班牙",
+    "🇷🇺_www.v2nodes.com_vless-RU-1..._2",
+    "韩国_(2)",
+    "🇭🇰香港_06",
+    "@DeltaKroneckerGithub-10",
+    "🇨🇦加拿大_36",
+    "美国_(8)_(2)",
+    "vless-1930024318",
+    "🇨🇦加拿大_26",
+    "🇰🇿哈萨克斯坦_02",
+    "@DeltaKroneckerGithub-11",
+    "🇨🇦加拿大_29",
+    "🇩🇪德国_07",
+    "香港",
+    "🇩🇪德国_10",
+    "🇮🇹_意大利_ITA",
+    "美国_(36)",
+    "美国_(23)",
+    "🇨🇦加拿大_47",
+    "🇨🇦加拿大_19",
+    "香港_(2)",
+    "🇨🇦加拿大_40",
+    "🇨🇦加拿大_16",
+    "🇫🇮芬兰",
+    "🇩🇪德国_01",
+    "@DeltaKroneckerGithub-12",
+    "美国_(29)",
+    "🇲🇾马来西亚",
+    "@DeltaKroneckerGithub-13",
+    "🇩🇪德国_04",
+    "美国_(35)",
+    "🇮🇳印度",
+    "🇹🇷土耳其",
+    "🇮🇹_IT_意大利",
+    "@DeltaKroneckerGithub-14",
+    "美国_(55)"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

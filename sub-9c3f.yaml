@@ -2,18 +2,6 @@
  "proxies": [
   {
    "name": "@DeltaKroneckerGithub",
-   "server": "sg1.zestapp778.com",
-   "port": 56984,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e9a8144e-5237-488a-afb1-9ca3d8d54c80",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "sg1.zestapp778.com",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-1",
    "server": "140.235.11.243",
    "port": 56984,
    "udp": true,
@@ -27,6 +15,24 @@
   {
    "name": "vless-1872977887",
    "server": "gizmodo.com",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "wallweb-4ez.pages.dev",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "wallweb-4ez.pages.dev"
+    }
+   }
+  },
+  {
+   "name": "vless-1872977895",
+   "server": "nhl.com",
    "port": 443,
    "udp": true,
    "type": "vless",
@@ -79,26 +85,19 @@
    }
   },
   {
-   "name": "vless-1872977895",
-   "server": "nhl.com",
+   "name": "trojan-1853338708",
+   "server": "47.250.84.25",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "e818a20d-9bcd-4744-9061-ca51b9c8aeea",
-   "tls": true,
+   "type": "trojan",
+   "password": "5931134d1cde66bf83a54acdfebe7ab2",
+   "sni": "47.250.84.25",
    "skip-cert-verify": true,
-   "servername": "wallweb-4ez.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "wallweb-4ez.pages.dev"
-    }
-   }
+   "tls": true
   },
   {
-   "name": "🇮🇹_IT_意大利",
-   "server": "202.50.253.72",
+   "name": "@DeltaKroneckerGithub-1",
+   "server": "202.50.253.54",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -115,7 +114,25 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
+   "name": "新西兰+V2CROSS.COM",
+   "server": "202.50.253.18",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
    "name": "@DeltaKroneckerGithub-3",
+   "server": "202.50.253.72",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
    "server": "202.50.253.54",
    "port": 19999,
    "udp": true,
@@ -124,16 +141,16 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "🇮🇹_IT_意大利-1",
-   "server": "202.50.253.99",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
    "name": "@DeltaKroneckerGithub-4",
+   "server": "202.50.253.36",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-5",
    "server": "202.50.253.99",
    "port": 19999,
    "udp": true,
@@ -142,40 +159,22 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "Channel_@ConfigV2RayNG",
-   "server": "wwww.qarvian.ir",
-   "port": 443,
+   "name": "@DeltaKroneckerGithub-6",
+   "server": "202.50.253.72",
+   "port": 19999,
    "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "cdn.akamai.steamstatic.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net."
-    }
-   }
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "Channel_@Daily_Configs",
-   "server": "199.232.78.160",
-   "port": 443,
+   "name": "@DeltaKroneckerGithub-7",
+   "server": "202.50.253.36",
+   "port": 19999,
    "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "firefox.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net."
-    }
-   }
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
    "name": "@ConfigV2RayNG",
@@ -196,7 +195,25 @@
    }
   },
   {
-   "name": "Channel_@ConfigV2RayNG-1",
+   "name": "Channel_@Daily_Configs",
+   "server": "146.75.59.186",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "firefox.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
+    }
+   }
+  },
+  {
+   "name": "Channel_@ConfigV2RayNG",
    "server": "199.232.78.160",
    "port": 443,
    "udp": true,
@@ -215,60 +232,24 @@
   },
   {
    "name": "@ConfigV2RayNG-1",
-   "server": "wwww.qarvian.ir",
+   "server": "146.75.59.186",
    "port": 443,
    "udp": true,
    "type": "vless",
    "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "cdn.akamai.steamstatic.com",
+   "servername": "firefox.com",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net."
+     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
     }
    }
   },
   {
    "name": "Channel_@Daily_Configs-1",
-   "server": "146.75.59.186",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "firefox.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
-    }
-   }
-  },
-  {
-   "name": "Channel_@ConfigV2RayNG-2",
-   "server": "146.75.59.186",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "firefox.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
-    }
-   }
-  },
-  {
-   "name": "Channel_@Daily_Configs-2",
    "server": "wwww.qarvian.ir",
    "port": 443,
    "udp": true,
@@ -286,7 +267,43 @@
    }
   },
   {
+   "name": "Channel_@ConfigV2RayNG-1",
+   "server": "146.75.59.186",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "firefox.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
+    }
+   }
+  },
+  {
    "name": "@ConfigV2RayNG-2",
+   "server": "wwww.qarvian.ir",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cdn.akamai.steamstatic.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net."
+    }
+   }
+  },
+  {
+   "name": "Channel_@Daily_Configs-2",
    "server": "199.232.78.160",
    "port": 443,
    "udp": true,
@@ -304,25 +321,7 @@
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-5",
-   "server": "146.75.59.186",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "firefox.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-6",
+   "name": "@DeltaKroneckerGithub-8",
    "server": "199.232.239.239",
    "port": 443,
    "udp": true,
@@ -340,43 +339,25 @@
    }
   },
   {
-   "name": "@ConfigV2RayNG-3",
-   "server": "146.75.59.186",
+   "name": "Channel_@ConfigV2RayNG-2",
+   "server": "wwww.qarvian.ir",
    "port": 443,
    "udp": true,
    "type": "vless",
    "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "firefox.com",
+   "servername": "cdn.akamai.steamstatic.com",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
+     "Host": "copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net."
     }
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "92.243.74.224",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "a52fd54b-ba4d-4d11-8e00-301e2646cd66",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de8.vpngold.ru",
-   "reality-opts": {
-    "public-key": "1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8",
-    "short-id": "385cb18df0892069"
-   },
-   "client-fingerprint": "firefox",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-8",
+   "name": "@DeltaKroneckerGithub-9",
    "server": "199.232.78.160",
    "port": 443,
    "udp": true,
@@ -394,73 +375,43 @@
    }
   },
   {
-   "name": "🇵🇱_波兰_(3)",
-   "server": "179.253.179.109",
-   "port": 63053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de2.derevohom.xyz",
-   "network": "tcp"
-  },
-  {
-   "name": "🇩🇪_德国_DEU_4",
-   "server": "199.232.239.239",
+   "name": "@DeltaKroneckerGithub-10",
+   "server": "146.75.59.186",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "40694ced-9a8c-42fd-f5f8-3ac3c8b27fc2",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
    "tls": true,
    "skip-cert-verify": true,
    "servername": "firefox.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel?ed=2056fp=chrome",
+    "path": "/",
     "headers": {
-     "Host": "mpkoe7ypcibr80p102020123.global.ssl.fastly.net"
+     "Host": "copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net."
     }
    }
   },
   {
-   "name": "@ConfigV2RayNG-4",
-   "server": "wwww.qarvian.ir",
+   "name": "@ConfigV2RayNG-3",
+   "server": "199.232.78.160",
    "port": 443,
    "udp": true,
    "type": "vless",
    "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "cdn.akamai.steamstatic.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
-    }
-   }
-  },
-  {
-   "name": "@ConfigV2RayNG-5",
-   "server": "wwww.qarvian.ir",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "cdn.akamai.steamstatic.com",
+   "servername": "firefox.com",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
+     "Host": "copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net."
     }
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-9",
+   "name": "@DeltaKroneckerGithub-11",
    "server": "5.129.249.65",
    "port": 443,
    "udp": true,
@@ -477,7 +428,7 @@
    "network": "tcp"
   },
   {
-   "name": "Channel_@Daily_Configs-3",
+   "name": "@ConfigV2RayNG-4",
    "server": "wwww.qarvian.ir",
    "port": 443,
    "udp": true,
@@ -488,67 +439,7 @@
    "servername": "cdn.akamai.steamstatic.com",
    "network": "ws",
    "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
-    }
-   }
-  },
-  {
-   "name": "🇰🇿_哈萨克斯坦",
-   "server": "95.56.251.12",
-   "port": 47443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "1fe01c8a-ab37-4e95-bbfc-95d4a608931e",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "kz1.waspnest.space",
-   "reality-opts": {
-    "public-key": "z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU",
-    "short-id": "ae97223a8f799877"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-10",
-   "server": "179.253.179.109",
-   "port": 63080,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de2.derevohom.xyz",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-11",
-   "server": "179.253.179.109",
-   "port": 30443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "fdf48546-2736-429e-a0a2-f84cd85e8969",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "194.124.211.14",
-   "network": "tcp"
-  },
-  {
-   "name": "Channel_@ConfigV2RayNG-3",
-   "server": "wwww.qarvian.ir",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "cdn.akamai.steamstatic.com",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
+    "path": "/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET",
     "headers": {
      "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
     }
@@ -573,28 +464,6 @@
    }
   },
   {
-   "name": "🇩🇪_www.v2nodes.com_vless-DE-1..._1",
-   "server": "179.253.179.109",
-   "port": 63053,
-   "udp": true,
-   "type": "vless",
-   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "de2.derevohom.xyz",
-   "network": "tcp"
-  },
-  {
-   "name": "🇺🇸_美国_USA_13",
-   "server": "217.60.73.56",
-   "port": 443,
-   "udp": true,
-   "type": "hysteria2",
-   "password": "69e41e64-a832-471a-b740-94577ca85520",
-   "sni": "forshynewh.duckdns.org",
-   "skip-cert-verify": true
-  },
-  {
    "name": "@DeltaKroneckerGithub-13",
    "server": "wwww.qarvian.ir",
    "port": 443,
@@ -613,7 +482,92 @@
    }
   },
   {
+   "name": "🇺🇸_美国_USA_13",
+   "server": "217.60.73.56",
+   "port": 443,
+   "udp": true,
+   "type": "hysteria2",
+   "password": "69e41e64-a832-471a-b740-94577ca85520",
+   "sni": "forshynewh.duckdns.org",
+   "skip-cert-verify": true
+  },
+  {
+   "name": "Channel_@ConfigV2RayNG-3",
+   "server": "wwww.qarvian.ir",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cdn.akamai.steamstatic.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
+    }
+   }
+  },
+  {
+   "name": "🇩🇪_德国_DEU_4",
+   "server": "199.232.239.239",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "40694ced-9a8c-42fd-f5f8-3ac3c8b27fc2",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "firefox.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel?ed=2056fp=chrome",
+    "headers": {
+     "Host": "mpkoe7ypcibr80p102020123.global.ssl.fastly.net"
+    }
+   }
+  },
+  {
    "name": "@DeltaKroneckerGithub-14",
+   "server": "202.50.253.72",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "Channel_@Daily_Configs-3",
+   "server": "wwww.qarvian.ir",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cdn.akamai.steamstatic.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
+    }
+   }
+  },
+  {
+   "name": "🇵🇱_波兰_(4)",
+   "server": "179.253.179.109",
+   "port": 50083,
+   "udp": true,
+   "type": "vless",
+   "uuid": "268fac1e-bb07-4d6c-8942-92fef4d7ede1",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "177.3.219.252",
+   "network": "tcp"
+  },
+  {
+   "name": "🇰🇿_哈萨克斯坦",
    "server": "95.56.251.12",
    "port": 47443,
    "udp": true,
@@ -626,21 +580,114 @@
     "public-key": "z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU",
     "short-id": "ae97223a8f799877"
    },
-   "client-fingerprint": "firefox",
+   "client-fingerprint": "chrome",
    "flow": "xtls-rprx-vision",
-   "network": "raw"
+   "network": "tcp"
+  },
+  {
+   "name": "@ConfigV2RayNG-5",
+   "server": "wwww.qarvian.ir",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cdn.akamai.steamstatic.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net."
+    }
+   }
   },
   {
    "name": "@DeltaKroneckerGithub-15",
-   "server": "202.50.253.36",
-   "port": 19999,
+   "server": "179.253.179.109",
+   "port": 57043,
    "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+   "type": "vless",
+   "uuid": "da8fab8e-4a25-4eb0-b224-88ab96c753ce",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "87.121.86.24",
+   "network": "tcp"
+  },
+  {
+   "name": "巴西+V2CROSS.COM",
+   "server": "179.253.179.109",
+   "port": 63053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "de2.derevohom.xyz",
+   "network": "tcp"
+  },
+  {
+   "name": "🇩🇪_www.v2nodes.com_vless-DE-1..._1",
+   "server": "179.253.179.109",
+   "port": 63053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "de2.derevohom.xyz",
+   "network": "tcp"
   },
   {
    "name": "@DeltaKroneckerGithub-16",
+   "server": "31.76.227.57",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "07680ffb-0666-4836-b6ad-ec0de62bc38f",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "assets-mi-26.spbstudentlife.com",
+   "reality-opts": {
+    "public-key": "cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc",
+    "short-id": "a7856800c2deb7b2"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇺🇸_美国_(21)",
+   "server": "app-mi-26.spbstudentlife.com",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "07680ffb-0666-4836-b6ad-ec0de62bc38f",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "assets-mi-26.spbstudentlife.com",
+   "reality-opts": {
+    "public-key": "cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc",
+    "short-id": "a7856800c2deb7b2"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇵🇱_波兰_(3)",
+   "server": "179.253.179.109",
+   "port": 63053,
+   "udp": true,
+   "type": "vless",
+   "uuid": "e3aa3d22-a95e-407b-aacc-d855b90a5d70",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "de2.derevohom.xyz",
+   "network": "tcp"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-17",
    "server": "179.253.179.109",
    "port": 50083,
    "udp": true,
@@ -658,47 +705,52 @@
    "type": "url-test",
    "proxies": [
     "@DeltaKroneckerGithub",
-    "@DeltaKroneckerGithub-1",
     "vless-1872977887",
+    "vless-1872977895",
     "vless-1872977848",
     "vless-1872977853",
-    "vless-1872977895",
-    "🇮🇹_IT_意大利",
+    "trojan-1853338708",
+    "@DeltaKroneckerGithub-1",
     "@DeltaKroneckerGithub-2",
+    "新西兰+V2CROSS.COM",
     "@DeltaKroneckerGithub-3",
-    "🇮🇹_IT_意大利-1",
+    "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
     "@DeltaKroneckerGithub-4",
-    "Channel_@ConfigV2RayNG",
-    "Channel_@Daily_Configs",
-    "@ConfigV2RayNG",
-    "Channel_@ConfigV2RayNG-1",
-    "@ConfigV2RayNG-1",
-    "Channel_@Daily_Configs-1",
-    "Channel_@ConfigV2RayNG-2",
-    "Channel_@Daily_Configs-2",
-    "@ConfigV2RayNG-2",
     "@DeltaKroneckerGithub-5",
     "@DeltaKroneckerGithub-6",
-    "@ConfigV2RayNG-3",
     "@DeltaKroneckerGithub-7",
+    "@ConfigV2RayNG",
+    "Channel_@Daily_Configs",
+    "Channel_@ConfigV2RayNG",
+    "@ConfigV2RayNG-1",
+    "Channel_@Daily_Configs-1",
+    "Channel_@ConfigV2RayNG-1",
+    "@ConfigV2RayNG-2",
+    "Channel_@Daily_Configs-2",
     "@DeltaKroneckerGithub-8",
-    "🇵🇱_波兰_(3)",
-    "🇩🇪_德国_DEU_4",
-    "@ConfigV2RayNG-4",
-    "@ConfigV2RayNG-5",
+    "Channel_@ConfigV2RayNG-2",
     "@DeltaKroneckerGithub-9",
-    "Channel_@Daily_Configs-3",
-    "🇰🇿_哈萨克斯坦",
     "@DeltaKroneckerGithub-10",
+    "@ConfigV2RayNG-3",
     "@DeltaKroneckerGithub-11",
-    "Channel_@ConfigV2RayNG-3",
+    "@ConfigV2RayNG-4",
     "@DeltaKroneckerGithub-12",
-    "🇩🇪_www.v2nodes.com_vless-DE-1..._1",
-    "🇺🇸_美国_USA_13",
     "@DeltaKroneckerGithub-13",
+    "🇺🇸_美国_USA_13",
+    "Channel_@ConfigV2RayNG-3",
+    "🇩🇪_德国_DEU_4",
     "@DeltaKroneckerGithub-14",
+    "Channel_@Daily_Configs-3",
+    "🇵🇱_波兰_(4)",
+    "🇰🇿_哈萨克斯坦",
+    "@ConfigV2RayNG-5",
     "@DeltaKroneckerGithub-15",
-    "@DeltaKroneckerGithub-16"
+    "巴西+V2CROSS.COM",
+    "🇩🇪_www.v2nodes.com_vless-DE-1..._1",
+    "@DeltaKroneckerGithub-16",
+    "🇺🇸_美国_(21)",
+    "🇵🇱_波兰_(3)",
+    "@DeltaKroneckerGithub-17"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

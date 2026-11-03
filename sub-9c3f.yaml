@@ -1,41 +1,359 @@
 {
  "proxies": [
   {
-   "name": "vless-1921139112",
-   "server": "104.18.0.1",
+   "name": "🇺🇸_美国_USA_7",
+   "server": "179.255.136.237",
    "port": 443,
    "udp": true,
-   "type": "vless",
-   "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "vp4.1145678.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/blogs/go/posts",
-    "headers": {
-     "Host": "vp4.1145678.xyz"
-    }
-   }
-  },
-  {
-   "name": "vless-1871753995",
-   "server": "45.131.211.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
    "network": "ws",
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "vms.lifetime06.workers.dev"
+     "Host": "api.85s.me"
     }
-   }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_15",
+   "server": "179.255.141.28",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_5",
+   "server": "179.255.115.161",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_11",
+   "server": "179.255.102.237",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_2",
+   "server": "179.253.255.7",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_13",
+   "server": "179.255.118.250",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_9",
+   "server": "104.27.0.2",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_10",
+   "server": "179.253.225.34",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_2",
+   "server": "104.27.0.3",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇸🇬_新加坡_SGP",
+   "server": "104.18.43.20",
+   "port": 2087,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_8",
+   "server": "104.24.0.4",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_6",
+   "server": "104.26.0.3",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇺🇸_美国_USA_3",
+   "server": "45.139.193.156",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD",
+   "server": "104.25.0.6",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_7",
+   "server": "104.21.0.5",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇮🇹_IT_意大利_IPV4_(7)",
+   "server": "202.50.253.99",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
+   "server": "202.50.253.54",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇭🇰_香港_HKG_2",
+   "server": "85.121.245.35",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇮🇹_IT_意大利_IPV4_(5)",
+   "server": "202.50.253.54",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇸🇬_新加坡_SGP_3",
+   "server": "172.236.139.181",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "未知_SS-07_free-nodes",
+   "server": "202.50.253.45",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇮🇹_IT_意大利_IPV4_(8)",
+   "server": "202.50.253.81",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
    "name": "@DeltaKroneckerGithub",
-   "server": "202.50.253.36",
+   "server": "202.50.253.45",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -44,16 +362,43 @@
   },
   {
    "name": "@DeltaKroneckerGithub-1",
-   "server": "202.50.253.63",
+   "server": "202.50.253.72",
    "port": 19999,
    "udp": true,
    "type": "ss",
    "cipher": "aes-256-gcm",
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇺🇸_美国_USA_12",
+   "server": "31.57.185.203",
+   "port": 53799,
+   "udp": true,
+   "type": "ss",
+   "cipher": "2022-blake3-aes-256-gcm",
+   "password": "ZV9gr1G1kn+MtegpmGMVOqXbSUwnCHtaS/8vuccEKJU=:6P/mJmwaHFp5FDdB9l04qOY4pmYKFt/bq65iOCP+oBU="
+  },
+  {
+   "name": "🇳🇱_荷兰_NLD_3",
+   "server": "104.25.0.8",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "@DeltaKroneckerGithub-2",
-   "server": "202.50.253.63",
+   "server": "202.50.253.18",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -61,7 +406,7 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "@DeltaKroneckerGithub-3",
+   "name": "🇮🇹_IT_意大利_IPV4_(2)",
    "server": "202.50.253.36",
    "port": 19999,
    "udp": true,
@@ -70,13 +415,31 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "未知_SS-01_free-nodes",
-   "server": "202.50.253.54",
+   "name": "@DeltaKroneckerGithub-3",
+   "server": "202.50.253.81",
    "port": 19999,
    "udp": true,
    "type": "ss",
    "cipher": "aes-256-gcm",
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇺🇸_美国_USA_14",
+   "server": "193.163.19.232",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
   },
   {
    "name": "@DeltaKroneckerGithub-4",
@@ -88,8 +451,35 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "🇮🇹_IT_意大利_IPV4_(4)",
+   "name": "@DeltaKroneckerGithub-5",
+   "server": "202.50.253.90",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-6",
    "server": "202.50.253.18",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-7",
+   "server": "202.50.253.81",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-8",
+   "server": "202.50.253.90",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -107,6 +497,292 @@
    "udp": true
   },
   {
+   "name": "🇯🇵_日本_JPN_4",
+   "server": "172.104.89.73",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-9",
+   "server": "202.50.253.63",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-10",
+   "server": "202.50.253.99",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-11",
+   "server": "202.50.253.99",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-12",
+   "server": "202.50.253.63",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇸🇬_新加坡_SGP_6",
+   "server": "172.104.161.198",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇷🇺_俄罗斯_(3)",
+   "server": "178.130.46.211",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "26524cce-d514-4014-a426-365fb266a14d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "t5pmr.mail-node.gfw.kdns.fr",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/danfeng?ed=2560",
+    "headers": {
+     "Host": "t5pmr.mail-node.gfw.kdns.fr"
+    }
+   }
+  },
+  {
+   "name": "@DeltaKroneckerGithub-13",
+   "server": "202.50.253.54",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-14",
+   "server": "202.50.253.27",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇩🇪_德国_DEU",
+   "server": "5.75.244.105",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇩🇪_德国_DEU_7",
+   "server": "144.31.247.190",
+   "port": 8443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "🇭🇰_香港_HKG_7",
+   "server": "172.64.229.135",
+   "port": 443,
+   "udp": true,
+   "type": "trojan",
+   "password": "8deb189a-3aed-4865-843b-b72dae954c46",
+   "sni": "api.85s.me",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "api.85s.me"
+    }
+   },
+   "skip-cert-verify": true,
+   "tls": true
+  },
+  {
+   "name": "@DeltaKroneckerGithub-15",
+   "server": "202.50.253.27",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "🇪🇪_爱沙尼亚_EST",
+   "server": "5.129.202.80",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "mirror-50.topp-con.xyz",
+   "reality-opts": {
+    "public-key": "NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8",
+    "short-id": "2ef2b10d5143d798"
+   },
+   "client-fingerprint": "firefox",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "JP日本(mibei77.com_米贝节点分享)",
+   "server": "101.36.104.239",
+   "port": 10808,
+   "udp": true,
+   "type": "socks5"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-16",
+   "server": "202.50.253.45",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-17",
+   "server": "201.51.4.89",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cache-89.topp-con.xyz",
+   "reality-opts": {
+    "public-key": "LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU",
+    "short-id": "b9120cd53ffd7bba"
+   },
+   "client-fingerprint": "ios",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
+   "name": "🇺🇸_美国_(47)",
+   "server": "146.75.57.238",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "31edfa90-bc81-4534-9066-322dbf52dcef",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "cdn.akamai.steamstatic.com",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/",
+    "headers": {
+     "Host": "azadi-gk-nasim.global.ssl.fastly.net"
+    }
+   }
+  },
+  {
+   "name": "vless-1854039478",
+   "server": "104.27.88.172",
+   "port": 80,
+   "udp": true,
+   "type": "vless",
+   "uuid": "50414e45-4c5f-5a45-5553-52108a2d5224",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/api/ws",
+    "headers": {
+     "Host": "web-app-nr6wpa.app-tp57xz.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "🇩🇪_www.v2nodes.com_vless-DE-1..._7",
+   "server": "104.27.88.172",
+   "port": 80,
+   "udp": true,
+   "type": "vless",
+   "uuid": "50414e45-4c5f-5a45-5553-52108a2d5224",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/api/ws",
+    "headers": {
+     "Host": "web-app-nr6wpa.app-tp57xz.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "vless-1868270287",
+   "server": "104.27.88.172",
+   "port": 80,
+   "udp": true,
+   "type": "vless",
+   "uuid": "50414e45-4c5f-5a45-5553-52108a2d5224",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/api/ws",
+    "headers": {
+     "Host": "web-app-nr6wpa.app-tp57xz.workers.dev"
+    }
+   }
+  },
+  {
    "name": "🇮🇹_IT_意大利_IPV4_(3)",
    "server": "202.50.253.63",
    "port": 19999,
@@ -116,120 +792,6 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "@DeltaKroneckerGithub-5",
-   "server": "202.50.253.18",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-6",
-   "server": "202.50.253.90",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇮🇹_IT_意大利_IPV4_(2)",
-   "server": "202.50.253.36",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇸🇬_新加坡_(3)",
-   "server": "85.137.51.53",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "t5pmr.mail-node.gfw.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/danfeng?ed=2560",
-    "headers": {
-     "Host": "t5pmr.mail-node.gfw.kdns.fr"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "202.50.253.90",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-8",
-   "server": "202.50.253.18",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-9",
-   "server": "5.129.202.80",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mirror-50.topp-con.xyz",
-   "reality-opts": {
-    "public-key": "NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8",
-    "short-id": "2ef2b10d5143d798"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "vless-1875021983",
-   "server": "104.19.233.159",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-5dd075c8ae9b",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-gjn19f.z0zxy6ehuwgs.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "🇷🇺_俄罗斯_(19)",
-   "server": "5.129.202.80",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "mirror-50.topp-con.xyz",
-   "reality-opts": {
-    "public-key": "NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8",
-    "short-id": "2ef2b10d5143d798"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
    "name": "🇮🇹_IT_意大利_IPV4_(6)",
    "server": "202.50.253.45",
    "port": 19999,
@@ -237,61 +799,6 @@
    "type": "ss",
    "cipher": "aes-256-gcm",
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-10",
-   "server": "202.50.253.81",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "未知_SS-09_free-nodes",
-   "server": "202.50.253.72",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-11",
-   "server": "202.50.253.72",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "伊朗+V2CROSS.COM",
-   "server": "forshynewh.duckdns.org",
-   "port": 443,
-   "udp": true,
-   "type": "hysteria2",
-   "password": "69e41e64-a832-471a-b740-94577ca85520",
-   "sni": "forshynewh.duckdns.org",
-   "skip-cert-verify": true
-  },
-  {
-   "name": "🇺🇸_美国_(24)",
-   "server": "38.207.182.119",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "26524cce-d514-4014-a426-365fb266a14d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "t5pmr.mail-node.gfw.kdns.fr",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/danfeng?ed=2560",
-    "headers": {
-     "Host": "t5pmr.mail-node.gfw.kdns.fr"
-    }
-   }
   },
   {
    "name": "🇺🇸_美国_USA",
@@ -312,102 +819,22 @@
    "network": "tcp"
   },
   {
-   "name": "@DeltaKroneckerGithub-12",
-   "server": "201.51.4.89",
-   "port": 443,
+   "name": "🇳🇱_荷兰_NLD-1",
+   "server": "195.137.226.133",
+   "port": 2083,
    "udp": true,
    "type": "vless",
-   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
+   "uuid": "7f733b1a-6c00-48ac-ae3b-cbc178a9146e",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "cache-89.topp-con.xyz",
-   "reality-opts": {
-    "public-key": "LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU",
-    "short-id": "b9120cd53ffd7bba"
-   },
-   "client-fingerprint": "ios",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "🇷🇺_俄罗斯_RUS",
-   "server": "201.51.29.153",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "7ad63b26-bf70-4872-8fab-ebaf73a1e19d",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "db-23.topp-con.xyz",
-   "reality-opts": {
-    "public-key": "Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc",
-    "short-id": "20b37477b1d93f7e"
-   },
-   "client-fingerprint": "chrome",
-   "flow": "xtls-rprx-vision",
-   "network": "tcp"
-  },
-  {
-   "name": "未知_SS-05_free-nodes",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇦🇪_AE_阿拉伯联合酋长国-_🇫🇮_FI_芬兰_IPV4_(2)",
-   "server": "217.60.73.56",
-   "port": 443,
-   "udp": true,
-   "type": "hysteria2",
-   "password": "69e41e64-a832-471a-b740-94577ca85520",
-   "sni": "forshynewh.duckdns.org",
-   "skip-cert-verify": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-13",
-   "server": "202.50.253.81",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "🇳🇱_荷兰_(17)",
-   "server": "79.182.39.236",
-   "port": 25362,
-   "udp": true,
-   "type": "vless",
-   "uuid": "36fb6650-8a50-42b5-9f66-06538806f32c",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.chip.de",
-   "reality-opts": {
-    "public-key": "hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA",
-    "short-id": "23732d14a527990d"
-   },
-   "client-fingerprint": "firefox",
-   "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-14",
-   "server": "79.182.39.75",
-   "port": 25362,
-   "udp": true,
-   "type": "vless",
-   "uuid": "36fb6650-8a50-42b5-9f66-06538806f32c",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "www.chip.de",
-   "reality-opts": {
-    "public-key": "hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA",
-    "short-id": "23732d14a527990d"
-   },
-   "client-fingerprint": "chrome",
-   "network": "tcp"
+   "servername": "nexostore.xnetaro.ir",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/wss?TELEGRAM----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1----@VPNine1",
+    "headers": {
+     "Host": "nexostore.xnetaro.ir"
+    }
+   }
   }
  ],
  "proxy-groups": [
@@ -415,40 +842,67 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "vless-1921139112",
-    "vless-1871753995",
+    "🇺🇸_美国_USA_7",
+    "🇺🇸_美国_USA_15",
+    "🇺🇸_美国_USA_5",
+    "🇺🇸_美国_USA_11",
+    "🇺🇸_美国_USA_2",
+    "🇺🇸_美国_USA_13",
+    "🇳🇱_荷兰_NLD_9",
+    "🇺🇸_美国_USA_10",
+    "🇳🇱_荷兰_NLD_2",
+    "🇸🇬_新加坡_SGP",
+    "🇳🇱_荷兰_NLD_8",
+    "🇳🇱_荷兰_NLD_6",
+    "🇺🇸_美国_USA_3",
+    "🇳🇱_荷兰_NLD",
+    "🇳🇱_荷兰_NLD_7",
+    "🇮🇹_IT_意大利_IPV4_(7)",
+    "🇮🇹_www.v2nodes.com_ss-IT-1602..._1",
+    "🇭🇰_香港_HKG_2",
+    "🇮🇹_IT_意大利_IPV4_(5)",
+    "🇸🇬_新加坡_SGP_3",
+    "未知_SS-07_free-nodes",
+    "🇮🇹_IT_意大利_IPV4_(8)",
     "@DeltaKroneckerGithub",
     "@DeltaKroneckerGithub-1",
+    "🇺🇸_美国_USA_12",
+    "🇳🇱_荷兰_NLD_3",
     "@DeltaKroneckerGithub-2",
+    "🇮🇹_IT_意大利_IPV4_(2)",
     "@DeltaKroneckerGithub-3",
-    "未知_SS-01_free-nodes",
+    "🇺🇸_美国_USA_14",
     "@DeltaKroneckerGithub-4",
-    "🇮🇹_IT_意大利_IPV4_(4)",
-    "🔵@chillguy_vpn",
-    "🇮🇹_IT_意大利_IPV4_(3)",
     "@DeltaKroneckerGithub-5",
     "@DeltaKroneckerGithub-6",
-    "🇮🇹_IT_意大利_IPV4_(2)",
-    "🇸🇬_新加坡_(3)",
     "@DeltaKroneckerGithub-7",
     "@DeltaKroneckerGithub-8",
+    "🔵@chillguy_vpn",
+    "🇯🇵_日本_JPN_4",
     "@DeltaKroneckerGithub-9",
-    "vless-1875021983",
-    "🇷🇺_俄罗斯_(19)",
-    "🇮🇹_IT_意大利_IPV4_(6)",
     "@DeltaKroneckerGithub-10",
-    "未知_SS-09_free-nodes",
     "@DeltaKroneckerGithub-11",
-    "伊朗+V2CROSS.COM",
-    "🇺🇸_美国_(24)",
-    "🇺🇸_美国_USA",
     "@DeltaKroneckerGithub-12",
-    "🇷🇺_俄罗斯_RUS",
-    "未知_SS-05_free-nodes",
-    "🇦🇪_AE_阿拉伯联合酋长国-_🇫🇮_FI_芬兰_IPV4_(2)",
+    "🇸🇬_新加坡_SGP_6",
+    "🇷🇺_俄罗斯_(3)",
     "@DeltaKroneckerGithub-13",
-    "🇳🇱_荷兰_(17)",
-    "@DeltaKroneckerGithub-14"
+    "@DeltaKroneckerGithub-14",
+    "🇩🇪_德国_DEU",
+    "🇩🇪_德国_DEU_7",
+    "🇭🇰_香港_HKG_7",
+    "@DeltaKroneckerGithub-15",
+    "🇪🇪_爱沙尼亚_EST",
+    "JP日本(mibei77.com_米贝节点分享)",
+    "@DeltaKroneckerGithub-16",
+    "@DeltaKroneckerGithub-17",
+    "🇺🇸_美国_(47)",
+    "vless-1854039478",
+    "🇩🇪_www.v2nodes.com_vless-DE-1..._7",
+    "vless-1868270287",
+    "🇮🇹_IT_意大利_IPV4_(3)",
+    "🇮🇹_IT_意大利_IPV4_(6)",
+    "🇺🇸_美国_USA",
+    "🇳🇱_荷兰_NLD-1"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

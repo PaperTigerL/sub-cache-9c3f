@@ -1,8 +1,26 @@
 {
  "proxies": [
   {
+   "name": "🇸🇬_新加坡_(2)",
+   "server": "43.163.112.174",
+   "port": 443,
+   "udp": true,
+   "type": "vless",
+   "uuid": "0dedd47d-47b9-4ed1-9c9f-cbeecad57a68",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "www.cloudflare.com",
+   "reality-opts": {
+    "public-key": "mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg",
+    "short-id": "0123456789abcdef"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
+  },
+  {
    "name": "@DeltaKroneckerGithub",
-   "server": "202.50.253.36",
+   "server": "202.50.253.63",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -12,24 +30,6 @@
   {
    "name": "@DeltaKroneckerGithub-1",
    "server": "202.50.253.63",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-2",
-   "server": "202.50.253.63",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-3",
-   "server": "202.50.253.36",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -66,7 +66,14 @@
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-4",
+   "name": "JP日本(mibei77.com_米贝节点分享)",
+   "server": "101.36.104.239",
+   "port": 10808,
+   "udp": true,
+   "type": "socks5"
+  },
+  {
+   "name": "@DeltaKroneckerGithub-2",
    "server": "87.232.88.27",
    "port": 443,
    "udp": true,
@@ -86,7 +93,7 @@
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-5",
+   "name": "@DeltaKroneckerGithub-3",
    "server": "147.45.245.17",
    "port": 443,
    "udp": true,
@@ -102,24 +109,6 @@
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
    "network": "tcp"
-  },
-  {
-   "name": "@DeltaKroneckerGithub-6",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   }
  ],
  "proxy-groups": [
@@ -127,16 +116,14 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
+    "🇸🇬_新加坡_(2)",
     "@DeltaKroneckerGithub",
     "@DeltaKroneckerGithub-1",
-    "@DeltaKroneckerGithub-2",
-    "@DeltaKroneckerGithub-3",
     "🇺🇸_US美国(mibei77.com_米贝节点分享)",
     "🇳🇱_NL_荷兰-_🇺🇸_US_美国_IPV4",
-    "@DeltaKroneckerGithub-4",
-    "@DeltaKroneckerGithub-5",
-    "@DeltaKroneckerGithub-6",
-    "@DeltaKroneckerGithub-7"
+    "JP日本(mibei77.com_米贝节点分享)",
+    "@DeltaKroneckerGithub-2",
+    "@DeltaKroneckerGithub-3"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,

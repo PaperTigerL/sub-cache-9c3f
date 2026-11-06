@@ -1,40 +1,7 @@
 {
  "proxies": [
   {
-   "name": "vless-1883548499",
-   "server": "173.245.49.50",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "?ed=2560",
-    "headers": {
-     "Host": "vms.lifetime36.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1827975282",
-   "server": "172.66.44.124",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/9BozNyvQ8VdRvsYX?ed=2560",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1828372479",
+   "name": "vless-1853353038",
    "server": "185.176.26.50",
    "port": 8880,
    "udp": true,
@@ -49,8 +16,41 @@
    }
   },
   {
-   "name": "vless-1853997146",
-   "server": "159.246.55.30",
+   "name": "vless-1863730675",
+   "server": "45.131.211.30",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?ed=2560",
+    "headers": {
+     "Host": "vms.lifetime06.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "vless-1853982238",
+   "server": "172.67.208.235",
+   "port": 2096,
+   "udp": true,
+   "type": "vless",
+   "uuid": "b9ede7a5-5b4b-4aee-ac37-2c307e587e47",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "courses.mftplus.qzz.io",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0= ",
+    "headers": {
+     "Host": "courses.mftplus.qzz.io"
+    }
+   }
+  },
+  {
+   "name": "vless-1856152511",
+   "server": "88.216.69.30",
    "port": 8880,
    "udp": true,
    "type": "vless",
@@ -59,7 +59,7 @@
    "ws-opts": {
     "path": "/",
     "headers": {
-     "Host": "vms.lifetime59.workers.dev"
+     "Host": "vms.lifetime06.workers.dev"
     }
    }
   },
@@ -79,185 +79,17 @@
    }
   },
   {
-   "name": "vless-1853353038",
-   "server": "185.176.26.50",
+   "name": "vless-1871753995",
+   "server": "45.131.211.30",
    "port": 8880,
    "udp": true,
    "type": "vless",
    "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
    "network": "ws",
    "ws-opts": {
-    "path": "/?ed=2560",
+    "path": "/",
     "headers": {
      "Host": "vms.lifetime06.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1831105898",
-   "server": "173.245.49.50",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2560",
-    "headers": {
-     "Host": "vms.lifetime36.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853352984",
-   "server": "104.18.37.228",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime29.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1855844044",
-   "server": "104.20.28.74",
-   "port": 8080,
-   "udp": true,
-   "type": "vless",
-   "uuid": "f8f5d3a5-54bd-4f52-9759-137bdbf950db",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "23g-lively-resonance-96b9hsf.msc633k2.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1855787281",
-   "server": "172.66.44.124",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/9BozNyvQ8VdRvsYX?ed=2560",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853992639",
-   "server": "172.66.44.124",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1882984010",
-   "server": "172.66.44.124",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1869338609",
-   "server": "172.66.47.132",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/KOStF9fnx9sJgNib?ed=2560",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1827154086",
-   "server": "172.66.44.124",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2f2f9f2-1864-48ea-839b-22815faff1f1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853352938",
-   "server": "45.131.4.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime59.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1855824400",
-   "server": "104.16.72.70",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "0799a47d-d446-4a20-8e75-441fa899fbb1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "unnes.ac.id.r3xxe.eu.cc",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/id-pusat",
-    "headers": {
-     "Host": "unnes.ac.id.r3xxe.eu.cc"
     }
    }
   },
@@ -271,6 +103,21 @@
    "network": "ws",
    "ws-opts": {
     "path": "/",
+    "headers": {
+     "Host": "vms.lifetime06.workers.dev"
+    }
+   }
+  },
+  {
+   "name": "vless-1828372479",
+   "server": "185.176.26.50",
+   "port": 8880,
+   "udp": true,
+   "type": "vless",
+   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
+   "network": "ws",
+   "ws-opts": {
+    "path": "/?ed=2560",
     "headers": {
      "Host": "vms.lifetime06.workers.dev"
     }
@@ -292,131 +139,29 @@
    }
   },
   {
-   "name": "vless-1831122872",
-   "server": "45.131.4.30",
-   "port": 8880,
+   "name": "新西兰+V2CROSS.COM",
+   "server": "202.50.253.90",
+   "port": 19999,
    "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime59.workers.dev"
-    }
-   }
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "vless-1897614103",
-   "server": "104.21.0.1",
-   "port": 8443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "a6ba51de-d50a-407f-a8bb-5dc8b3073ec1",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "frosty-clover-b8ea-df1f0206.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/7f0776a02fac",
-    "headers": {
-     "Host": "frosty-clover-b8ea-df1f0206.pages.dev"
-    }
-   }
-  },
-  {
-   "name": "🇺🇸_美国_(54)",
-   "server": "162.120.94.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime07.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1871334418",
-   "server": "45.131.4.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime59.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853977904",
-   "server": "172.64.152.52",
+   "name": "@DeltaKroneckerGithub",
+   "server": "104.17.108.213",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "2d4b819d-6fa6-4db2-8434-61e7db0fe93c",
+   "uuid": "fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "cf.zhahui.de5.net",
+   "servername": "vpn.cintaku.qzz.io",
    "network": "ws",
    "ws-opts": {
-    "path": "/ ",
+    "path": "/vlessws",
     "headers": {
-     "Host": "cf.zhahui.de5.net"
-    }
-   }
-  },
-  {
-   "name": "vless-1831096349",
-   "server": "159.246.55.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime59.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1856152511",
-   "server": "88.216.69.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime06.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1863455484",
-   "server": "104.17.169.13",
-   "port": 443,
-   "udp": true,
-   "type": "vless",
-   "uuid": "4e4f1f70-5e56-4a76-bb9d-db087f4690c4",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "jp3.yohototo.top",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/tyxyws",
-    "headers": {
-     "Host": "jp3.yohototo.top"
+     "Host": "vpn.cintaku.qzz.io"
     }
    }
   },
@@ -430,57 +175,8 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "新西兰+V2CROSS.COM",
-   "server": "202.50.253.90",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "vless-1871753995",
-   "server": "45.131.211.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {
-     "Host": "vms.lifetime06.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "新西兰+V2CROSS.COM-1",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "JP日本(mibei77.com_米贝节点分享)",
-   "server": "101.36.104.239",
-   "port": 10808,
-   "udp": true,
-   "type": "socks5"
-  },
-  {
-   "name": "@DeltaKroneckerGithub",
-   "server": "202.50.253.45",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
    "name": "@DeltaKroneckerGithub-1",
-   "server": "202.50.253.63",
+   "server": "202.50.253.90",
    "port": 19999,
    "udp": true,
    "type": "ss",
@@ -498,15 +194,6 @@
   },
   {
    "name": "@DeltaKroneckerGithub-3",
-   "server": "202.50.253.63",
-   "port": 19999,
-   "udp": true,
-   "type": "ss",
-   "cipher": "aes-256-gcm",
-   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
-  },
-  {
-   "name": "@DeltaKroneckerGithub-4",
    "server": "202.50.253.45",
    "port": 19999,
    "udp": true,
@@ -515,13 +202,46 @@
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
   },
   {
-   "name": "@DeltaKroneckerGithub-5",
-   "server": "202.50.253.90",
+   "name": "@DeltaKroneckerGithub-4",
+   "server": "202.50.253.63",
    "port": 19999,
    "udp": true,
    "type": "ss",
    "cipher": "aes-256-gcm",
    "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-5",
+   "server": "202.50.253.45",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-6",
+   "server": "202.50.253.63",
+   "port": 19999,
+   "udp": true,
+   "type": "ss",
+   "cipher": "aes-256-gcm",
+   "password": "ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4="
+  },
+  {
+   "name": "@DeltaKroneckerGithub-7",
+   "server": "138.124.86.230",
+   "port": 48115,
+   "udp": true,
+   "type": "vless",
+   "uuid": "b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b",
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "138-124-86-230.sslip.io",
+   "network": "grpc",
+   "grpc-opts": {
+    "grpc-service-name": "138-124-86-230-sslip-io"
+   }
   },
   {
    "name": "🇸🇪_瑞典_SWE",
@@ -539,254 +259,25 @@
    }
   },
   {
-   "name": "@DeltaKroneckerGithub-6",
-   "server": "138.124.86.230",
-   "port": 48115,
-   "udp": true,
-   "type": "vless",
-   "uuid": "b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "138-124-86-230.sslip.io",
-   "network": "grpc",
-   "grpc-opts": {
-    "grpc-service-name": "138-124-86-230-sslip-io"
-   }
-  },
-  {
-   "name": "vless-1827520235",
-   "server": "104.25.199.149",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-5dd075c8ae9b",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-gjn19f.z0zxy6ehuwgs.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1879462289",
-   "server": "104.27.124.133",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1878493351",
-   "server": "104.27.110.37",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853991585",
-   "server": "104.21.73.135",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1875021983",
-   "server": "104.19.233.159",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-5dd075c8ae9b",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-gjn19f.z0zxy6ehuwgs.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853992865",
-   "server": "172.67.145.14",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1856980084",
-   "server": "104.27.110.37",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1831081768",
-   "server": "104.27.124.133",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1831075760",
-   "server": "104.19.233.159",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-5dd075c8ae9b",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-gjn19f.z0zxy6ehuwgs.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1863730675",
-   "server": "45.131.211.30",
-   "port": 8880,
-   "udp": true,
-   "type": "vless",
-   "uuid": "6202b230-417c-4d8e-b624-0f71afa9c75d",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/?ed=2560",
-    "headers": {
-     "Host": "vms.lifetime06.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "@DeltaKroneckerGithub-7",
-   "server": "198.105.123.224",
+   "name": "@DeltaKroneckerGithub-8",
+   "server": "178.22.31.72",
    "port": 443,
    "udp": true,
    "type": "vless",
    "uuid": "db80088c-32a1-4cb8-a907-0f3cb7844152",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "tr1.japancase.site",
+   "servername": "at1.japancase.site",
    "reality-opts": {
     "public-key": "zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg",
     "short-id": "41ae8e266bc3346f"
    },
    "client-fingerprint": "firefox",
    "flow": "xtls-rprx-vision",
-   "network": "tcp"
+   "network": "raw"
   },
   {
-   "name": "vless-1831102419",
-   "server": "172.67.145.14",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1872130996",
-   "server": "104.27.110.37",
-   "port": 80,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-7bac159e3b40",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/api/ws",
-    "headers": {
-     "Host": "web-app-ji3j1z.app-wuuhuw.workers.dev"
-    }
-   }
-  },
-  {
-   "name": "vless-1853978687",
-   "server": "104.21.74.214",
-   "port": 2087,
-   "udp": true,
-   "type": "vless",
-   "uuid": "50414e45-4c5f-5a45-5553-6f51879c0594",
-   "tls": true,
-   "skip-cert-verify": true,
-   "servername": "levikoconfig.levikogjgfdd.ir",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/ ",
-    "headers": {
-     "Host": "levikoconfig.levikogjgfdd.ir"
-    }
-   }
-  },
-  {
-   "name": "🇧🇿_伯利兹",
-   "server": "121.127.33.130",
-   "port": 443,
-   "udp": true,
-   "type": "trojan",
-   "password": "f426d3c9-fb43-43c0-868b-898dfa451a74",
-   "sni": "likejennie.pages.dev",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/",
-    "headers": {}
-   },
-   "skip-cert-verify": true,
-   "tls": true
-  },
-  {
-   "name": "@DeltaKroneckerGithub-8",
+   "name": "@DeltaKroneckerGithub-9",
    "server": "connect2.accessgate.link",
    "port": 2086,
    "udp": true,
@@ -804,22 +295,35 @@
    "network": "tcp"
   },
   {
-   "name": "vless-1882486959",
-   "server": "saas.sin.fan",
+   "name": "@DeltaKroneckerGithub-10",
+   "type": "vmess",
+   "server": "151.241.19.44",
+   "port": 1270,
+   "uuid": "5c040f1d-45db-43bd-8d46-e4950e433735",
+   "alterId": 0,
+   "cipher": "auto",
+   "udp": true,
+   "tls": true,
+   "skip-cert-verify": true,
+   "servername": "xmfhlpy.com"
+  },
+  {
+   "name": "🇸🇬_新加坡_(2)",
+   "server": "43.163.112.174",
    "port": 443,
    "udp": true,
    "type": "vless",
-   "uuid": "5d7b401c-78fa-4254-872e-6d42bf7e75ec",
+   "uuid": "0dedd47d-47b9-4ed1-9c9f-cbeecad57a68",
    "tls": true,
    "skip-cert-verify": true,
-   "servername": "vp5.1145678.xyz",
-   "network": "ws",
-   "ws-opts": {
-    "path": "/games/season/video/TkZDG0RVE1kPREsSEQ8YEEBHSEpZUwhIFF4WRBIIFUkVRQQQRhNYEFASC0FbR1ZETQ9cXUZAQ1laV0cXFBJEXFZQB1cAA1RQAUpYElFeVhQDWV0SQwEWQlpGWRoNA1ceAhk=",
-    "headers": {
-     "Host": "vp5.1145678.xyz"
-    }
-   }
+   "servername": "www.cloudflare.com",
+   "reality-opts": {
+    "public-key": "mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg",
+    "short-id": "0123456789abcdef"
+   },
+   "client-fingerprint": "chrome",
+   "flow": "xtls-rprx-vision",
+   "network": "tcp"
   }
  ],
  "proxy-groups": [
@@ -827,62 +331,30 @@
    "name": "自动选择",
    "type": "url-test",
    "proxies": [
-    "vless-1883548499",
-    "vless-1827975282",
-    "vless-1828372479",
-    "vless-1853997146",
-    "vless-1831075012",
     "vless-1853353038",
-    "vless-1831105898",
-    "vless-1853352984",
-    "vless-1855844044",
-    "vless-1855787281",
-    "vless-1853992639",
-    "vless-1882984010",
-    "vless-1869338609",
-    "vless-1827154086",
-    "vless-1853352938",
-    "vless-1855824400",
-    "vless-1863486783",
-    "vless-1853353060",
-    "vless-1831122872",
-    "vless-1897614103",
-    "🇺🇸_美国_(54)",
-    "vless-1871334418",
-    "vless-1853977904",
-    "vless-1831096349",
+    "vless-1863730675",
+    "vless-1853982238",
     "vless-1856152511",
-    "vless-1863455484",
-    "🇳🇿_新西兰_V2CROSS.COM",
-    "新西兰+V2CROSS.COM",
+    "vless-1831075012",
     "vless-1871753995",
-    "新西兰+V2CROSS.COM-1",
-    "JP日本(mibei77.com_米贝节点分享)",
+    "vless-1863486783",
+    "vless-1828372479",
+    "vless-1853353060",
+    "新西兰+V2CROSS.COM",
     "@DeltaKroneckerGithub",
+    "🇳🇿_新西兰_V2CROSS.COM",
     "@DeltaKroneckerGithub-1",
     "@DeltaKroneckerGithub-2",
     "@DeltaKroneckerGithub-3",
     "@DeltaKroneckerGithub-4",
     "@DeltaKroneckerGithub-5",
-    "🇸🇪_瑞典_SWE",
     "@DeltaKroneckerGithub-6",
-    "vless-1827520235",
-    "vless-1879462289",
-    "vless-1878493351",
-    "vless-1853991585",
-    "vless-1875021983",
-    "vless-1853992865",
-    "vless-1856980084",
-    "vless-1831081768",
-    "vless-1831075760",
-    "vless-1863730675",
     "@DeltaKroneckerGithub-7",
-    "vless-1831102419",
-    "vless-1872130996",
-    "vless-1853978687",
-    "🇧🇿_伯利兹",
+    "🇸🇪_瑞典_SWE",
     "@DeltaKroneckerGithub-8",
-    "vless-1882486959"
+    "@DeltaKroneckerGithub-9",
+    "@DeltaKroneckerGithub-10",
+    "🇸🇬_新加坡_(2)"
    ],
    "url": "https://www.gstatic.com/generate_204",
    "interval": 120,
